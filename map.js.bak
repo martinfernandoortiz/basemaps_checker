@@ -1,0 +1,49 @@
+ // Aquí puedes agregar el resto de tu código JavaScript
+
+        // URLs de las capas
+        let arg = "https://wms.ign.gob.ar/geoserver/gwc/service/tms/1.0.0/capabaseargenmap@EPSG%3A3857@png/{z}/{x}/{-y}.png";
+        let gri = "https://wms.ign.gob.ar/geoserver/gwc/service/tms/1.0.0/mapabase_gris@EPSG%3A3857@png/{z}/{x}/{-y}.png";
+        let osc = "https://wms.ign.gob.ar/geoserver/gwc/service/tms/1.0.0/capabaseargenmap@EPSG%3A3857@png/{z}/{x}/{-y}.png";
+        let top = "https://wms.ign.gob.ar/geoserver/gwc/service/tms/1.0.0/mapabase_topo@EPSG%3A3857@png/{z}/{x}/{-y}.png";
+        let hib = "https://wms.ign.gob.ar/geoserver/gwc/service/tms/1.0.0/mapabase_hibrido@EPSG%3A3857@png/{z}/{x}/{-y}.png";
+      
+
+
+	  let map = L.map("map", {
+            center: [-34.61, -58.38],
+            zoom: 10,
+        });
+
+        let ign = L.tileLayer(
+            "https://wms.ign.gob.ar/geoserver/gwc/service/tms/1.0.0/capabaseargenmap@EPSG%3A3857@png/{z}/{x}/{y}.png",
+            {
+                ext: "jpg",
+                attribution: '<a href="http://leafletjs.com" title="A JS library for interactive maps"></a> <a href="http://www.ign.gob.ar/AreaServicios/Argenmap/IntroduccionV2" target="_blank">Instituto Geográfico Nacional</a> + <a href="http://www.osm.org/copyright" target="_blank">OpenStreetMap</a>',
+                minZoom: 2,
+                maxZoom: 18,
+            }
+        ).addTo(map);
+
+        let arcgis = L.tileLayer(
+            "https://wms.ign.gob.ar/geoserver/gwc/service/tms/1.0.0/mapabase_gris@EPSG%3A3857@png/{z}/{x}/{-y}.png",
+            { ext: "jpg" }
+        ).addTo(map);
+
+     
+
+        // Creamos un control que agrega una pantalla dividida
+        L.control.sideBySide(ign, arcgis).addTo(map);
+
+   
+/*
+       function increment(base) {
+    // Elimina todas las capas anteriores del mapa
+    map.eachLayer(function (layer) {
+        if (layer instanceof L.TileLayer) {
+            map.removeLayer(layer);
+        }
+    });
+
+    // Agrega la nueva capa al mapa
+    L.tileLayer(base).addTo(map);
+}*/
