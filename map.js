@@ -13,10 +13,8 @@ let urls = {
 
 var tileLayer1 = L.tileLayer(urls.goo);
 var tileLayer2 = L.tileLayer(urls.hib);
-var layerGroup =  L.layerGroup[tileLayer1, tileLayer2];
-
-
-
+var layerGroup =  L.layerGroup([tileLayer1, tileLayer2]);
+console.log(layerGroup)
 
 
 let map = L.map("map", {
@@ -31,6 +29,7 @@ let ign = L.tileLayer(urls.arg, {
 	minZoom: 2,
 	maxZoom: 18,
 }).addTo(map);
+console.log(ign)
 
 let arcgis = L.tileLayer(
 	"https://wms.ign.gob.ar/geoserver/gwc/service/tms/1.0.0/mapabase_gris@EPSG%3A3857@png/{z}/{x}/{-y}.png",
@@ -57,23 +56,19 @@ addButton.addEventListener("click", function() {
 	increment('cus');
 });
 
+//funcion de los botones de argenmap
 function increment(base) {
 	ign.setUrl(urls[base]);
 };
 
+
+// funcion para el hibrido
 function hibrid() {
 	// Elimina la capa 'ign' si ya está en el mapa
-	map.eachLayer(function (layer) {
-		if (layer instanceof L.TileLayer && layer === ign) {
-			map.removeLayer(layer);
-		}
-	});
+	ign.setUrl(urls[goo]);
+	ign.L.tileLayer(urls.hib).addTo(map);
+	};
 
-	// Añade el LayerGroup al mapa solo si 'ign' no está presente
-	if (!map.hasLayer(ign)) {
-		ign.addTo(map);
-	}
-}
 
 
 // Para modificar el estilo del cuadro de texto input
@@ -88,6 +83,7 @@ function handleClick(element) {
 }
 
 //  Lista de elementos
+
 var miDropdown = document.getElementById("miDropdown");
 var botonMostrar = document.getElementById("addButton_ext");
 
