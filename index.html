@@ -8,8 +8,6 @@
     <link rel="icon" type="image/png" href="imagenesI/icon_pestana.jpg">
     <link href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.css" />
-    <link rel="stylesheet" href="Control.Geocoder.css">
     <link rel="stylesheet" href="Plugins/Leaflet.zoomdisplay-master/dist/leaflet.zoomdisplay.css" />
     <style>
         /* Estilos para los botones del menú izquierdo */
@@ -79,15 +77,19 @@
      <button class="menu-button" onclick="increment('osc')">Arg Oscuro</button>
      <button class="menu-button" onclick="increment('top')">Arg Topográfico</button>
      <button class="menu-button" onclick="hibrid()">Arg Híbrido</button>
+
      <div id="left-input">
-     <input type="text" id="miInput" name="miInput" value="Ingrese otra url para agregar su mapa base" onfocus="handleFocus(this)">
+     <input type="text" id="miInput" name="miInput" value="Ingrese otra url para agregar su mapa base" onfocus="handleClick(this)">
      <button class="add-map" id="addButton">add</button>
+
+
+     
     </div>
 
     <select id="miDropdown" name="miDropdown">
-        <option value="osm">Google</option>
-        <option value="sta">Stamen Terrain</option>
-        <option value="osm">OSM</option>
+        <option value="goog">Google</option>
+        <option value="stam">Stamen Terrain</option>
+        <option value="osma">OSM</option>
     </select>
     <button class="add-map" id="addButton_ext">add</button>
 
@@ -95,21 +97,12 @@
     </div>
 
 
-
-
-    <!-- Menú derecho -->
-     <!--   <div id="right-menu">
-        <button class="menu-button" onclick="increment(arg)">Capa Argentina</button>
-        <button class="menu-button" onclick="increment(osc)">Capa Oscura</button>
-    </div>-->
-
     <!-- Mapa -->
     <div id="map"></div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
     <script src="leaflet-side-by-side.js" type="text/javascript"></script>
-    <script src="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js"></script>
-    <script src="Control.Geocoder.js" type="text/javascript"></script>
+
     <script type="text/javascript" src="Plugins/Leaflet.zoomdisplay-master/dist/leaflet.zoomdisplay-src.js"></script>
     <script src="map.js"></script>
 

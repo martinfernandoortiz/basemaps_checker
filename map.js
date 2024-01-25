@@ -1,20 +1,14 @@
-
 let urls = {
-	arg: "https://wms.ign.gob.ar/geoserver/gwc/service/tms/1.0.0/capabaseargenmap@EPSG%3A3857@png/{z}/{x}/{-y}.png",
-	gri: "https://wms.ign.gob.ar/geoserver/gwc/service/tms/1.0.0/mapabase_gris@EPSG%3A3857@png/{z}/{x}/{-y}.png",
-	osc: "https://wms.ign.gob.ar/geoserver/gwc/service/tms/1.0.0/argenmap_oscuro@EPSG%3A3857@png/{z}/{x}/{-y}.png",
-	top: "https://wms.ign.gob.ar/geoserver/gwc/service/tms/1.0.0/mapabase_topo@EPSG%3A3857@png/{z}/{x}/{-y}.png",
-	hib: "https://wms.ign.gob.ar/geoserver/gwc/service/tms/1.0.0/mapabase_hibrido@EPSG%3A3857@png/{z}/{x}/{-y}.png",
-	cus:"",
-	osm:"https://tile.openstreetmap.org/{z}/{x}/{y}.png",
-	goo:"https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}"
+    arg: "https://wms.ign.gob.ar/geoserver/gwc/service/tms/1.0.0/capabaseargenmap@EPSG%3A3857@png/{z}/{x}/{-y}.png",
+    gri: "https://wms.ign.gob.ar/geoserver/gwc/service/tms/1.0.0/mapabase_gris@EPSG%3A3857@png/{z}/{x}/{-y}.png",
+    osc: "https://wms.ign.gob.ar/geoserver/gwc/service/tms/1.0.0/argenmap_oscuro@EPSG%3A3857@png/{z}/{x}/{-y}.png",
+    top: "https://wms.ign.gob.ar/geoserver/gwc/service/tms/1.0.0/mapabase_topo@EPSG%3A3857@png/{z}/{x}/{-y}.png",
+    hib: "https://wms.ign.gob.ar/geoserver/gwc/service/tms/1.0.0/mapabase_hibrido@EPSG%3A3857@png/{z}/{x}/{-y}.png",
+    cus: "",
+	sta: "http://a.tile.stamen.com/terrain/{z}/{x}/{y}.png",
+    osm: "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+    goo: "https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}"
 };
-
-
-var tileLayer1 = L.tileLayer(urls.goo);
-var tileLayer2 = L.tileLayer(urls.hib);
-var layerGroup =  L.layerGroup([tileLayer1, tileLayer2]);
-console.log(layerGroup)
 
 
 let map = L.map("map", {
@@ -29,22 +23,102 @@ let ign = L.tileLayer(urls.arg, {
 	minZoom: 2,
 	maxZoom: 18,
 }).addTo(map);
-console.log(ign)
 
-let arcgis = L.tileLayer(
-	"https://wms.ign.gob.ar/geoserver/gwc/service/tms/1.0.0/mapabase_gris@EPSG%3A3857@png/{z}/{x}/{-y}.png",
-	{ ext: "jpg" }
-).addTo(map);
+
+
+let arcgis = L.tileLayer(urls.gri).addTo(map);
+
 
 
 
 // Creamos un control que agrega una pantalla dividida
-L.control.sideBySide(ign, arcgis).addTo(map);
+let sideBySideControl = L.control.sideBySide(ign, arcgis).addTo(map);
 
 
 
+
+////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////
+
+/*Funcion de los botones de agregar mapas base. Hasta ahora hay 2 : para los mapas comunes y para el hibrido.
+Cada uno de estos primero borra el layer del mapa y despues agrega uno.*/
+
+////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////
+
+
+/*
+// Esta es una forma mas simple pero el tema del hibrido la caga
+function increment(base) {
+ign.setUrl(urls[base]); 
+};
+
+*/
+
+		function increment(base) {
+			let currentLeftLayers = sideBySideControl._leftLayers; // Accedemos al array directamente
+
+			// Remover todas las capas izquierdas
+			currentLeftLayers.forEach(layer => map.removeLayer(layer));
+			sideBySideControl._leftLayers = []; // Limpiar el array de capas izquierdas
+			let basemap = L.tileLayer(urls[base]).addTo(map);
+		
+			// Agregar la capa ign (o cualquier otra acción que desees realizar)
+			sideBySideControl.setLeftLayers(basemap);
+			console.log("Agrego os...");
+		};
+
+
+
+
+function hibrid() {
+    console.log("Incrementing...");
+    // Obtén las capas izquierdas actuales del control sideBySide
+    let currentLeftLayers = sideBySideControl._leftLayers; // Accedemos al array directamente
+
+    // Remover todas las capas izquierdas
+    currentLeftLayers.forEach(layer => map.removeLayer(layer));
+    sideBySideControl._leftLayers = []; // Limpiar el array de capas izquierdas
+    let osc = L.tileLayer(urls.goo).addTo(map);
+    let hib = L.tileLayer(urls.hib).addTo(map);
+
+    // Agregar la capa ign (o cualquier otra acción que desees realizar)
+    sideBySideControl.setLeftLayers(hib);
+    console.log("Agrego os...");
+
+};
+
+/*
+////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////
+
+// Funciones para el input
+1- Botones para agregar
+2 - Para modificar el estilo del cuadro de texto input
+
+
+////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////
+*/
 
 // Codigo para agregar la url personalizada
+// 
+
+function handleClick(element) {
+	// Limpiar el valor y cambiar el color cuando el campo de entrada es clicado
+	if (element.value == "Ingrese otra url para agregar su mapa base") {
+		element.value = "";
+		element.style.color = "black"; // Cambiar el color del texto
+		// Puedes agregar más estilos según sea necesario
+	}
+}
+
+
+
 
 var input = document.getElementById("miInput");
 var addButton = document.getElementById("addButton");
@@ -56,33 +130,20 @@ addButton.addEventListener("click", function() {
 	increment('cus');
 });
 
-//funcion de los botones de argenmap
-function increment(base) {
-	ign.setUrl(urls[base]);
-};
+/*
+////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////
+
+// Lista de elementos
 
 
-// funcion para el hibrido
-function hibrid() {
-	// Elimina la capa 'ign' si ya está en el mapa
-	ign.setUrl(urls[goo]);
-	ign.L.tileLayer(urls.hib).addTo(map);
-	};
+////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////
+*/
 
 
-
-// Para modificar el estilo del cuadro de texto input
-
-function handleClick(element) {
-	// Limpiar el valor y cambiar el color cuando el campo de entrada es clicado
-	if (element.value === "Ingrese otra url para agregar su mapa base") {
-		element.value = "";
-		element.style.color = "black"; // Cambiar el color del texto
-		// Puedes agregar más estilos según sea necesario
-	}
-}
-
-//  Lista de elementos
 
 var miDropdown = document.getElementById("miDropdown");
 var botonMostrar = document.getElementById("addButton_ext");
@@ -94,15 +155,14 @@ botonMostrar.addEventListener("click", function() {
 
 	// Ejecutar acciones basadas en la opción seleccionada
 	switch (opcionSeleccionadaValor) {
-		case "osm":
-		// Lógica para la opción OpenStreetMap
-		urls.osm = "https://tile.openstreetmap.org/{z}/{x}/{y}.png";
+		case "osma":
 		increment('osm');
 		break;
-		case "sta":
-		// Lógica para la opción 2
-		increment('urls.goo');
+		case "stam":
+		increment('sta');
 		break;
-		// Agrega más casos según sea necesario
-	}
+		case "goog":
+		increment('goo');
+		break
+		}
 });
