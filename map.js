@@ -26,14 +26,13 @@ let ign = L.tileLayer(urls.arg, {
 
 
 
-let arcgis = L.tileLayer(urls.gri).addTo(map);
+var arcgis = L.tileLayer(urls.gri).addTo(map);
 
 
 
 
 // Creamos un control que agrega una pantalla dividida
 let sideBySideControl = L.control.sideBySide(ign, arcgis).addTo(map);
-
 
 
 
@@ -63,6 +62,7 @@ ign.setUrl(urls[base]);
 			// Remover todas las capas izquierdas
 			currentLeftLayers.forEach(layer => map.removeLayer(layer));
 			sideBySideControl._leftLayers = []; // Limpiar el array de capas izquierdas
+
 			let basemap = L.tileLayer(urls[base]).addTo(map);
 		
 			// Agregar la capa ign (o cualquier otra acción que desees realizar)
@@ -81,14 +81,29 @@ function hibrid() {
     // Remover todas las capas izquierdas
     currentLeftLayers.forEach(layer => map.removeLayer(layer));
     sideBySideControl._leftLayers = []; // Limpiar el array de capas izquierdas
-    let osc = L.tileLayer(urls.goo).addTo(map);
+    let goo = L.tileLayer(urls.goo).addTo(map);
+
+ 
     let hib = L.tileLayer(urls.hib).addTo(map);
+
+	let currentRightLayers = sideBySideControl._rightLayers; // Accedemos al array directamente
+	currentRightLayers.forEach(layer => map.removeLayer(layer));
+    sideBySideControl._rightLayers = []; // Limpiar el array de capas izquierdas
+     
+	let newRight = arcgis
 
     // Agregar la capa ign (o cualquier otra acción que desees realizar)
     sideBySideControl.setLeftLayers(hib);
-    console.log("Agrego os...");
+	sideBySideControl.setRightLayers(newRight);
+
+    console.log("HIBRIDO CARGADO");
 
 };
+
+function inhalo() {
+	console.log("INHALO")
+	console.log("EXHALO")
+}
 
 /*
 ////////////////////////////////////////////////////////////////////////////////////
@@ -166,3 +181,68 @@ botonMostrar.addEventListener("click", function() {
 		break
 		}
 });
+
+
+
+
+dragElement(document.getElementById("movibleDiv"));
+
+// Función para hacer un elemento arrastrable
+function dragElement(elmnt) {
+	var pos1 = 0, pos2 = 0, pos3 = 0, pos4 = 0;
+	if (document.getElementById(elmnt.id + " header")) {
+		// Si existe el header, el header es donde puedes hacer clic para mover el div
+		document.getElementById(elmnt.id + " header").onmousedown = dragMouseDown;
+	} else {
+		// Si no existe un header, mueve el div desde cualquier lugar dentro del div
+		elmnt.onmousedown = dragMouseDown;
+	}
+
+	function dragMouseDown(e) {
+		e = e || window.event;
+		e.preventDefault();
+		// Obtén la posición inicial del mouse
+		pos3 = e.clientX;
+		pos4 = e.clientY;
+		document.onmouseup = closeDragElement;
+		// Llama a una función cada vez que se mueve el mouse
+		document.onmousemove = elementDrag;
+	}
+
+	function elementDrag(e) {
+		e = e || window.event;
+		e.preventDefault();
+		// Calcula la nueva posición del mouse
+		pos1 = pos3 - e.clientX;
+		pos2 = pos4 - e.clientY;
+		pos3 = e.clientX;
+		pos4 = e.clientY;
+		// Establece el nuevo offset del elemento
+		elmnt.style.top = (elmnt.offsetTop - pos2) + "px";
+		elmnt.style.left = (elmnt.offsetLeft - pos1) + "px";
+	}
+
+	function closeDragElement() {
+		// Detiene el movimiento cuando se suelta el mouse
+		document.onmouseup = null;
+		document.onmousemove = null;
+	}
+}
+document.getElementById('left-menu').classList.add('minimized');
+
+function toggleMenu() {
+	var leftMenu = document.getElementById('left-menu');
+	var header = document.getElementById('headerDiv');
+
+	if (leftMenu.classList.contains('maximized')) {
+		leftMenu.classList.remove('maximized');
+		leftMenu.classList.add('minimized');
+		header.style.height = '20px';
+
+	} else {
+		leftMenu.classList.remove('minimized');
+		leftMenu.classList.add('maximized');
+		header.style.height = 'auto';
+
+	}
+}

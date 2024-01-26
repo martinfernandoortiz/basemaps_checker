@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="ie=edge" http-equiv="X-UA-Compatible">
+    <title>Comparativo</title>
+    <link rel="icon" type="image/png" href="imagenesI/icon_pestana.jpg">
+    <link href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" rel="stylesheet">
+    <link rel="stylesheet" href="style_front.css">
+    <link rel="stylesheet" href="Plugins/Leaflet.zoomdisplay-master/dist/leaflet.zoomdisplay.css" />
+
+</head>
+<!-- <header onclick="toggleMovible()" id="headerDiv" onmousedown="startDrag(event)" ondblclick="resetPosition()" >Menu</header> -->
+
+<body>
+<!---------------------------------------- IZQUIERDA---------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-->
+    <div id="movibleDivLeft">
+        <header id="headerDiv"  onclick="toggleMovible('movibleDivLeft')" >Menu</header>
+        <div class="content">
+            <!-- Botones replicados 5 veces -->
+        </div>
+        <div id="arg_gris" class="buttonRow text-center" onclick="toggleAndChange('arg_comu','arg')">
+                <a class="rainbow rainbow-1">Argenmap<a/>
+
+            </div>
+            <div id="arg_gris" class="buttonRow text-center" onclick="toggleAndChange('arg_comu','gri')">
+                <a class="rainbow rainbow-1">Argenmap Gris<a/>
+            </div>
+
+            <div id="arg_osc" class="buttonRow text-center" onclick="toggleAndChange('arg_osc', 'osc')">
+                <a class="rainbow rainbow-1">Argenmap Oscuro<a/>
+            </div>
+            <div id="arg_topo" class="buttonRow text-center" onclick="toggleAndChange('arg_topo','top')">
+                <a class="rainbow rainbow-1">Argenmap Topo<a/>
+            </div>
+
+            <div id="arg_hib" class="buttonRow text-center" onclick="toggleAndhib('arg_hib','hib')">
+                <a class="rainbow rainbow-1">Argenmap Híbrido<a/>
+            </div>
+            <div id="arg_hes" class="buttonRow text-center" onclick="toggleAndhib('arg_hes','hib')">
+                <a class="rainbow rainbow-1">Híbrido + Esri<a/>
+            </div>
+            <div id="arg_hgo" class="buttonRow text-center" onclick="toggleAndhib('arg_hgo','hib')">
+                <a class="rainbow rainbow-1">Híbrido + Google<a/>
+            </div>
+    
+    
+            <!-- Menú desplegable y botón "add" -->
+            <select id="dropdownMenu_left">
+                <option value="google_sat">Google Satellite</option>
+                <option value="google_hib">Google Hibrido</option>
+                <option value="esri_sat">ESRI Satellite</option>
+            </select>
+            <button onclick="addButton()">Add</button>
+    
+            <!-- Input y botón -->
+            <input type="text" id="inputField" placeholder="Ingrese texto">
+            <button onclick="submitForm()">Enviar</button>
+        </div>
+    </div>
+
+
+<!---------------------------------------- DERECHA---------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-->
+<div id="movibleDivRight">
+    <header id="headerDiv_right"  onclick="toggleMovible('movibleDivRight')" >Menu</header>
+    <div class="content">
+        <!-- Botones replicados 5 veces -->
+        <div id="arg_comu_right" class="buttonRow text-center" onclick="toggleAndChange_right('arg_comu_right','arg')">
+            <a class="rainbow rainbow-1">Argenmap<a/>
+        </div>
+        <div id="arg_gris_right" class="buttonRow text-center" onclick="toggleAndChange_right('arg_comu_right','gri')">
+            <a class="rainbow rainbow-1">Argenmap Gris<a/>
+        </div>
+
+        <div id="arg_osc_right" class="buttonRow text-center" onclick="toggleAndChange_right('arg_comu_right','osc')">
+            <a class="rainbow rainbow-1">Argenmap Oscuro<a/>
+        </div>
+        <div id="arg_topo_right" class="buttonRow text-center" onclick="toggleAndChange_right('arg_comu_right','top')">
+            <a class="rainbow rainbow-1">Argenmap Topo<a/>
+        </div>
+
+        <div id="arg_hib_right" class="buttonRow text-center" onclick="toggleAndChange_right('arg_comu_right','hib')">
+            <a class="rainbow rainbow-1">Argenmap Híbrido<a/>
+        </div>
+        <div id="arg_hes_right" class="buttonRow text-center" onclick="toggleAndChange_right('arg_comu_right','hib')">
+            <a class="rainbow rainbow-1">Híbrido + Esri<a/>
+        </div>
+        <div id="arg_hgo_right" class="buttonRow text-center" onclick="toggleAndChange_right('arg_comu_right','hib')">
+            <a class="rainbow rainbow-1">Híbrido + Google<a/>
+        </div>
+
+
+        <!-- Menú desplegable y botón "add" -->
+        <select id="dropdownMenu_right">
+            <option value="google_sat">Google Satellite</option>
+            <option value="google_hib">Google Hibrido</option>
+            <option value="esri_sat">ESRI Satellite</option>
+        </select>
+        <button onclick="addButton_right()">Add</button>
+
+        <!-- Input y botón -->
+        <input type="text" id="inputField_right" placeholder="Ingrese texto">
+        <button onclick="submitForm()">Enviar</button>
+    </div>
+</div>
+
+
+
+
+
+
+
+    
+        <!-- Mapa -->
+        <div id="map"></div>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
+        <script src="leaflet-side-by-side.js" type="text/javascript"></script>
+        <script type="text/javascript" src="Plugins/Leaflet.zoomdisplay-master/dist/leaflet.zoomdisplay-src.js"></script>
+         <script src="map_front.js"></script>
+    </body>
+    </html>

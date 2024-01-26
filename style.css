@@ -1,25 +1,70 @@
-#map {
-    width: 100%;
-    height: 950px;
-    box-shadow: 5px 5px 5px black ;
-}
 
 /*-----------Control de Leyenda y Título------------------*/
-.legend {
-    padding: 6px 8px;
-    font: 14px/16px Arial, Helvetica, sans-serif;
-    background: white;
-    background: rgba(255,255,255,0.8);
-    box-shadow: 0 0 15px rgba(0,0,0,1);
-    border-radius: 5px;
+body {
+    margin: 0;
+    overflow: hidden;
 }
-.legend h4 {
-    margin: 0 0 5px;
-    color: #555;
-    text-align: center;
+
+#movibleDiv {
+    position: absolute;
+    background-color: #f1f1f1;
+    border: 1px solid #d3d3d3;
+    border-radius: 10px;
+    padding: 10px;
+    cursor: move;
+    bottom: 0;
+    left: 0;
+    z-index: 2;
+    transition: height 0.3s ease; /* Agregamos una transición para la animación suave del cambio de altura */
 }
-.legend h5{
-    margin: 0 0 5px;
-    line-height: 18px;
-    color: #777;
+
+#movibleDiv.minimized {
+    height: 20px; /* Altura predeterminada minimizada */
+}
+
+#movibleDiv.minimized header {
+    height: 20px; /* Ajustar también la altura del header cuando está minimizado */
+}
+
+#movibleDiv header {
+    padding: 5px;
+    background-color: #2196F3;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+#movibleDiv header:hover {
+    background-color: #0b7dda;
+}
+
+#left-menu {
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 8px;
+    margin-top: 10px;
+    transition: all 0.3s ease;
+    width: 150px;
+    height: 500px; /* Altura predeterminada maximizada */
+    overflow: hidden;
+}
+
+#left-menu.minimized {
+    height: 20px; /* Altura del menú minimizado */
+    overflow: hidden;
+}
+
+#left-menu.minimized .menu-button,
+#left-menu.minimized #left-input,
+#left-menu.minimized select {
+    display: none;
+}
+
+#map {
+    width: calc(100% - 20px);
+    height: calc(100% - 20px);
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 1;
 }
