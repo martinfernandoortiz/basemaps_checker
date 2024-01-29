@@ -7,8 +7,7 @@ let urls = {
     cus: "",
     osm: "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
     goo: "https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}",
-    hig: ["https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}",
-        "https://wms.ign.gob.ar/geoserver/gwc/service/tms/1.0.0/mapabase_hibrido@EPSG%3A3857@png/{z}/{x}/{-y}.png"]
+    esr: "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"
 };
 
 let map = L.map("map", {
@@ -23,8 +22,12 @@ let left = L.tileLayer(urls.osm, {
     minZoom: 2,
     maxZoom: 18,
 }).addTo(map);
+var izq = left
+
+
 
 var right = L.tileLayer(urls.gri).addTo(map);
+var der = right
 
 // Creamos un control que agrega una pantalla dividida
 let sideBySideControl = L.control.sideBySide(left, right).addTo(map);
@@ -50,15 +53,15 @@ let sideBySideControl = L.control.sideBySide(left, right).addTo(map);
 
 
 
-function addButton() {
+/*function addButton() {
     // Lógica para agregar botones
     console.log('Botón agregado');
-}
+}*/
 
-function submitForm() {
+/*function submitForm() {
     // Lógica para enviar el formulario
     console.log('Formulario enviado');
-}
+}*/
 
 function updateContentVisibility(id) {
     var movible = document.getElementById(id);
@@ -107,87 +110,103 @@ ign.setUrl(urls[base]);
 
 */
 
-function increment(base) {
+
+
+
+function increment_left(base) {
     let currentLeftLayers = sideBySideControl._leftLayers; // Accedemos al array directamente
-
-    // Remover todas las capas izquierdas
-    currentLeftLayers.forEach(layer => map.removeLayer(layer));
+    console.log(sideBySideControl._leftLayers)
+    console.log(izq)
+    currentLeftLayers.forEach(layer => map.removeLayer(layer));    // Remover todas las capas izquierdas
     sideBySideControl._leftLayers = []; // Limpiar el array de capas izquierdas
-
     let basemap = L.tileLayer(urls[base]).addTo(map);
-
-    // Agregar la capa ign (o cualquier otra acción que desees realizar)
-    sideBySideControl.setLeftLayers(basemap);
-    console.log("Agrego os...");
+    sideBySideControl.setLeftLayers(basemap);    // Agregar la capa ign (o cualquier otra acción que desees realizar)
+    izq = basemap
 };
+
+function increment_left_hib(base) {
+ 
+    let basemap = L.tileLayer(urls[base]).addTo(map);
+    sideBySideControl.setLeftLayers(basemap);    // Agregar la capa ign (o cualquier otra acción que desees realizar)
+    izq = basemap
+};
+/*
+function hibrid_left(base) {
+    let currentLeftLayers = sideBySideControl._leftLayers; // Accedemos al array directamente
+    currentLeftLayers.forEach(layer => map.removeLayer(layer));    // Remover todas las capas izquierdas
+    sideBySideControl._leftLayers = []; // Limpiar el array de capas izquierdas
+    
+    let mat =L.tileLayer(urls[base]).addTo(map);
+    let basemap = L.tileLayer(urls.hib).addTo(map);
+    
+    sideBySideControl.setLeftLayers(basemap);      
+    izq = basemap
+
+    console.log("Set Left");
+
+    let currentRightLayers = sideBySideControl._rightLayers; // Accedemos al array directamente
+    currentRightLayers.forEach(layer => map.removeLayer(layer));    // Remover todas las capas izquierdas
+    sideBySideControl._rightLayers = []; // Limpiar el array de capas izquierdas
+    let basemap_ = der.addTo(map);
+    sideBySideControl.setRightLayers(basemap_);
+};*/
 
 
 function increment_right(base) {
     let currentRightLayers = sideBySideControl._rightLayers; // Accedemos al array directamente
+    currentRightLayers.forEach(layer => map.removeLayer(layer));    // Remover todas las capas izquierdas
+    sideBySideControl._rightLayers = []; // Limpiar el array de capas izquierdas
+    let basemap = L.tileLayer(urls[base]).addTo(map);
+    sideBySideControl.setRightLayers(basemap);    // Agregar la capa ign (o cualquier otra acción que desees realizar)
+    der = basemap
+};
 
-    // Remover todas las capas izquierdas
-    currentRightLayers.forEach(layer => map.removeLayer(layer));
+function increment_right_hib(base) {
+ 
+    let basemap = L.tileLayer(urls[base]).addTo(map);
+    sideBySideControl.setRightLayers(basemap);    // Agregar la capa ign (o cualquier otra acción que desees realizar)
+    der = basemap
+};
+/*
+function hibrid_right(base) {
+    let currentRightLayers = sideBySideControl._rightLayers; // Accedemos al array directamente
+    currentRightLayers.forEach(layer => map.removeLayer(layer));    // Remover todas las capas izquierdas
     sideBySideControl._rightLayers = []; // Limpiar el array de capas izquierdas
 
-    let basemap = L.tileLayer(urls[base]).addTo(map);
+    let mat =L.tileLayer(urls[base]).addTo(map);
+    let basemap = L.tileLayer(urls.hib).addTo(map);
 
-    // Agregar la capa ign (o cualquier otra acción que desees realizar)
-    sideBySideControl.setRightLayers(basemap);
-    console.log("Agrego os...");
-};
+    sideBySideControl.setRightLayers(basemap);      
+    der = basemap
 
-
-
-
-
-
-function hibrid() {
-console.log("Incrementing...");
-// Obtén las capas izquierdas actuales del control sideBySide
-let currentLeftLayers = sideBySideControl._leftLayers; // Accedemos al array directamente
-
-// Remover todas las capas izquierdas
-currentLeftLayers.forEach(layer => map.removeLayer(layer));
-sideBySideControl._leftLayers = []; // Limpiar el array de capas izquierdas
-let goo = L.tileLayer(urls.goo).addTo(map);
+    console.log("Set Right");
+    let currentLeftLayers = sideBySideControl._leftLayers; // Accedemos al array directamente
+    currentLeftLayers.forEach(layer => map.removeLayer(layer));    // Remover todas las capas izquierdas
+    sideBySideControl._leftLayers = []; // Limpiar el array de capas izquierdas
+    let basemap_ = izq.addTo(map);
+    sideBySideControl.setLeftLayers(basemap_);
+};*/
 
 
-let hib = L.tileLayer(urls.hib).addTo(map);
-
-let currentRightLayers = sideBySideControl._rightLayers; // Accedemos al array directamente
-currentRightLayers.forEach(layer => map.removeLayer(layer));
-sideBySideControl._rightLayers = []; // Limpiar el array de capas izquierdas
-
-let newRight = arcgis
-
-// Agregar la capa ign (o cualquier otra acción que desees realizar)
-sideBySideControl.setLeftLayers(hib);
-sideBySideControl.setRightLayers(newRight);
-
-console.log("HIBRIDO CARGADO");
-
-};
-
-function inhalo() {
-console.log("INHALO")
-console.log("EXHALO")
-}
-
-
-function toggleAndChange(id,map) {
+function toggleAndChange_izq(id,map) {
     toggleButton(id);
-    increment(map);
+    increment_left(map);
 }
 
 
-function toggleAndhib(id,map) {
+function toggleAndhib_izq(id,map) {
     toggleButton(id);
-    hibrid(map);
+    increment_left_hib(map);
 }
 
-function toggleAndChange_right(id,map) {
+function toggleAndChange_der(id,map) {
     toggleButton(id);
     increment_right(map);
+}
+
+function toggleAndhib_der(id,map) {
+    toggleButton(id);
+    increment_right_hib(map);
 }
 
 /*

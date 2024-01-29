@@ -24,34 +24,34 @@
         <div class="content">
             <!-- Botones replicados 5 veces -->
         </div>
-        <div id="arg_gris" class="buttonRow text-center" onclick="toggleAndChange('arg_comu','arg')">
+        <div id="arg_comu" class="buttonRow text-center" onclick="toggleAndChange_izq('arg_comu','arg')">
                 <a class="rainbow rainbow-1">Argenmap<a/>
 
             </div>
-            <div id="arg_gris" class="buttonRow text-center" onclick="toggleAndChange('arg_comu','gri')">
+            <div id="arg_gris" class="buttonRow text-center" onclick="toggleAndChange_izq('arg_comu','gri')">
                 <a class="rainbow rainbow-1">Argenmap Gris<a/>
             </div>
 
-            <div id="arg_osc" class="buttonRow text-center" onclick="toggleAndChange('arg_osc', 'osc')">
+            <div id="arg_osc" class="buttonRow text-center" onclick="toggleAndChange_izq('arg_osc', 'osc')">
                 <a class="rainbow rainbow-1">Argenmap Oscuro<a/>
             </div>
-            <div id="arg_topo" class="buttonRow text-center" onclick="toggleAndChange('arg_topo','top')">
+            <div id="arg_topo" class="buttonRow text-center" onclick="toggleAndChange_izq('arg_topo','top')">
                 <a class="rainbow rainbow-1">Argenmap Topo<a/>
             </div>
 
-            <div id="arg_hib" class="buttonRow text-center" onclick="toggleAndhib('arg_hib','hib')">
+            <div id="arg_hib" class="buttonRow text-center" onclick="toggleAndhib_izq('arg_hib','hib')">
                 <a class="rainbow rainbow-1">Argenmap Híbrido<a/>
             </div>
-            <div id="arg_hes" class="buttonRow text-center" onclick="toggleAndhib('arg_hes','hib')">
+            <div id="arg_hes" class="buttonRow text-center" onclick="toggleAndChange_izq('arg_hes','esr')">
                 <a class="rainbow rainbow-1">Híbrido + Esri<a/>
             </div>
-            <div id="arg_hgo" class="buttonRow text-center" onclick="toggleAndhib('arg_hgo','hib')">
+            <div id="arg_hgo" class="buttonRow text-center" onclick="toggleAndChange_izq('arg_hgo','goo')">
                 <a class="rainbow rainbow-1">Híbrido + Google<a/>
             </div>
     
     
             <!-- Menú desplegable y botón "add" -->
-            <select id="dropdownMenu_left">
+            <select id="dropdownMenu_left" class="buttonRow inputField">
                 <option value="google_sat">Google Satellite</option>
                 <option value="google_hib">Google Hibrido</option>
                 <option value="esri_sat">ESRI Satellite</option>
@@ -59,8 +59,8 @@
             <button onclick="addButton()">Add</button>
     
             <!-- Input y botón -->
-            <input type="text" id="inputField" placeholder="Ingrese texto">
-            <button onclick="submitForm()">Enviar</button>
+            <input type="text" id="inputField" class="inputField" placeholder="Ingrese texto">
+            <button onclick="submitForm()">Ok</button>
         </div>
     </div>
 
@@ -74,33 +74,33 @@
     <header id="headerDiv_right"  onclick="toggleMovible('movibleDivRight')" >Menu</header>
     <div class="content">
         <!-- Botones replicados 5 veces -->
-        <div id="arg_comu_right" class="buttonRow text-center" onclick="toggleAndChange_right('arg_comu_right','arg')">
+        <div id="arg_comu_right" class="buttonRow text-center" onclick="toggleAndChange_der('arg_comu_right','arg')">
             <a class="rainbow rainbow-1">Argenmap<a/>
         </div>
-        <div id="arg_gris_right" class="buttonRow text-center" onclick="toggleAndChange_right('arg_comu_right','gri')">
+        <div id="arg_gris_right" class="buttonRow text-center" onclick="toggleAndChange_der('arg_gris_right','gri')">
             <a class="rainbow rainbow-1">Argenmap Gris<a/>
         </div>
 
-        <div id="arg_osc_right" class="buttonRow text-center" onclick="toggleAndChange_right('arg_comu_right','osc')">
+        <div id="arg_osc_right" class="buttonRow text-center" onclick="toggleAndChange_der('arg_comu_right','osc')">
             <a class="rainbow rainbow-1">Argenmap Oscuro<a/>
         </div>
-        <div id="arg_topo_right" class="buttonRow text-center" onclick="toggleAndChange_right('arg_comu_right','top')">
+        <div id="arg_topo_right" class="buttonRow text-center" onclick="toggleAndChange_der('arg_comu_right','top')">
             <a class="rainbow rainbow-1">Argenmap Topo<a/>
         </div>
 
-        <div id="arg_hib_right" class="buttonRow text-center" onclick="toggleAndChange_right('arg_comu_right','hib')">
+        <div id="arg_hib_right" class="buttonRow text-center" onclick="toggleAndhib_der('arg_comu_right','hib')">
             <a class="rainbow rainbow-1">Argenmap Híbrido<a/>
         </div>
-        <div id="arg_hes_right" class="buttonRow text-center" onclick="toggleAndChange_right('arg_comu_right','hib')">
+        <div id="arg_hes_right" class="buttonRow text-center" onclick="toggleAndChange_der('arg_comu_right','esr')">
             <a class="rainbow rainbow-1">Híbrido + Esri<a/>
         </div>
-        <div id="arg_hgo_right" class="buttonRow text-center" onclick="toggleAndChange_right('arg_comu_right','hib')">
+        <div id="arg_hgo_right" class="buttonRow text-center" onclick="toggleAndChange_der('arg_comu_right','goo')">
             <a class="rainbow rainbow-1">Híbrido + Google<a/>
         </div>
 
 
         <!-- Menú desplegable y botón "add" -->
-        <select id="dropdownMenu_right">
+        <select id="dropdownMenu_right" class="buttonRow inputField">
             <option value="google_sat">Google Satellite</option>
             <option value="google_hib">Google Hibrido</option>
             <option value="esri_sat">ESRI Satellite</option>
@@ -108,12 +108,10 @@
         <button onclick="addButton_right()">Add</button>
 
         <!-- Input y botón -->
-        <input type="text" id="inputField_right" placeholder="Ingrese texto">
+        <input type="text" id="inputField_right" class="inputField" placeholder="Ingrese texto">
         <button onclick="submitForm()">Enviar</button>
     </div>
 </div>
-
-
 
 
 
