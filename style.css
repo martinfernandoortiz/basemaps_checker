@@ -1,70 +1,175 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,600,700');
 
-/*-----------Control de Leyenda y Título------------------*/
 body {
     margin: 0;
     overflow: hidden;
+    font-family: 'Nunito', sans-serif;
+
 }
 
-#movibleDiv {
+
+  .content {
+    padding: 10px;
+    visibility: visible;
+    transition: all 0.3s ease; /* Añadir transición suave para animación */
+    margin: 0;
+    padding: 0;
+}
+
+
+#movibleDivLeft {
     position: absolute;
     background-color: #f1f1f1;
     border: 1px solid #d3d3d3;
     border-radius: 10px;
-    padding: 10px;
     cursor: move;
-    bottom: 0;
-    left: 0;
+    bottom: 10px;
+    left: 1%;
     z-index: 2;
-    transition: height 0.3s ease; /* Agregamos una transición para la animación suave del cambio de altura */
+    width: 200px; /* Ancho predeterminado minimizado */
+    height: 15px; /* Altura predeterminada minimizada */
+    transition: all 0.3s ease; /* Transición suave para animación */
+    padding: 2px ;
 }
 
-#movibleDiv.minimized {
-    height: 20px; /* Altura predeterminada minimizada */
+#movibleDivLeft.maximized {
+    width: 200px; /* Ancho máximo */
+    height: 400px; /* Altura máxima */
 }
 
-#movibleDiv.minimized header {
-    height: 20px; /* Ajustar también la altura del header cuando está minimizado */
-}
-
-#movibleDiv header {
-    padding: 5px;
+#movibleDivLeft header {
+    padding: 1px;
     background-color: #2196F3;
     color: #fff;
-    cursor: pointer;
+    cursor: grab; /* Cambiamos el cursor para indicar que se puede arrastrar */
     border-radius: 8px;
+    user-select: none; /* Evitamos la selección de texto durante el arrastre */
+    text-align: center;
+    
 }
 
-#movibleDiv header:hover {
+#movibleDivLeft header:hover {
     background-color: #0b7dda;
 }
 
-#left-menu {
-    padding: 10px;
-    background-color: #fff;
+#movibleDivLeft.minimized .content {
+    visibility: hidden;
+    height: 0;
+}
+
+  /* Estilos para el movibleDiv derecho */
+  #movibleDivRight {
+    position: absolute;
+    background-color: #f1f1f1;
+    border: 1px solid #d3d3d3;
+    border-radius: 10px;
+    cursor: move;
+    bottom: 10px;
+    right: 1%;
+    z-index: 2;
+    width: 200px; /* Ancho predeterminado minimizado */
+    height: 15px; /* Altura predeterminada minimizada */
+    transition: all 0.3s ease; /* Transición suave para animación */
+    padding: 2px ;
+}
+
+#movibleDivRight.maximized {
+    width: 200px; /* Ancho máximo */
+    height: 400px; /* Altura máxima */
+}
+
+#movibleDivRight.minimized header {
+    height: 20px; /* Ajustar la altura del encabezado en modo minimizado */
+}
+
+#movibleDivRight header {
+    padding: 1px;
+    background-color: #2196F3;
+    color: #fff;
+    cursor: grab; /* Cambiamos el cursor para indicar que se puede arrastrar */
     border-radius: 8px;
-    margin-top: 10px;
-    transition: all 0.3s ease;
+    user-select: none; /* Evitamos la selección de texto durante el arrastre */
+    text-align: center;
+}
+
+#movibleDivRight header:hover {
+    background-color: #0b7dda;
+}
+
+#movibleDivRight.minimized .content {
+    visibility: hidden;
+    height: 0;
+}
+
+ 
+.buttonRow{
+    margin: 0px;
+    padding: 5px 5px;
+    background-color: #f1f1f1;
     width: 150px;
-    height: 500px; /* Altura predeterminada maximizada */
-    overflow: hidden;
 }
 
-#left-menu.minimized {
-    height: 20px; /* Altura del menú minimizado */
-    overflow: hidden;
+.text-center {
+  text-align: left;
 }
 
-#left-menu.minimized .menu-button,
-#left-menu.minimized #left-input,
-#left-menu.minimized select {
-    display: none;
+.dropdownMenu {
+    margin: 5px 5px;
+    padding: 5px 5px;
+    background-color: #fff;
+    border-radius: 5px;
+    font-family: 'Nunito', sans-serif;   
+    width: 130px; 
 }
+
+button {
+    font-family: 'Nunito', sans-serif;    
+    width: 45px;
+    margin-left: 10px;
+    padding-left: 5px;
+}
+
+.inputField {
+    margin: 5px 5px;
+    padding: 5px 5px;
+    background-color: #fff;
+    border-radius: 5px;
+    font-family: 'Nunito', sans-serif;   
+    width: 100px; 
+}
+
+
+.rainbow{
+    background-color: #f1f1f1;
+    border-radius: 5px;  
+    color: #010101;
+    cursor: pointer;
+    width: 200px;
+    
+  }
+  .rainbow-1:hover{
+    background-image: linear-gradient(90deg, #00C0FF 0%, #FFCF00 49%, #FC4F4F 80%, #00C0FF 100%);
+    animation:slidebg 5s linear infinite;
+    width: 200px;
+
+ }
+
+ .rainbow.active {
+    background-color: #00ff00; /* Color de fondo cuando está activo (presionado) */
+}
+
+@keyframes slidebg {
+    to {
+      background-position:20vw;
+    }
+  }
+ 
 
 #map {
-    width: calc(100% - 20px);
-    height: calc(100% - 20px);
+    width: 100vw; /* 100% del ancho de la ventana */
+    height: 100vh; /* 100% de la altura de la ventana */
     position: absolute;
-    top: 10px;
-    left: 10px;
+    top: 0;
+    left: 0;
     z-index: 1;
 }
