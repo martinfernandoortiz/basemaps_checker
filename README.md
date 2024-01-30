@@ -1,8 +1,19 @@
-# leaflet-side-by-side
-De los más de 400 plugins que tiene Leaflet.Js, en éste caso me centré en uno en particular el cuál permite crear mapas web sincronizados mediante un control que agrega una pantalla dividida en dos partes con el fin de comparar en simultáneo dos capas con información del mismo territorio.
+# Basemaps Checker
+A partir del complemento de leaflet side by side se agregaron una serie de funcionalidades para poder intercambiar los mapas que visualizamos desde una interfaz.
 
-![image](https://user-images.githubusercontent.com/62431281/168402152-c074525e-5281-48b4-bdbe-7e37e47bbbbf.png)
+## Las opciones creadas son
+* Botones con mapas base argenmap
+* Listado con mapas base de otras empresas e instituciones
+* Input field para agregar mapas bases de otras fuentes.
 
-![image](https://user-images.githubusercontent.com/62431281/168402273-631b6a72-ccb8-4dcb-8dbe-cb715fecad12.png)
+* ![image](https://raw.githubusercontent.com/martinfernandoortiz/basemaps_checker/main/index.png)
+
+
+## Funcionalidades pendientes
+* Guardar las url custom en el listado para no agregarlas siempre
+* Escenas predeterminadas: bookmarks de lugares estratégicos al momento de chequear los estilos
+* WFS + SLD checker
+
+
 
 
