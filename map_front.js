@@ -7,35 +7,58 @@ let urls = {
     cus: "",
     osm: "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
     goo: "https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}",
-    esr: "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"
+    esr: "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+    esr_national:"http://services.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}",
+    esr_physical: "https://server.arcgisonline.com/ArcGIS/rest/services/World_Physical_Map/MapServer/tile/{z}/{y}/{x}",
+    esr_streets: "https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}",
+    esr_terrain: "https://server.arcgisonline.com/ArcGIS/rest/services/World_Terrain_Base/MapServer/tile/{z}/{y}/{x}",
+    esr_topo:"https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}",
+    esr_transportation: "https://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Transportation/MapServer/tile/{z}/{y}/{x}",
+    sta_terrai:"http://a.tile.stamen.com/terrain/{z}/{x}/{y}.png",
+    sta_toner:"http://tile.stamen.com/toner/{z}/{x}/{y}.png",
+    sta_watercolor:"http://tile.stamen.com/watercolor/{z}/{x}/{y}.jpg",
+    car_positron: "https://cartodb-basemaps-a.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png",
+    car_dark:"http://a.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png",
+    bin_map: "http://ecn.dynamic.t0.tiles.virtualearth.net/comp/CompositionHandler/{q}?mkt=en-us&it=G,VE,BX,L,LA&shading=hill",
+    bin_sat: "http://ecn.t3.tiles.virtualearth.net/tiles/a{q}.jpeg?g=0&dir=dir_n’",
+    goo_Maps: "https://mt1.google.com/vt/lyrs=r&x={x}&y={y}&z={z}",
+    goo_Hybrid: "https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}",
+    goo_Terrain: "https://mt1.google.com/vt/lyrs=t&x={x}&y={y}&z={z}",
+    goo_Traffic: "https://mt1.google.com/vt?lyrs=h@159000000,traffic|seconds_into_week:-1&style=3&x={x}&y={y}&z={z}",
+    goo_Roads: "https://mt1.google.com/vt/lyrs=h&x={x}&y={y}&z={z}",
+    osm_Mapnick: "http://tile.openstreetmap.org/{z}/{x}/{y}.png",
+    osm_Cycle: "http://tile.thunderforest.com/cycle/{z}/{x}/{y}.png",
+    osm_bw: "http://tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png",
+    osm_world_3D: "http://tiles.osm2world.org/osm/pngtiles/n/{z}/{x}/{y}.png"
 };
 
+
+// Opciones del mapa
 let map = L.map("map", {
-    center: [-34.61, -58.38],
-    zoom: 10,
+    center: [-30.61, -63.38],
+    zoom: 6,
 });
 
-// Usa las URLs como sea necesario
 let left = L.tileLayer(urls.osm, {
     ext: "jpg",
     attribution: '<a>Esto es Boca</a>',
     minZoom: 2,
     maxZoom: 18,
 }).addTo(map);
+
+
+let right = L.tileLayer(urls.gri).addTo(map);
+
+
 var izq = left
-
-
-
-var right = L.tileLayer(urls.gri).addTo(map);
 var der = right
 
-// Creamos un control que agrega una pantalla dividida
-let sideBySideControl = L.control.sideBySide(left, right).addTo(map);
+var sideBySideControl = L.control.sideBySide(left, right).addTo(map);
 
 
-  var offsetX, offsetY;
-    var isDragging = false;
-    var dragInterval;
+var offsetX, offsetY;
+var isDragging = false;
+var dragInterval;
 
     function toggleMovible(id){
         //e.stopPropagation(); // Evitar que el evento llegue al documento y active el clic del mapa
@@ -48,20 +71,7 @@ let sideBySideControl = L.control.sideBySide(left, right).addTo(map);
         }
         
         updateContentVisibility(id);
-    }
-
-
-
-
-/*function addButton() {
-    // Lógica para agregar botones
-    console.log('Botón agregado');
-}*/
-
-/*function submitForm() {
-    // Lógica para enviar el formulario
-    console.log('Formulario enviado');
-}*/
+    }    
 
 function updateContentVisibility(id) {
     var movible = document.getElementById(id);
@@ -76,19 +86,12 @@ function updateContentVisibility(id) {
     }
 }
 
-
-
 function toggleButton(buttonId) {
     var button = document.getElementById(buttonId);
 
     // Alternar la clase 'active' para cambiar el estilo cuando se presiona
     button.classList.toggle('active');
 }
-
-
-
-
-
 
 ////////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////////
@@ -101,56 +104,25 @@ Cada uno de estos primero borra el layer del mapa y despues agrega uno.*/
 ////////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////////
 
-
-/*
-// Esta es una forma mas simple pero el tema del hibrido la caga
-function increment(base) {
-ign.setUrl(urls[base]); 
-};
-
-*/
-
-
-
-
 function increment_left(base) {
     let currentLeftLayers = sideBySideControl._leftLayers; // Accedemos al array directamente
-    console.log(sideBySideControl._leftLayers)
-    console.log(izq)
     currentLeftLayers.forEach(layer => map.removeLayer(layer));    // Remover todas las capas izquierdas
     sideBySideControl._leftLayers = []; // Limpiar el array de capas izquierdas
     let basemap = L.tileLayer(urls[base]).addTo(map);
     sideBySideControl.setLeftLayers(basemap);    // Agregar la capa ign (o cualquier otra acción que desees realizar)
     izq = basemap
+
+
 };
 
 function increment_left_hib(base) {
  
-    let basemap = L.tileLayer(urls[base]).addTo(map);
-    sideBySideControl.setLeftLayers(basemap);    // Agregar la capa ign (o cualquier otra acción que desees realizar)
-    izq = basemap
-};
-/*
-function hibrid_left(base) {
-    let currentLeftLayers = sideBySideControl._leftLayers; // Accedemos al array directamente
-    currentLeftLayers.forEach(layer => map.removeLayer(layer));    // Remover todas las capas izquierdas
-    sideBySideControl._leftLayers = []; // Limpiar el array de capas izquierdas
-    
-    let mat =L.tileLayer(urls[base]).addTo(map);
     let basemap = L.tileLayer(urls.hib).addTo(map);
-    
-    sideBySideControl.setLeftLayers(basemap);      
-    izq = basemap
-
-    console.log("Set Left");
-
-    let currentRightLayers = sideBySideControl._rightLayers; // Accedemos al array directamente
-    currentRightLayers.forEach(layer => map.removeLayer(layer));    // Remover todas las capas izquierdas
-    sideBySideControl._rightLayers = []; // Limpiar el array de capas izquierdas
-    let basemap_ = der.addTo(map);
-    sideBySideControl.setRightLayers(basemap_);
-};*/
-
+    console.log("push")
+    sideBySideControl._leftLayers.push(basemap);
+    izq = basemap;
+    der.bringToFront();
+};
 
 function increment_right(base) {
     let currentRightLayers = sideBySideControl._rightLayers; // Accedemos al array directamente
@@ -163,51 +135,33 @@ function increment_right(base) {
 
 function increment_right_hib(base) {
  
-    let basemap = L.tileLayer(urls[base]).addTo(map);
-    sideBySideControl.setRightLayers(basemap);    // Agregar la capa ign (o cualquier otra acción que desees realizar)
-    der = basemap
-};
-/*
-function hibrid_right(base) {
-    let currentRightLayers = sideBySideControl._rightLayers; // Accedemos al array directamente
-    currentRightLayers.forEach(layer => map.removeLayer(layer));    // Remover todas las capas izquierdas
-    sideBySideControl._rightLayers = []; // Limpiar el array de capas izquierdas
-
-    let mat =L.tileLayer(urls[base]).addTo(map);
     let basemap = L.tileLayer(urls.hib).addTo(map);
-
-    sideBySideControl.setRightLayers(basemap);      
-    der = basemap
-
-    console.log("Set Right");
-    let currentLeftLayers = sideBySideControl._leftLayers; // Accedemos al array directamente
-    currentLeftLayers.forEach(layer => map.removeLayer(layer));    // Remover todas las capas izquierdas
-    sideBySideControl._leftLayers = []; // Limpiar el array de capas izquierdas
-    let basemap_ = izq.addTo(map);
-    sideBySideControl.setLeftLayers(basemap_);
-};*/
-
+    console.log("push")
+    sideBySideControl._rightLayers.push(basemap);
+    der = basemap;
+    izq.bringToFront();
+};
 
 function toggleAndChange_izq(id,map) {
     toggleButton(id);
     increment_left(map);
-}
-
+    console.log(sideBySideControl._leftLayers);
+};
 
 function toggleAndhib_izq(id,map) {
     toggleButton(id);
     increment_left_hib(map);
-}
+};
 
 function toggleAndChange_der(id,map) {
     toggleButton(id);
     increment_right(map);
-}
+};
 
 function toggleAndhib_der(id,map) {
     toggleButton(id);
     increment_right_hib(map);
-}
+};
 
 /*
 ////////////////////////////////////////////////////////////////////////////////////
@@ -238,16 +192,20 @@ element.style.color = "black"; // Cambiar el color del texto
 
 
 
-
-var input = document.getElementById("miInput");
-var addButton = document.getElementById("addButton");
-
 // Añadimos un evento click al botón
-addButton.addEventListener("click", function() {
+addButton_left.addEventListener("click", function() {
 urls.cus = input.value
 // Utilizar el valor del input para actualizar la URL
-increment('cus');
+increment_left('cus');
 });
+
+
+// Añadimos un evento click al botón
+addButton_right.addEventListener("click", function() {
+    urls.cus = miInput_right.value
+    // Utilizar el valor del input para actualizar la URL
+    increment_right('cus');
+    });
 
 /*
 ////////////////////////////////////////////////////////////////////////////////////
@@ -261,28 +219,24 @@ increment('cus');
 ////////////////////////////////////////////////////////////////////////////////////
 /////////////////////////////////////////////////////////////////////////////////////
 */
+function addButton_list_left() {
+    var miDropdown = document.getElementById("dropdownMenu_left");
+    var opcionSeleccionadaValor = miDropdown.value;
 
+    // Aquí puedes realizar acciones adicionales según la opción seleccionada
+    console.log("Opción seleccionada:", opcionSeleccionadaValor);
 
+    // Luego, puedes llamar a la función increment_left o realizar otras acciones según tus necesidades
+    increment_left(opcionSeleccionadaValor);
+};
 
-var miDropdown = document.getElementById("miDropdown");
-var botonMostrar = document.getElementById("addButton_ext");
+function addButton_list_right() {
+    var miDropdown = document.getElementById("dropdownMenu_right");
+    var opcionSeleccionadaValor = miDropdown.value;
 
-// Añadimos un evento click al botón
-botonMostrar.addEventListener("click", function() {
-// Obtener el valor de la opción seleccionada
-var opcionSeleccionadaValor = miDropdown.value;
+    // Aquí puedes realizar acciones adicionales según la opción seleccionada
+    console.log("Opción seleccionada:", opcionSeleccionadaValor);
 
-// Ejecutar acciones basadas en la opción seleccionada
-switch (opcionSeleccionadaValor) {
-case "osma":
-increment('osm');
-break;
-case "stam":
-increment('sta');
-break;
-case "goog":
-increment('goo');
-break
-}
-});
-
+    // Luego, puedes llamar a la función increment_left o realizar otras acciones según tus necesidades
+    increment_right(opcionSeleccionadaValor);
+};

@@ -43,24 +43,43 @@
                 <a class="rainbow rainbow-1">Argenmap Híbrido<a/>
             </div>
             <div id="arg_hes" class="buttonRow text-center" onclick="toggleAndChange_izq('arg_hes','esr')">
-                <a class="rainbow rainbow-1">Híbrido + Esri<a/>
+                <a class="rainbow rainbow-1">ESRI Satelite<a/>
             </div>
             <div id="arg_hgo" class="buttonRow text-center" onclick="toggleAndChange_izq('arg_hgo','goo')">
-                <a class="rainbow rainbow-1">Híbrido + Google<a/>
+                <a class="rainbow rainbow-1">Google Satelite<a/>
             </div>
-    
     
             <!-- Menú desplegable y botón "add" -->
             <select id="dropdownMenu_left" class="buttonRow inputField">
-                <option value="google_sat">Google Satellite</option>
-                <option value="google_hib">Google Hibrido</option>
-                <option value="esri_sat">ESRI Satellite</option>
+                <option value="esr">ESRI Satellite</option>
+                <option value="esr_national">ESRI National</option>
+                <option value="esr_physical">ESRI Physical</option>
+                <option value="esr_streets">ESRI Streets</option>
+                <option value="esr_terrain">ESRI Terrain</option>
+                <option value="esr_topo">ESRI Topo</option>
+                <option value="esr_transportation">ESRI Transportation</option>
+                <option value="sta_terrai">Stamen Terrain</option>
+                <option value="sta_toner">Stamen Toner</option>
+                <option value="sta_watercolor">Stamen Watercolor</option>
+                <option value="car_positron">Carto Positron</option>
+                <option value="car_dark">Carto Dark</option>
+                <option value="bin_map">Bing Maps</option>
+                <option value="bin_sat">Bing Satellite</option>
+                <option value="goo_Maps">Google Maps</option>
+                <option value="goo_Hybrid">Google Híbrido</option>
+                <option value="goo_Terrain">Google Terrain</option>
+                <option value="goo_Traffic">Google Traffic</option>
+                <option value="goo_Roads">Google Roads</option>
+                <option value="osm">OSM</option>
+                <option value="osm_Mapnick">OSM Mapnick</option>
+                <option value="osm_Cycle">OSM Cycle</option>
+                <option value="osm_bw">OSM Blanco y Negro</option>
+                <option value="osm_world_3D">OSM Workd</option>
             </select>
-            <button onclick="addButton()">Add</button>
-    
+            <button onclick="addButton_list_left()">Add</button>
             <!-- Input y botón -->
-            <input type="text" id="inputField" class="inputField" placeholder="Ingrese texto">
-            <button onclick="submitForm()">Ok</button>
+            <input type="text" id="miInput" class="inputField" placeholder="Ingrese texto">
+            <button id= "addButton_left" onclick="handleClick()">Ok</button>
         </div>
     </div>
 
@@ -80,14 +99,12 @@
         <div id="arg_gris_right" class="buttonRow text-center" onclick="toggleAndChange_der('arg_gris_right','gri')">
             <a class="rainbow rainbow-1">Argenmap Gris<a/>
         </div>
-
         <div id="arg_osc_right" class="buttonRow text-center" onclick="toggleAndChange_der('arg_comu_right','osc')">
             <a class="rainbow rainbow-1">Argenmap Oscuro<a/>
         </div>
         <div id="arg_topo_right" class="buttonRow text-center" onclick="toggleAndChange_der('arg_comu_right','top')">
             <a class="rainbow rainbow-1">Argenmap Topo<a/>
         </div>
-
         <div id="arg_hib_right" class="buttonRow text-center" onclick="toggleAndhib_der('arg_comu_right','hib')">
             <a class="rainbow rainbow-1">Argenmap Híbrido<a/>
         </div>
@@ -99,20 +116,39 @@
         </div>
 
 
-        <!-- Menú desplegable y botón "add" -->
-        <select id="dropdownMenu_right" class="buttonRow inputField">
-            <option value="google_sat">Google Satellite</option>
-            <option value="google_hib">Google Hibrido</option>
-            <option value="esri_sat">ESRI Satellite</option>
-        </select>
-        <button onclick="addButton_right()">Add</button>
-
-        <!-- Input y botón -->
-        <input type="text" id="inputField_right" class="inputField" placeholder="Ingrese texto">
-        <button onclick="submitForm()">Enviar</button>
+            <!-- Menú desplegable y botón "add" -->
+            <select id="dropdownMenu_right" class="buttonRow inputField">
+                <option value="esr">ESRI Satellite</option>
+                <option value="esr_national">ESRI National</option>
+                <option value="esr_physical">ESRI Physical</option>
+                <option value="esr_streets">ESRI Streets</option>
+                <option value="esr_terrain">ESRI Terrain</option>
+                <option value="esr_topo">ESRI Topo</option>
+                <option value="esr_transportation">ESRI Transportation</option>
+                <option value="sta_terrai">Stamen Terrain</option>
+                <option value="sta_toner">Stamen Toner</option>
+                <option value="sta_watercolor">Stamen Watercolor</option>
+                <option value="car_positron">Carto Positron</option>
+                <option value="car_dark">Carto Dark</option>
+                <option value="bin_map">Bing Maps</option>
+                <option value="bin_sat">Bing Satellite</option>
+                <option value="goo_Maps">Google Maps</option>
+                <option value="goo_Hybrid">Google Híbrido</option>
+                <option value="goo_Terrain">Google Terrain</option>
+                <option value="goo_Traffic">Google Traffic</option>
+                <option value="goo_Roads">Google Roads</option>
+                <option value="osm">OSM</option>
+                <option value="osm_Mapnick">OSM Mapnick</option>
+                <option value="osm_Cycle">OSM Cycle</option>
+                <option value="osm_bw">OSM Blanco y Negro</option>
+                <option value="osm_world_3D">OSM Workd</option>
+            </select>
+            <button onclick="addButton_list_right()">Add</button>
+            <!-- Input y botón -->
+            <input type="text" id="miInput_right" class="inputField" placeholder="Ingrese texto">
+            <button id= "addButton_right" onclick="handleClick()">Ok</button>
+        </div>
     </div>
-</div>
-
 
 
 
