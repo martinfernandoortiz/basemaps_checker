@@ -6,8 +6,9 @@ A partir del complemento de leaflet side by side se agregaron una serie de funci
 * Listado con mapas base de otras empresas e instituciones
 * Input field para agregar mapas bases de otras fuentes.
 
-* ![image](https://raw.githubusercontent.com/martinfernandoortiz/basemaps_checker/main/index.png)
+ ![image](https://raw.githubusercontent.com/martinfernandoortiz/basemaps_checker/main/index.png)
 
+Para ejecutar esto chequear, index_front.html, map_front.js y style_front.css
 
 ## Funcionalidades pendientes
 * Guardar las url custom en el listado para no agregarlas siempre
