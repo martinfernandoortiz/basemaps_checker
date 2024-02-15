@@ -1,395 +1,397 @@
-{"fna":"Sitio RAMSAR y Reserva Hemisférica Costa Atlántica de Tierra del Fuego","bounding_box":"-68.584954 , -54.123666 , -67.171491 , -52.968612","centroide":"POINT (-67.94971508752934 -53.58460016222505)"}
-{"fna":"Reserva Natural de la Defensa La Calera","bounding_box":"-64.457959 , -31.45649 , -64.267421 , -31.352316","centroide":"POINT (-64.36772249395338 -31.403686725714888)"}
-{"fna":"Sitio Ramsar Delta del Parana","bounding_box":"-60.941177 , -32.67669 , -60.422571 , -31.8114","centroide":"POINT (-60.717013881300765 -32.26862578100292)"}
-{"fna":"Parque Natural Municipal Lote C Huerto Municipal","bounding_box":"-54.425869 , -26.037373 , -54.411192 , -26.026485","centroide":"POINT (-54.41855437869026 -26.031887502413568)"}
-{"fna":"Parque Provincial Cumbres Calchaquíes","bounding_box":"-65.791564 , -26.705748 , -65.582962 , -26.111039","centroide":"POINT (-65.68686026633674 -26.407245905261558)"}
-{"fna":"Area Natural Protegida Sierras de Belén","bounding_box":"-67.364354 , -27.891007 , -67.183958 , -27.370205","centroide":"POINT (-67.27324783863767 -27.599817910969797)"}
-{"fna":"Reserva Natural Objetivo Definido Educativo Paraná Guazú","bounding_box":"-59.312034 , -33.821689 , -59.272695 , -33.790404","centroide":"POINT (-59.29172478945194 -33.80576434200467)"}
-{"fna":"Parque Nacional Perito Moreno","bounding_box":"-72.528007 , -48.13148 , -72.059653 , -47.719591","centroide":"POINT (-72.3118686723192 -47.89622734942392)"}
-{"fna":"Parque Nacional Monte León","bounding_box":"-69.199186 , -50.472916 , -68.635498 , -50.201524","centroide":"POINT (-68.96982234736151 -50.33139957731335)"}
-{"fna":"Reserva Privada Ingeniero Barney","bounding_box":"-55.007374 , -27.47884 , -54.996355 , -27.469854","centroide":"POINT (-55.00184934925562 -27.47435884271707)"}
-{"fna":"Reserva Geológica, Paleontológica y Arqueológica Pehuen Có - Monte Hermoso","bounding_box":"-61.660422 , -39.082942 , -61.112566 , -38.974286","centroide":"POINT (-61.38649399999999 -39.028614)"}
-{"fna":"Reserva Natural Integral Islote de la Gaviota Cangrejera","bounding_box":"-62.28067 , -38.82179 , -62.258167 , -38.799142","centroide":"POINT (-62.27001053566748 -38.811482951357846)"}
-{"fna":"Reserva Natural Provincial de Uso Múltiple Arroyo Los Gauchos","bounding_box":"-60.617212 , -38.941262 , -60.552566 , -38.924689","centroide":"POINT (-60.58701203867031 -38.93202138957376)"}
-{"fna":"Parque Nacional Chaco","bounding_box":"-59.705664 , -26.894229 , -59.604721 , -26.758849","centroide":"POINT (-59.65505711752683 -26.82658326315038)"}
-{"fna":"Reserva Provincial de Uso Múltiple y Recreativa Natural Manzano - Portillo de Piuquenes","bounding_box":"-69.906184 , -34.100322 , -69.2951 , -33.32821","centroide":"POINT (-69.6375232555157 -33.73451675529989)"}
-{"fna":"Reserva Provincial de Fauna y Flora Olaroz - Cauchari","bounding_box":"-67.032905 , -24.145301 , -66.657946 , -23.364839","centroide":"POINT (-66.81306801027341 -23.732471393593308)"}
-{"fna":"Reserva Provincial de Fauna Los Andes","bounding_box":"-68.550398 , -24.772157 , -66.154181 , -23.694917","centroide":"POINT (-67.25255334940255 -24.411849206808075)"}
-{"fna":"Reserva de Pesca Puerto Dalmacia","bounding_box":"-57.875484 , -25.878772 , -57.856524 , -25.850816","centroide":"POINT (-57.86701330795112 -25.864971137840524)"}
-{"fna":"Parque Provincial Guarambocá","bounding_box":"-54.258485 , -27.191991 , -54.200398 , -27.12281","centroide":"POINT (-54.23096554783088 -27.158236171449087)"}
-{"fna":"Parque Provincial Pereyra Iraola","bounding_box":"-58.192383 , -34.88269 , -58.056986 , -34.796595","centroide":"POINT (-58.13486044483178 -34.83999433505728)"}
-{"fna":"Monumento Natural Bosques Petrificados de Jaramillo","bounding_box":"-68.158041 , -47.745082 , -67.957562 , -47.654551","centroide":"POINT (-68.0578859168038 -47.6998297374908)"}
-{"fna":"Área Natural Protegida Los Alerces","bounding_box":"-71.880381 , -43.180536 , -71.566246 , -42.579512","centroide":"POINT (-71.67564252248742 -42.94720865187002)"}
-{"fna":"Reserva Ecológica de Vicente López","bounding_box":"-58.481031 , -34.493398 , -58.478791 , -34.491783","centroide":"POINT (-58.479976377538065 -34.49256738218633)"}
-{"fna":"Reserva Natural de la Defensa Baterías - Charles Darwin","bounding_box":"-61.697489 , -38.995495 , -61.639303 , -38.954239","centroide":"POINT (-61.667719580115666 -38.975390936745235)"}
-{"fna":"Reserva Natural Provincial de Uso Múltiple Bahía Blanca, Bahía Falsa y Bahía Verde","bounding_box":"-62.354203 , -39.832955 , -61.833226 , -38.833394","centroide":"POINT (-62.04243922582691 -39.260453951818214)"}
-{"fna":"Reserva Natural Caverna de las Brujas","bounding_box":"-69.827421 , -35.80907 , -69.81143 , -35.791152","centroide":"POINT (-69.81834652671472 -35.80095293602998)"}
-{"fna":"Reserva Natural Provincial de Objetivo Definido Botánico Barranca Norte","bounding_box":"-59.424908 , -33.838627 , -59.399722 , -33.826423","centroide":"POINT (-59.4114807049064 -33.831627416121826)"}
-{"fna":"Reserva Natural Provincial de Objetivos Definidos Mixtos Laguna Chasicó","bounding_box":"-63.142228 , -38.672351 , -62.993349 , -38.560516","centroide":"POINT (-63.067901625897576 -38.623537857669234)"}
-{"fna":"Parque Natural Municipal Paraje los Indios","bounding_box":"-55.206106 , -27.406982 , -55.200382 , -27.397203","centroide":"POINT (-55.203333249800906 -27.403469838611358)"}
-{"fna":"Reserva de Uso Múltiple Caleta de los Loros","bounding_box":"-64.272216 , -41.069214 , -64.062997 , -40.970918","centroide":"POINT (-64.15198346304447 -41.01671807891992)"}
-{"fna":"Reserva Faunística Provincial Punta Bermeja","bounding_box":"-63.194544 , -41.17165 , -63.064293 , -41.145558","centroide":"POINT (-63.13161865048904 -41.16031566432828)"}
-{"fna":"Área de Uso Limitado Bajo Protección Especial Islas Cormorán y Justicia","bounding_box":"-67.733757 , -49.298904 , -67.681458 , -49.265511","centroide":"POINT (-67.70547479092524 -49.28151700016992)"}
-{"fna":"Reserva Natural Provincial de Objetivos Definidos Mixtos Restinga del Faro","bounding_box":"-57.545948 , -38.130471 , -57.519246 , -38.103092","centroide":"POINT (-57.53267231604945 -38.116767419903134)"}
-{"fna":"Área Marina Protegida Namuncurá - Banco Burdwood II","bounding_box":"-61.75 , -55.750259 , -58.0 , -54.431917","centroide":"POINT (-59.80289088418134 -55.200785322686876)"}
-{"fna":"Área Marina Protegida Namuncurá - Banco Burdwood","bounding_box":"-62.014416 , -54.839662 , -56.15548 , -53.7444","centroide":"POINT (-59.23916898845446 -54.33144955149866)"}
-{"fna":"Reserva Ecológica Mbotabyq","bounding_box":"-55.141489 , -27.476469 , -55.137475 , -27.472797","centroide":"POINT (-55.13955526504562 -27.474572888886943)"}
-{"fna":"Reserva Provincial Península de San Julián","bounding_box":"-67.725408 , -49.406412 , -67.603532 , -49.249695","centroide":"POINT (-67.65459083928538 -49.324622174226114)"}
-{"fna":"Reserva Natural Silvestre Isla de los Estados y Archipiélago de Año Nuevo","bounding_box":"-64.756568 , -54.916128 , -63.795888 , -54.645544","centroide":"POINT (-64.3166754111932 -54.79700165315815)"}
-{"fna":"Parque Interjurisdiccional Marino Makenke","bounding_box":"-67.782556 , -49.868914 , -67.519242 , -49.141667","centroide":"POINT (-67.62729007474597 -49.54316120284725)"}
-{"fna":"Reserva Provincial Caleta Olivia","bounding_box":"-67.47096 , -46.506189 , -67.455371 , -46.489579","centroide":"POINT (-67.4632061988456 -46.498374146282444)"}
-{"fna":"Área Marina Protegida Yaganes","bounding_box":"-67.26667 , -58.388076 , -64.0 , -55.016327","centroide":"POINT (-65.45484311033417 -56.933122830608795)"}
-{"fna":"Reserva Provincial Municipal Humedal Caleta Olivia","bounding_box":"-67.546498 , -46.423711 , -67.522334 , -46.396638","centroide":"POINT (-67.53327744881739 -46.410661542641556)"}
-{"fna":"Reserva Natural Provincial Barco Hundido","bounding_box":"-67.346919 , -46.879601 , -66.916355 , -46.616479","centroide":"POINT (-67.11581064560701 -46.73442996397847)"}
-{"fna":"Parque Nacional Nahuel Huapi","bounding_box":"-71.965686 , -41.585881 , -71.187184 , -40.142903","centroide":"POINT (-71.62309813053189 -40.8892111829214)"}
-{"fna":"Reserva Nacional Nahuel Huapi","bounding_box":"-71.84592 , -41.60265 , -71.031799 , -40.623452","centroide":"POINT (-71.36180854963575 -41.08569625670739)"}
-{"fna":"Reserva Natural Provincial Cabo Blanco","bounding_box":"-65.830975 , -47.253354 , -65.699414 , -47.127773","centroide":"POINT (-65.77168485126491 -47.19356428226973)"}
-{"fna":"Reserva Natural Provincial Ría de Puerto Deseado","bounding_box":"-66.524719 , -47.879163 , -65.900312 , -47.722993","centroide":"POINT (-66.15374119490902 -47.808653420031064)"}
-{"fna":"Área de Uso Limitado Bajo Protección Especial Bahía San Julián","bounding_box":"-67.804688 , -49.380013 , -67.717924 , -49.312012","centroide":"POINT (-67.76281239441539 -49.34219253249236)"}
-{"fna":"Área de Uso Científico Monte Loayza","bounding_box":"-66.491771 , -47.124783 , -66.019347 , -47.040418","centroide":"POINT (-66.23064715945158 -47.0902259685041)"}
-{"fna":"Área Natural Protegida Puerto Lobos","bounding_box":"-65.086349 , -42.000969 , -64.732289 , -41.7667","centroide":"POINT (-64.91284400963069 -41.88481149670142)"}
-{"fna":"Reserva de Biósfera Península Valdés","bounding_box":"-65.321459 , -43.510296 , -63.384109 , -42.000293","centroide":"POINT (-64.39157861290799 -42.6245781510732)"}
-{"fna":"Reserva Natural Turística de Objetivo Integral Península Valdés","bounding_box":"-64.495136 , -42.878948 , -63.582803 , -42.072062","centroide":"POINT (-63.94282355008424 -42.4984039424966)"}
-{"fna":"Parque Marino Provincial Golfo San José","bounding_box":"-64.62011 , -42.439866 , -64.04237 , -42.234062","centroide":"POINT (-64.31889138411654 -42.337610186652135)"}
-{"fna":"Reserva Natural Turística Punta León","bounding_box":"-64.463987 , -43.06964 , -64.429015 , -43.044643","centroide":"POINT (-64.44709104378384 -43.05756729831901)"}
-{"fna":"Reserva de Vida Silvestre Urugua-í","bounding_box":"-54.117432 , -26.02834 , -54.0314 , -25.969198","centroide":"POINT (-54.07811692930488 -26.001386515369106)"}
-{"fna":"Parque Nacional Lago Puelo","bounding_box":"-71.78346 , -42.262129 , -71.596839 , -42.090652","centroide":"POINT (-71.67253393133662 -42.168524159614435)"}
-{"fna":"Reserva Natural La Humada","bounding_box":"-68.094268 , -36.444676 , -67.967172 , -36.389337","centroide":"POINT (-68.0287277737634 -36.41662985975292)"}
-{"fna":"Refugio Privado de Vida Silvestre Lapacho Cué","bounding_box":"-54.385653 , -26.345627 , -54.367939 , -26.324572","centroide":"POINT (-54.37642501224926 -26.336814124563723)"}
-{"fna":"Reserva Natural Turística Punta Loma","bounding_box":"-64.9274 , -42.846247 , -64.809997 , -42.805865","centroide":"POINT (-64.8950920340423 -42.83139173967654)"}
-{"fna":"Área Provincial Natural Protegida de Bahía San Antonio","bounding_box":"-65.161981 , -40.946751 , -64.718398 , -40.709595","centroide":"POINT (-64.92210157110856 -40.853371644624715)"}
-{"fna":"Sitio Ramsar Humedales Península de Valdés","bounding_box":"-64.676044 , -42.712905 , -63.991397 , -42.2504","centroide":"POINT (-64.2906231431476 -42.45783968012827)"}
-{"fna":"Reserva Natural de la Defensa Punta Buenos Aires","bounding_box":"-64.379077 , -42.252146 , -64.098366 , -42.183183","centroide":"POINT (-64.20353828807899 -42.22482833569574)"}
-{"fna":"Reserva de Biósfera Patagonia Azul","bounding_box":"-67.632447 , -45.577586 , -64.582748 , -43.662812","centroide":"POINT (-65.76733587449078 -44.7601084912297)"}
-{"fna":"Parque Interjurisdiccional Marino Costero Patagonia Austral","bounding_box":"-66.717745 , -45.264432 , -65.342383 , -44.894592","centroide":"POINT (-66.09640020367638 -45.07206916450114)"}
-{"fna":"Reserva Natural Turística de Objetivo Específico Punta Tombo","bounding_box":"-65.237474 , -44.059534 , -65.187474 , -44.037801","centroide":"POINT (-65.21287824785277 -44.04682653926193)"}
-{"fna":"Parque Provincial Esperanza","bounding_box":"-54.411721 , -26.069727 , -54.314798 , -26.031142","centroide":"POINT (-54.36142288809746 -26.050981848643975)"}
-{"fna":"Reserva Nacional Lago Puelo","bounding_box":"-71.787582 , -42.260206 , -71.596839 , -42.083028","centroide":"POINT (-71.72070526932072 -42.19886845571268)"}
-{"fna":"Reserva Natural Turística de Objetivo Integral Cabo dos Bahías","bounding_box":"-65.572627 , -44.92676 , -65.530743 , -44.902412","centroide":"POINT (-65.55192276742545 -44.914226591278734)"}
-{"fna":"Reserva Provincial Monte Loayza","bounding_box":"-66.491771 , -47.124783 , -66.019347 , -47.050033","centroide":"POINT (-66.241671416145 -47.095487155722715)"}
-{"fna":"Refugio Privado de Vida Silvestre Aguaray-mí","bounding_box":"-54.43131 , -26.117976 , -54.371639 , -26.037382","centroide":"POINT (-54.40563430889785 -26.07807633032721)"}
-{"fna":"Refugio de Vida Silvestre Timbó Gigante","bounding_box":"-54.783261 , -26.690833 , -54.764101 , -26.675635","centroide":"POINT (-54.77169279972542 -26.681924838474586)"}
-{"fna":"Reserva Natural Provincial de Uso Múltiple Arroyo Zabala","bounding_box":"-59.375244 , -38.750152 , -59.241643 , -38.70851","centroide":"POINT (-59.306041323130366 -38.729476684215605)"}
-{"fna":"Reserva Natural Provincial Bahía Laura","bounding_box":"-66.495619 , -48.43393 , -66.335661 , -48.342843","centroide":"POINT (-66.4367865028756 -48.37590832085833)"}
-{"fna":"Reserva Natural Provincial de Uso Múltiple y Refugio de Vida Silvestre Bahía San Blas","bounding_box":"-62.540405 , -40.776798 , -61.799033 , -39.830755","centroide":"POINT (-62.174887529609016 -40.31584795882036)"}
-{"fna":"Reserva Provincial y Parque Interjurisdiccional Marino Isla Pingüinos","bounding_box":"-66.489167 , -48.421111 , -65.551814 , -47.765315","centroide":"POINT (-65.94460146671209 -48.104457817957105)"}
-{"fna":"Refugio Privado Itacuarahy","bounding_box":"-54.489402 , -26.444712 , -54.474819 , -26.427201","centroide":"POINT (-54.482620970891176 -26.43654711375751)"}
-{"fna":"Refugio Privado de Vida Silvestre Chancay","bounding_box":"-54.697875 , -27.474472 , -54.681529 , -27.449763","centroide":"POINT (-54.691005344838665 -27.461520341891358)"}
-{"fna":"Reserva Provincial Natural Embalse Casa de Piedra","bounding_box":"-67.264998 , -38.305896 , -67.155374 , -38.156074","centroide":"POINT (-67.2093139978782 -38.21400925360086)"}
-{"fna":"Parque Provincial Salto Encantado del Valle del Arroyo Cuñá Pirú","bounding_box":"-54.976383 , -27.093309 , -54.82539 , -26.934282","centroide":"POINT (-54.91290153943826 -27.01822273435317)"}
-{"fna":"Reserva Privada Santa María del Aguaray Miní","bounding_box":"-54.609226 , -26.212904 , -54.598754 , -26.208202","centroide":"POINT (-54.6057771170251 -26.211138600322894)"}
-{"fna":"Parque Provincial Guardaparque Horacio Foerster","bounding_box":"-53.96577 , -25.899883 , -53.848298 , -25.822875","centroide":"POINT (-53.90817958751107 -25.86041503483866)"}
-{"fna":"Parque Provincial Cruce Caballero","bounding_box":"-54.010808 , -26.530723 , -53.969922 , -26.508069","centroide":"POINT (-53.99097160492428 -26.51873147442299)"}
-{"fna":"Parque Provincial de la Araucaria","bounding_box":"-54.107247 , -26.637078 , -54.093278 , -26.62515","centroide":"POINT (-54.10041385620517 -26.630982700439706)"}
-{"fna":"Paisaje Protegido Andrés Giai (Refugio de Animales Silvestres Güirá Oga)","bounding_box":"-54.558492 , -25.631637 , -54.548667 , -25.624821","centroide":"POINT (-54.552746348607485 -25.627741180538354)"}
-{"fna":"Parque Provincial Esmeralda","bounding_box":"-54.048987 , -27.069998 , -53.804271 , -26.886036","centroide":"POINT (-53.92234103896872 -26.957764845988276)"}
-{"fna":"Reserva Privada Tomo","bounding_box":"-54.351197 , -26.504507 , -54.324962 , -26.440323","centroide":"POINT (-54.33681334618028 -26.471347834720028)"}
-{"fna":"Parque Natural Municipal Yarará","bounding_box":"-54.612505 , -26.023199 , -54.60861 , -26.020413","centroide":"POINT (-54.61064242847995 -26.021765756305786)"}
-{"fna":"Reserva de Uso Múltiple Cuartel Victoria","bounding_box":"-54.438947 , -26.941549 , -54.411753 , -26.916437","centroide":"POINT (-54.42295379966589 -26.927386665698887)"}
-{"fna":"Monumento Natural Ingeniero Florencio de Basaldúa","bounding_box":"-54.005729 , -25.748738 , -53.991274 , -25.71498","centroide":"POINT (-53.99811045309779 -25.731156763384934)"}
-{"fna":"Reserva Privada El Paraíso","bounding_box":"-55.162552 , -27.207168 , -55.149592 , -27.175704","centroide":"POINT (-55.15611794219993 -27.191374074528714)"}
-{"fna":"Reserva de Vida Silvestre Yaguaroundí","bounding_box":"-54.288712 , -26.705462 , -54.262451 , -26.68424","centroide":"POINT (-54.275721976724945 -26.695030995421533)"}
-{"fna":"Refugio Privado de Vida Silvestre Caá Porá","bounding_box":"-54.072745 , -25.797968 , -54.063833 , -25.787463","centroide":"POINT (-54.06821645058448 -25.792668081225564)"}
-{"fna":"Parque Provincial Urugua-í","bounding_box":"-54.284851 , -26.193628 , -53.761579 , -25.700111","centroide":"POINT (-54.034673569394194 -25.96941859800571)"}
-{"fna":"Parque Provincial Uruzú","bounding_box":"-54.215387 , -25.856333 , -54.167013 , -25.792259","centroide":"POINT (-54.190815402805725 -25.819694110508088)"}
-{"fna":"Parque Provincial Teyú Cuaré","bounding_box":"-55.59656 , -27.289775 , -55.586922 , -27.276327","centroide":"POINT (-55.59204633052415 -27.282861896451642)"}
-{"fna":"Parque Provincial de la Sierra Ingeniero Raúl Martínez Crovetto","bounding_box":"-55.582224 , -27.758349 , -55.538421 , -27.7273","centroide":"POINT (-55.55831344844002 -27.741643041927794)"}
-{"fna":"Reserva de Uso Múltiple Cerro Azul","bounding_box":"-55.452954 , -27.671473 , -55.425564 , -27.645428","centroide":"POINT (-55.438333077355665 -27.660512872222814)"}
-{"fna":"Parque Municipal Amado Bonpland","bounding_box":"-55.165352 , -27.410187 , -55.162285 , -27.40693","centroide":"POINT (-55.16381582238715 -27.408549485574103)"}
-{"fna":"Reserva Privada Julián Freaza","bounding_box":"-54.003994 , -26.390748 , -53.990269 , -26.347278","centroide":"POINT (-53.99729582320093 -26.370734658342283)"}
-{"fna":"Reserva Privada Valle del Arroyo Cuñá Pirú","bounding_box":"-55.016362 , -27.167583 , -54.915293 , -27.070856","centroide":"POINT (-54.97469482115465 -27.12266906145574)"}
-{"fna":"Refugio Privado de Vida Silvestre San Miguel de la Frontera Premidia S.A.","bounding_box":"-54.127655 , -27.229372 , -54.032974 , -27.124535","centroide":"POINT (-54.083984388749656 -27.17967423661876)"}
-{"fna":"Parque Provincial Ernesto Tornquist - Sierra de la Ventana","bounding_box":"-62.074126 , -38.093209 , -61.868945 , -37.992539","centroide":"POINT (-61.98609813734288 -38.0544995462302)"}
-{"fna":"Reserva Natural Municipal Guardia del Juncal","bounding_box":"-58.658409 , -35.239264 , -58.640754 , -35.221898","centroide":"POINT (-58.6490694518176 -35.229998799818276)"}
-{"fna":"Reserva Provincial Natural Limay Mahuida","bounding_box":"-66.555187 , -36.959315 , -66.425485 , -36.884289","centroide":"POINT (-66.48181005645442 -36.92820400924101)"}
-{"fna":"Reserva Provincial de Flora y Fauna Parque Luro","bounding_box":"-64.308993 , -36.967045 , -64.174418 , -36.874011","centroide":"POINT (-64.24740444261776 -36.914592643536274)"}
-{"fna":"Reserva Provincial Natural La Reforma","bounding_box":"-66.259658 , -37.387939 , -66.162374 , -37.286875","centroide":"POINT (-66.21565337989931 -37.33896711877273)"}
-{"fna":"Parque Provincial Cañadón de Profundidad","bounding_box":"-55.712915 , -27.559953 , -55.705856 , -27.54931","centroide":"POINT (-55.709686283764725 -27.555605477406033)"}
-{"fna":"Parque Provincial Fachinal","bounding_box":"-55.734372 , -27.639341 , -55.724206 , -27.633288","centroide":"POINT (-55.729504317123684 -27.636778672162304)"}
-{"fna":"Reserva Privada Tupá Pojá","bounding_box":"-55.723384 , -27.622805 , -55.711592 , -27.617611","centroide":"POINT (-55.71742127090013 -27.62018935280512)"}
-{"fna":"Reserva Natural Estricta San Antonio","bounding_box":"-53.803844 , -26.029345 , -53.776563 , -25.998991","centroide":"POINT (-53.79046069978754 -26.016684461385335)"}
-{"fna":"Reserva de Biósfera Pereyra Iraola","bounding_box":"-58.192383 , -34.88269 , -57.998902 , -34.763046","centroide":"POINT (-58.097675647712784 -34.81822235989265)"}
-{"fna":"Reserva Privada Rincón Nazarí","bounding_box":"-55.911831 , -27.362817 , -55.909444 , -27.359425","centroide":"POINT (-55.91087173803215 -27.360888934717615)"}
-{"fna":"Paisaje Protegido Lago Urugua-í","bounding_box":"-54.571991 , -25.961673 , -54.295491 , -25.812646","centroide":"POINT (-54.46039215314323 -25.883022766382208)"}
-{"fna":"Reserva de Uso Múltiple Alejandro Orloff - Saltitos","bounding_box":"-54.595497 , -27.102833 , -54.573828 , -27.065912","centroide":"POINT (-54.584046240342694 -27.085774482447697)"}
-{"fna":"Reserva Natural de Uso Múltiple Isla Martín García","bounding_box":"-58.258266 , -34.191334 , -58.242937 , -34.174939","centroide":"POINT (-58.250181501246324 -34.18324148555631)"}
-{"fna":"Parque Natural Municipal Ribera Norte","bounding_box":"-58.497192 , -34.47117 , -58.49195 , -34.466226","centroide":"POINT (-58.49415935027325 -34.4690718857842)"}
-{"fna":"Reserva Natural Municipal del Pilar","bounding_box":"-58.926472 , -34.427059 , -58.909658 , -34.400773","centroide":"POINT (-58.9176769734565 -34.41464485237701)"}
-{"fna":"Parque Nacional Lihuel Calel","bounding_box":"-65.664167 , -38.051077 , -65.457517 , -37.780525","centroide":"POINT (-65.58041366484642 -37.911547934254614)"}
-{"fna":"Reserva Natural Provincial Rincón de Santa María","bounding_box":"-58.635993 , -29.888291 , -58.534213 , -29.783543","centroide":"POINT (-58.58802067856358 -29.835552041739547)"}
-{"fna":"Reserva Provincial Natural Laguna de Guatraché","bounding_box":"-63.616333 , -37.750136 , -63.488357 , -37.670375","centroide":"POINT (-63.54000624110517 -37.71691322331186)"}
-{"fna":"Reserva Natural Provincial de Objetivo Definido Educativo Arroyo El Durazno","bounding_box":"-58.923807 , -34.713818 , -58.8654 , -34.693913","centroide":"POINT (-58.89658070388223 -34.70277965164553)"}
-{"fna":"Parque Provincial Piñalito","bounding_box":"-53.864095 , -26.466883 , -53.724568 , -26.420752","centroide":"POINT (-53.810356257996595 -26.450099722481266)"}
-{"fna":"Reserva Natural Objetivo Definido Educativo Lagunas de San Vicente","bounding_box":"-58.534451 , -35.065735 , -58.499977 , -35.023567","centroide":"POINT (-58.514785363760176 -35.04182329036369)"}
-{"fna":"Reserva Natural Ñochilei-co","bounding_box":"-66.947858 , -36.879586 , -66.764929 , -36.695489","centroide":"POINT (-66.86595325959487 -36.80357582483969)"}
-{"fna":"Reserva Natural Salitral Encantado","bounding_box":"-67.231784 , -37.53061 , -66.760092 , -37.224524","centroide":"POINT (-66.9902458346293 -37.37527144957725)"}
-{"fna":"Reserva Natural de la Defensa Puerto Península","bounding_box":"-54.658078 , -25.754271 , -54.392084 , -25.657857","centroide":"POINT (-54.58051651814433 -25.70854852912827)"}
-{"fna":"Reserva de Biósfera Yabotí","bounding_box":"-54.317616 , -27.199477 , -53.660012 , -26.6212","centroide":"POINT (-53.957048366667266 -26.909985114834587)"}
-{"fna":"Parque Provincial Grupo de la Isla Grande del Iguazú Superior","bounding_box":"-54.126628 , -25.553544 , -54.11974 , -25.542215","centroide":"POINT (-54.12337361773362 -25.546864113600698)"}
-{"fna":"Parque Provincial Ingeniero Agrónomo Roberto Cametti","bounding_box":"-54.119987 , -25.508673 , -54.098243 , -25.497676","centroide":"POINT (-54.10860620543492 -25.50277278151664)"}
-{"fna":"Reserva Provincial de Biósfera San Guillermo","bounding_box":"-70.021761 , -29.939378 , -69.07681 , -28.388752","centroide":"POINT (-69.52538109387511 -29.167685685931993)"}
-{"fna":"Reserva Natural Silvestre Alto Iguazu","bounding_box":"-54.163278 , -25.598422 , -54.152048 , -25.582944","centroide":"POINT (-54.15829678353895 -25.5904803544019)"}
-{"fna":"Parque Provincial Puerto Península","bounding_box":"-54.575634 , -25.752411 , -54.449869 , -25.657213","centroide":"POINT (-54.529916755809 -25.713554923971316)"}
-{"fna":"Reserva Forestal Guaraní","bounding_box":"-54.292171 , -26.97719 , -54.178895 , -26.89146","centroide":"POINT (-54.23822817893776 -26.93580722809205)"}
-{"fna":"Reserva Natural Provincial de Uso Múltiple Laguna Salada Grande","bounding_box":"-57.284586 , -37.103787 , -56.697938 , -36.400228","centroide":"POINT (-56.9612556400541 -36.74125890313723)"}
-{"fna":"Reserva Natural y Cultural Papel Misionero","bounding_box":"-54.270538 , -27.052778 , -54.115228 , -26.933479","centroide":"POINT (-54.202641873500355 -26.992111398357608)"}
-{"fna":"Reserva Natural Provincial de Uso Múltiple Isla Botija","bounding_box":"-59.057124 , -33.930435 , -58.972773 , -33.839174","centroide":"POINT (-59.016427580610355 -33.885177512096256)"}
-{"fna":"Reserva Natural Provincial Integral y de Objetivo Definido Bahía de Samborombón","bounding_box":"-57.939529 , -36.521407 , -56.745697 , -34.928281","centroide":"POINT (-57.36796632349948 -35.71522488191993)"}
-{"fna":"Reserva Natural Educativa Colonia Benítez","bounding_box":"-58.952584 , -27.319181 , -58.94367 , -27.315981","centroide":"POINT (-58.94984106268348 -27.317542070122673)"}
-{"fna":"Parque Natural Provincial Loro Hablador","bounding_box":"-61.925687 , -25.493721 , -61.709253 , -25.40753","centroide":"POINT (-61.81967578974493 -25.449583719621174)"}
-{"fna":"Reserva Natural Pichi Mahuida","bounding_box":"-64.936649 , -38.833282 , -64.783593 , -38.77252","centroide":"POINT (-64.86436485801795 -38.800686528993815)"}
-{"fna":"Reserva Nacional Iguazú","bounding_box":"-54.557154 , -25.749612 , -54.441209 , -25.614584","centroide":"POINT (-54.489827086481995 -25.667705521695538)"}
-{"fna":"Reserva Natural Íctica Corpus","bounding_box":"-55.56544 , -27.153441 , -55.469112 , -27.098071","centroide":"POINT (-55.542151076014214 -27.11216496611436)"}
-{"fna":"Refugio Privado de Vida Silvestre Chachi","bounding_box":"-55.095485 , -27.480743 , -55.090708 , -27.476189","centroide":"POINT (-55.09270390734504 -27.47881396815723)"}
-{"fna":"Parque Nacional Iguazú","bounding_box":"-54.477772 , -25.761744 , -54.160401 , -25.534556","centroide":"POINT (-54.28576642714902 -25.668563421707095)"}
-{"fna":"Parque Natural Municipal Luis Honorio Rolón","bounding_box":"-54.57858 , -25.596576 , -54.565775 , -25.592127","centroide":"POINT (-54.57377990401596 -25.593509734730606)"}
-{"fna":"Reserva Privada La Ponderosa","bounding_box":"-54.558052 , -26.959554 , -54.539026 , -26.940837","centroide":"POINT (-54.54860626826866 -26.950227239750173)"}
-{"fna":"Parque Provincial Yacuy","bounding_box":"-54.1631 , -25.615294 , -54.1425 , -25.589636","centroide":"POINT (-54.15477033550371 -25.60258265307699)"}
-{"fna":"Reserva de Pesca Boca de la Laguna Herradura","bounding_box":"-58.228465 , -26.553129 , -58.211477 , -26.519392","centroide":"POINT (-58.22282445547341 -26.539258907619125)"}
-{"fna":"Reserva Privada de Uso Múltiple Estancia Santa Catalina","bounding_box":"-60.659681 , -31.35048 , -60.608662 , -31.319379","centroide":"POINT (-60.63843598867375 -31.33494309593155)"}
-{"fna":"Reserva de Pesca Arroyo Ramírez","bounding_box":"-58.267424 , -26.670739 , -58.243992 , -26.638661","centroide":"POINT (-58.2604707398704 -26.64925765989642)"}
-{"fna":"Reserva Natural Provincial Apipé Grande","bounding_box":"-56.956944 , -27.541632 , -56.837267 , -27.435944","centroide":"POINT (-56.88653508900627 -27.497261531198426)"}
-{"fna":"Reserva Provincial Lago del Desierto","bounding_box":"-73.146431 , -49.248931 , -72.742067 , -48.925428","centroide":"POINT (-72.93607941874104 -49.09786630312976)"}
-{"fna":"Reserva Provincial de Uso Múltiple Laguna Negra","bounding_box":"-67.308247 , -54.532022 , -67.26252 , -54.485054","centroide":"POINT (-67.28638076863133 -54.50662751259058)"}
-{"fna":"Reserva Natural Provincial Bosque Petrificado Ea. La Urbana","bounding_box":"-71.395701 , -49.805519 , -71.109272 , -49.531226","centroide":"POINT (-71.25966134574888 -49.655690094234274)"}
-{"fna":"Reserva Provincial de Uso Múltiple Río Valdez","bounding_box":"-67.336761 , -54.64532 , -67.250314 , -54.564415","centroide":"POINT (-67.27949323868795 -54.598073645788666)"}
-{"fna":"Reserva de Uso Múltiple El Gato y Lomas Limpias","bounding_box":"-59.217273 , -30.897284 , -58.557462 , -30.607078","centroide":"POINT (-58.901133655128874 -30.751594504534477)"}
-{"fna":"Reserva de Uso Múltiple Escuela Rural Juan B. Alberdi","bounding_box":"-60.529188 , -31.840272 , -60.522396 , -31.836156","centroide":"POINT (-60.524927512309326 -31.838584725062024)"}
-{"fna":"Parque Escolar Rural Enrique Berduc - Parque General San Martín","bounding_box":"-60.352949 , -31.754402 , -60.320521 , -31.719786","centroide":"POINT (-60.332904561413876 -31.735633427184542)"}
-{"fna":"Reserva Natural de Fauna Laguna La Felipa","bounding_box":"-63.5856 , -33.150583 , -63.535967 , -33.104717","centroide":"POINT (-63.55573409669609 -33.128286737952926)"}
-{"fna":"Parque Nacional Islas de Santa Fe","bounding_box":"-60.748213 , -32.327324 , -60.678635 , -32.223933","centroide":"POINT (-60.707319365805844 -32.27635122784601)"}
-{"fna":"Parque Natural Provincial Fuerte Esperanza","bounding_box":"-61.754501 , -25.183389 , -61.621232 , -25.102216","centroide":"POINT (-61.6879462146765 -25.138407637457846)"}
-{"fna":"Reserva Cultural y Natural Cerro Colorado","bounding_box":"-63.971045 , -30.131972 , -63.92217 , -30.025786","centroide":"POINT (-63.94130587603422 -30.068915669374146)"}
-{"fna":"Reserva Hídrica Natural La Quebrada","bounding_box":"-64.433074 , -31.183237 , -64.338947 , -31.121168","centroide":"POINT (-64.38753144378079 -31.150619091568498)"}
-{"fna":"Reserva Hídrica Provincial Pampa de Achala","bounding_box":"-64.995945 , -32.073479 , -64.670194 , -31.298136","centroide":"POINT (-64.84115698602533 -31.657768053841615)"}
-{"fna":"Parque Natural Provincial y Reserva Forestal Chancaní","bounding_box":"-65.499425 , -31.40038 , -65.39112 , -31.340161","centroide":"POINT (-65.44300246987828 -31.36977370912247)"}
-{"fna":"Monumento Natural Provincial Cañada Molina","bounding_box":"-70.616334 , -37.132843 , -70.587505 , -37.123294","centroide":"POINT (-70.60079197159477 -37.128115743225734)"}
-{"fna":"Reserva Provincial Tucu - Tucu","bounding_box":"-72.589509 , -48.787093 , -71.837077 , -48.103774","centroide":"POINT (-72.21152419759206 -48.466445847394645)"}
-{"fna":"Reserva Provincial Pinturas Rupestres Río Chalia o Shehuen","bounding_box":"-71.666352 , -49.537295 , -71.515856 , -49.395294","centroide":"POINT (-71.59797383600268 -49.47508619618231)"}
-{"fna":"Monumento Natural Provincial Bloque Errático","bounding_box":"-70.630629 , -51.861016 , -70.511642 , -51.815252","centroide":"POINT (-70.56743240336701 -51.834286605147334)"}
-{"fna":"Reserva Provincial Geológica Laguna Azul","bounding_box":"-69.655643 , -52.055504 , -69.575556 , -52.012028","centroide":"POINT (-69.61835885832659 -52.03154927119932)"}
-{"fna":"Parque Nacional Patagonia","bounding_box":"-71.517837 , -47.421456 , -71.123798 , -46.899225","centroide":"POINT (-71.31700607305261 -47.15918456033601)"}
-{"fna":"Reserva Hidrogeológica Meseta Espinosa y El Cordón","bounding_box":"-69.050332 , -47.099824 , -67.506839 , -46.576174","centroide":"POINT (-67.96888894300012 -46.81654688065954)"}
-{"fna":"Centro Biológico de Fauna Silvestre Pilagá - Zoo","bounding_box":"-58.180724 , -25.986152 , -58.140958 , -25.953367","centroide":"POINT (-58.160130556159444 -25.96902863515738)"}
-{"fna":"Reserva de Caza Laguna Hú","bounding_box":"-58.478637 , -25.630678 , -58.40674 , -25.589249","centroide":"POINT (-58.442288703495784 -25.607129006585957)"}
-{"fna":"Reserva de Caza de Fauna Silvestre Agua Dulce","bounding_box":"-58.985482 , -24.867216 , -58.928071 , -24.693367","centroide":"POINT (-58.95509422219173 -24.782791463742637)"}
-{"fna":"Monumento Natural Bosque Petrificado Valcheta","bounding_box":"-66.196922 , -40.669716 , -66.178418 , -40.646586","centroide":"POINT (-66.18747069387754 -40.65942551020408)"}
-{"fna":"Parque Municipal Zanjón de Loreto","bounding_box":"-56.735786 , -27.622442 , -56.660725 , -27.560455","centroide":"POINT (-56.70028877022654 -27.594318727646087)"}
-{"fna":"Sitio Ramsar Humedales Chaco","bounding_box":"-59.293085 , -28.066825 , -58.377351 , -26.661721","centroide":"POINT (-58.866739787307544 -27.394968049967527)"}
-{"fna":"Reserva Provincial San Lorenzo","bounding_box":"-72.452411 , -47.725309 , -72.194037 , -47.550316","centroide":"POINT (-72.30229586567388 -47.66152359889573)"}
-{"fna":"Parque Nacional Mburucuyá","bounding_box":"-58.160367 , -28.096515 , -57.985779 , -27.939525","centroide":"POINT (-58.06922018558969 -28.01299259091445)"}
-{"fna":"Reserva Natural de la Defensa Campo Garabato","bounding_box":"-60.242188 , -28.924194 , -60.13623 , -28.887451","centroide":"POINT (-60.19095564863077 -28.90703391490866)"}
-{"fna":"Reserva Natural Aguas Chiquitas","bounding_box":"-65.228344 , -26.618825 , -65.165672 , -26.521914","centroide":"POINT (-65.1997604947761 -26.57404463878086)"}
-{"fna":"Reserva Islote Municipal","bounding_box":"-60.527456 , -31.716955 , -60.517843 , -31.714171","centroide":"POINT (-60.521944815427055 -31.715735527315363)"}
-{"fna":"Sitio Ramsar Humedal Laguna Melincue","bounding_box":"-61.775942 , -33.855236 , -61.242954 , -33.533102","centroide":"POINT (-61.49542800818415 -33.71127166521221)"}
-{"fna":"Parque Natural Provincial Cayastá","bounding_box":"-60.186665 , -31.236199 , -60.151436 , -31.217311","centroide":"POINT (-60.1666970643774 -31.227566434008082)"}
-{"fna":"Parque Arqueológico Santa Fe la Vieja","bounding_box":"-60.167338 , -31.221226 , -60.153291 , -31.207141","centroide":"POINT (-60.159268298384504 -31.21415835537404)"}
-{"fna":"Reserva Natural de la Defensa Quebrada del Portugués","bounding_box":"-65.885747 , -27.108037 , -65.656161 , -26.946859","centroide":"POINT (-65.76209341208438 -27.012249507778094)"}
-{"fna":"Reserva Natural Provincial Laguna Brava","bounding_box":"-58.72356 , -27.500126 , -58.713661 , -27.489223","centroide":"POINT (-58.718368490425625 -27.49425020227088)"}
-{"fna":"Reserva Cultural y Natural Playa Larga","bounding_box":"-68.232503 , -54.819013 , -68.185245 , -54.798599","centroide":"POINT (-68.2112746323237 -54.80936315705824)"}
-{"fna":"Reserva Provincial La Pirámide","bounding_box":"-61.711618 , -25.695191 , -61.644858 , -25.60255","centroide":"POINT (-61.67803642635539 -25.64867832421278)"}
-{"fna":"Reserva Ecológica Ciudad Universitaria - Costanera Norte","bounding_box":"-58.448614 , -34.541508 , -58.440885 , -34.535927","centroide":"POINT (-58.444257001183246 -34.5381693740914)"}
-{"fna":"Reserva Ecológica El Bagual","bounding_box":"-58.831657 , -26.334899 , -58.773973 , -26.274815","centroide":"POINT (-58.802037118085956 -26.309165393449458)"}
-{"fna":"Sitios Ramsar Lagunas y Esteros del Iberá","bounding_box":"-57.229415 , -28.596831 , -57.087452 , -28.450595","centroide":"POINT (-57.15870477403921 -28.523753306357793)"}
-{"fna":"Reserva Municipal San Justo","bounding_box":"-60.649033 , -30.799596 , -60.628269 , -30.795628","centroide":"POINT (-60.638652754288465 -30.797612155150585)"}
-{"fna":"Reserva Natural Municipal Isla de las Damas","bounding_box":"-59.302009 , -29.151325 , -59.244922 , -29.087084","centroide":"POINT (-59.275414410001595 -29.119874057457075)"}
-{"fna":"Reserva Ecológica Municipal Laguna Nimez","bounding_box":"-72.276015 , -50.328588 , -72.262741 , -50.320381","centroide":"POINT (-72.269176537177 -50.32480673987924)"}
-{"fna":"Reserva Hídrica Natural Arroyo Saladillo\t","bounding_box":"-62.313675 , -33.722689 , -61.512013 , -33.309097","centroide":"POINT (-61.942191542629295 -33.51194447598297)"}
-{"fna":"Reserva Hídrica Natural Arroyo Sauce-Pavón","bounding_box":"-61.474148 , -33.870045 , -60.972917 , -33.530005","centroide":"POINT (-61.18033642812977 -33.70997588617915)"}
-{"fna":"Reserva Privada de Uso Múltiple Federico Wildermuth","bounding_box":"-61.43247 , -32.040946 , -61.395916 , -31.971076","centroide":"POINT (-61.41293251944599 -32.006944802252974)"}
-{"fna":"Reserva Universitaria de Recursos Granja Esperanza","bounding_box":"-60.922052 , -31.388914 , -60.910563 , -31.380768","centroide":"POINT (-60.916678381202956 -31.384837463932158)"}
-{"fna":"Parque Natural Provincial Pampa del Indio","bounding_box":"-60.112751 , -26.300688 , -59.988888 , -26.127345","centroide":"POINT (-60.05386257694968 -26.211672656980898)"}
-{"fna":"Reserva Natural Manejada El Fisco","bounding_box":"-61.02736 , -30.206778 , -60.986642 , -30.151218","centroide":"POINT (-61.00798304741821 -30.178062808165787)"}
-{"fna":"Parque Natural Provincial Del Medio - Los Caballos","bounding_box":"-59.706059 , -29.915406 , -59.64817 , -29.863424","centroide":"POINT (-59.679797002456525 -29.88949537827596)"}
-{"fna":"Reserva Privada de Uso Múltiple Isleta Linda","bounding_box":"-61.17484 , -28.866558 , -61.016971 , -28.689974","centroide":"POINT (-61.096202864143805 -28.778290127566393)"}
-{"fna":"Reserva Natural Manejada Potrero 7b","bounding_box":"-60.252972 , -29.35425 , -60.212722 , -29.283917","centroide":"POINT (-60.23287295758034 -29.31913636032148)"}
-{"fna":"Reserva Natural La Loca","bounding_box":"-60.333417 , -28.826722 , -60.264528 , -28.784389","centroide":"POINT (-60.30025177725121 -28.811129724797542)"}
-{"fna":"Área de Uso Limitado Bajo Protección Especial Isla Solitaria","bounding_box":"-72.253917 , -50.273163 , -72.113479 , -50.198102","centroide":"POINT (-72.18571321946887 -50.23750079545569)"}
-{"fna":"Reserva Natural Silvestre La Ascensión","bounding_box":"-71.534621 , -46.761568 , -71.363105 , -46.572948","centroide":"POINT (-71.45300500603886 -46.68123870177699)"}
-{"fna":"Reserva Natural Laguna La Salina","bounding_box":"-68.855278 , -35.061325 , -68.780678 , -34.96507","centroide":"POINT (-68.81787079095606 -35.01063157809028)"}
-{"fna":"Parque Nacional El Impenetrable","bounding_box":"-61.378289 , -25.263084 , -60.819215 , -24.743971","centroide":"POINT (-61.105643978111836 -25.004680319901436)"}
-{"fna":"Reserva de Pesca Boca del Río Bermejo","bounding_box":"-58.396186 , -26.871826 , -58.33353 , -26.847781","centroide":"POINT (-58.371289560687416 -26.863064382391244)"}
-{"fna":"Reserva Natural Silvestre Piedra del Fraile","bounding_box":"-73.137204 , -49.247134 , -72.910123 , -49.185445","centroide":"POINT (-73.04019730814922 -49.22694552809318)"}
-{"fna":"Reserva Natural Provincial Bañado la Estrella","bounding_box":"-62.237588 , -24.871237 , -59.714539 , -22.711069","centroide":"POINT (-61.001301152936875 -23.862499729129965)"}
-{"fna":"Sitio Ramsar Palmar Yatay","bounding_box":"-58.460832 , -32.1049 , -58.137747 , -31.7833","centroide":"POINT (-58.30838569115278 -31.87967182829558)"}
-{"fna":"Reserva Natural de la Defensa Ascochinga","bounding_box":"-64.346371 , -31.006418 , -64.232801 , -30.933344","centroide":"POINT (-64.29148730293008 -30.967588755858145)"}
-{"fna":"Reserva de Biósfera Laguna Oca del Río Paraguay","bounding_box":"-58.661518 , -26.654911 , -58.104118 , -26.091323","centroide":"POINT (-58.278298668130084 -26.35008269060197)"}
-{"fna":"Reserva Natural Silvestre Patagonia","bounding_box":"-71.471642 , -47.42054 , -71.127655 , -46.923096","centroide":"POINT (-71.2637300279495 -47.13746455777838)"}
-{"fna":"Reserva Natural Silvestre El Rincón","bounding_box":"-72.215445 , -47.728123 , -72.076071 , -47.543773","centroide":"POINT (-72.13683761851473 -47.621438599766805)"}
-{"fna":"Reserva de Biósfera Riacho Teuquito","bounding_box":"-61.947038 , -24.432536 , -61.227283 , -24.021063","centroide":"POINT (-61.63439296987923 -24.24999531989513)"}
-{"fna":"Parque Nacional Traslasierra","bounding_box":"-65.771984 , -31.047176 , -65.401766 , -30.905412","centroide":"POINT (-65.62670035919193 -30.994680870570427)"}
-{"fna":"Reserva Forestal Natural Estancia Ralicó","bounding_box":"-64.919219 , -34.923431 , -64.753018 , -34.830713","centroide":"POINT (-64.83612389566527 -34.87739243801051)"}
-{"fna":"Reserva Natural Formosa","bounding_box":"-61.845432 , -24.336737 , -61.721257 , -24.206673","centroide":"POINT (-61.801041220511536 -24.275622398492505)"}
-{"fna":"Parque Universitario Sierra de San Javier","bounding_box":"-65.427614 , -26.817139 , -65.341842 , -26.611235","centroide":"POINT (-65.38594167294471 -26.71242690209375)"}
-{"fna":"Reserva Natural Estricta La Angostura","bounding_box":"-65.724003 , -26.943414 , -65.675873 , -26.895284","centroide":"POINT (-65.70167161937036 -26.921835869775244)"}
-{"fna":"Reserva Natural Los Sosa","bounding_box":"-65.657094 , -27.132276 , -65.550789 , -27.072299","centroide":"POINT (-65.60232009833848 -27.100236934429724)"}
-{"fna":"Parque Provincial La Florida","bounding_box":"-65.962043 , -27.208291 , -65.677922 , -27.01722","centroide":"POINT (-65.86476671157749 -27.11111938583838)"}
-{"fna":"Reserva Provincial Meseta Lago Strobel","bounding_box":"-71.339876 , -48.472022 , -71.093935 , -48.364339","centroide":"POINT (-71.20306788682113 -48.41587741601534)"}
-{"fna":"Reserva Natural Quebrada del Portugués","bounding_box":"-65.918026 , -27.057228 , -65.717606 , -26.978718","centroide":"POINT (-65.81291645241701 -27.015503664579008)"}
-{"fna":"Reserva Natural Santa Ana","bounding_box":"-65.92745 , -27.518394 , -65.741852 , -27.387035","centroide":"POINT (-65.83650540537296 -27.45588365803021)"}
-{"fna":"Reserva Natural de Interés Provincial Los Escarchados","bounding_box":"-71.561414 , -50.401494 , -71.466982 , -50.362753","centroide":"POINT (-71.51258523575669 -50.3829821153087)"}
-{"fna":"Reserva Provincial Punta Gruesa","bounding_box":"-72.070228 , -51.560693 , -71.997577 , -51.494783","centroide":"POINT (-72.02879748890489 -51.526511023591105)"}
-{"fna":"Reserva Provincial Aves Migratorias","bounding_box":"-69.129352 , -51.684377 , -68.974009 , -51.606339","centroide":"POINT (-69.04181885890789 -51.64894222191483)"}
-{"fna":"Parque Nacional Bosques Petrificados de Jaramillo","bounding_box":"-68.304339 , -47.835231 , -67.809468 , -47.508402","centroide":"POINT (-68.06797028570807 -47.69199187132428)"}
-{"fna":"Reserva Nacional Monte León","bounding_box":"-69.058343 , -50.291761 , -68.893612 , -50.201362","centroide":"POINT (-68.97673940385172 -50.25026846306727)"}
-{"fna":"Reserva Provincial de Uso Múltiple Salinas Grandes","bounding_box":"-65.442564 , -30.435459 , -64.651711 , -29.574706","centroide":"POINT (-64.9430231601955 -30.00510870834954)"}
-{"fna":"Refugio de Vida Silvestre Monte de las Barrancas","bounding_box":"-64.980934 , -30.145696 , -64.907318 , -29.965589","centroide":"POINT (-64.94347768860922 -30.054360150811743)"}
-{"fna":"Patrimonio Mundial Cultural de la Humanidad Cueva de las Manos del Río Pinturas","bounding_box":"-70.76369 , -47.175102 , -70.612597 , -47.071855","centroide":"POINT (-70.68649579453214 -47.122718939357824)"}
-{"fna":"Parque Nacional Quebrada del Condorito","bounding_box":"-64.864817 , -31.768404 , -64.679088 , -31.568895","centroide":"POINT (-64.77076872309182 -31.685949038471907)"}
-{"fna":"Reserva Nacional Quebrada del Condorito","bounding_box":"-64.877154 , -31.827843 , -64.679526 , -31.553842","centroide":"POINT (-64.82148162075143 -31.716264817830357)"}
-{"fna":"Reserva Nacional Perito Moreno","bounding_box":"-72.21003 , -48.001531 , -71.9675 , -47.726111","centroide":"POINT (-72.06650393046289 -47.85756881148065)"}
-{"fna":"Parque Nacional Los Glaciares","bounding_box":"-73.566589 , -50.753354 , -72.7163 , -49.201111","centroide":"POINT (-73.2305935356567 -49.975339083906306)"}
-{"fna":"Reserva Nacional Los Glaciares","bounding_box":"-73.298379 , -50.751808 , -72.720044 , -49.247014","centroide":"POINT (-72.95408919729392 -49.85822976954703)"}
-{"fna":"Parque Nacional Iberá-Núcleo Carambola","bounding_box":"-57.801292 , -28.517856 , -57.544322 , -28.33917","centroide":"POINT (-57.6798971762086 -28.45443322959453)"}
-{"fna":"Parque Nacional Iberá - Núcleo San Nicolás\/San Alonso","bounding_box":"-57.626677 , -28.397086 , -57.096369 , -27.842188","centroide":"POINT (-57.35570051186652 -28.127861620651835)"}
-{"fna":"Sitio Ramsar Glaciar Vinciguerra y Turberas Asociadas","bounding_box":"-68.374521 , -54.772644 , -68.281091 , -54.717687","centroide":"POINT (-68.33344078703693 -54.74623176420517)"}
-{"fna":"Parque Nacional Iberá - Núcleo Cambyretá","bounding_box":"-57.047278 , -28.02528 , -56.809621 , -27.812665","centroide":"POINT (-56.92208511620569 -27.921822079938405)"}
-{"fna":"Sitio Ramsar Jaaukanigás","bounding_box":"-59.762967 , -29.503976 , -58.880822 , -27.999442","centroide":"POINT (-59.32700442549679 -28.747282588278836)"}
-{"fna":"Reserva Corazón de la Isla","bounding_box":"-68.609383 , -54.894178 , -67.306276 , -54.357426","centroide":"POINT (-68.17066235850156 -54.538159357627215)"}
-{"fna":"Parque Nacional Tierra del Fuego","bounding_box":"-68.609383 , -54.894178 , -68.351723 , -54.423777","centroide":"POINT (-68.48587520256223 -54.64140614963098)"}
-{"fna":"Reserva Provincial Isla del Cerrito","bounding_box":"-58.773628 , -27.368048 , -58.595283 , -27.215547","centroide":"POINT (-58.68231907048953 -27.294522949111776)"}
-{"fna":"Reserva Natural de la Defensa Isla El Tala","bounding_box":"-59.500436 , -29.179946 , -59.349541 , -29.089751","centroide":"POINT (-59.41680702951253 -29.136980328459515)"}
-{"fna":"Parque Nacional Pre-Delta","bounding_box":"-60.684101 , -32.180257 , -60.602105 , -32.101679","centroide":"POINT (-60.64024131941527 -32.14081870002968)"}
-{"fna":"Parque Nacional El Rey","bounding_box":"-64.768332 , -24.81676 , -64.496755 , -24.539063","centroide":"POINT (-64.62625744333174 -24.700302708899635)"}
-{"fna":"Parque Botánico Municipal Barón Carlos María Schuel","bounding_box":"-65.311837 , -24.166176 , -65.308402 , -24.15944","centroide":"POINT (-65.31021809741124 -24.163240389276314)"}
-{"fna":"Área Natural Protegida Meseta de Somuncurá","bounding_box":"-67.788869 , -41.877044 , -65.817027 , -40.723372","centroide":"POINT (-66.8668640098764 -41.29901368585495)"}
-{"fna":"Reserva de Uso Múltiple Don Carmelo","bounding_box":"-69.262277 , -31.241714 , -69.060205 , -30.871561","centroide":"POINT (-69.14108545585772 -31.080278781309445)"}
-{"fna":"Parque Nacional El Palmar","bounding_box":"-58.324163 , -31.92795 , -58.190486 , -31.826042","centroide":"POINT (-58.254904114694995 -31.882618031055983)"}
-{"fna":"Sitio Ramsar Lagunas Altoandinas y Puneñas de Catamarca","bounding_box":"-69.095264 , -27.850943 , -66.638981 , -25.913023","centroide":"POINT (-67.8631232597967 -26.842718976447184)"}
-{"fna":"Area Natural Protegida Campo de Piedra Pómez","bounding_box":"-67.914265 , -26.834725 , -67.37189 , -26.568637","centroide":"POINT (-67.63035153030746 -26.699694570638798)"}
-{"fna":"Reserva Natural Municipal Río Xibi - Xibi","bounding_box":"-65.315443 , -24.190817 , -65.291442 , -24.188483","centroide":"POINT (-65.30315675414793 -24.189602072948993)"}
-{"fna":"Reserva Municipal Natural y Cultural de Barrancas","bounding_box":"-66.09888 , -23.332316 , -66.061037 , -23.237999","centroide":"POINT (-66.08400933430674 -23.284856759984965)"}
-{"fna":"Reserva Permanente Lote 5B Carabajal","bounding_box":"-65.724636 , -25.091229 , -65.649584 , -25.021976","centroide":"POINT (-65.70151171796849 -25.05011789771603)"}
-{"fna":"Reserva Forestal Batea Mahuida","bounding_box":"-71.148578 , -38.84803 , -71.054762 , -38.81583","centroide":"POINT (-71.09250054164818 -38.82998120170387)"}
-{"fna":"Reserva Provincial Forestal y de Biósfera Ñacunán","bounding_box":"-67.975232 , -34.104961 , -67.893618 , -33.94238","centroide":"POINT (-67.93494228172833 -34.02324805722311)"}
-{"fna":"Parque Natural Ischigualasto","bounding_box":"-68.151686 , -30.254517 , -67.764199 , -29.902748","centroide":"POINT (-67.97364616852795 -30.08963775987304)"}
-{"fna":"Monumento Natural Provincial Cerro Alcázar","bounding_box":"-69.400496 , -31.482971 , -69.388757 , -31.473982","centroide":"POINT (-69.39464232761274 -31.4786212176928)"}
-{"fna":"Paisaje Protegido Pedernal","bounding_box":"-68.89352 , -32.12441 , -68.705057 , -31.948334","centroide":"POINT (-68.8079528670864 -32.00935576481022)"}
-{"fna":"Área Natural Protegida La Ciénaga","bounding_box":"-68.648116 , -30.220117 , -68.529942 , -30.05604","centroide":"POINT (-68.58032199426138 -30.138781391966955)"}
-{"fna":"Área Natural Protegida Provincial del Sistema Domuyo","bounding_box":"-70.673514 , -36.827472 , -70.206635 , -36.47949","centroide":"POINT (-70.46202601391266 -36.64694151304388)"}
-{"fna":"Parque Provincial Volcán Tupungato","bounding_box":"-70.093762 , -33.369703 , -69.447795 , -32.85176","centroide":"POINT (-69.81574905244092 -33.11219413914663)"}
-{"fna":"Parque Provincial Copahue - Caviahue","bounding_box":"-71.183223 , -37.906366 , -70.914121 , -37.771228","centroide":"POINT (-71.03022753351345 -37.83626490795502)"}
-{"fna":"Reserva Provincial de Flora y Fauna Los Palmares","bounding_box":"-63.585761 , -24.267899 , -63.428444 , -24.118404","centroide":"POINT (-63.50541305278381 -24.17690140028405)"}
-{"fna":"Reserva Provincial de Uso Múltiple Auca Mahuida","bounding_box":"-69.195913 , -37.990332 , -68.744407 , -37.529955","centroide":"POINT (-68.9769935419608 -37.753126482945966)"}
-{"fna":"Área Natural Protegida Cuchillo - Curá","bounding_box":"-70.406239 , -38.618423 , -70.369431 , -38.60628","centroide":"POINT (-70.3889741671236 -38.61259196427982)"}
-{"fna":"Reserva Natural Turística de Objetivo Específico Bosque Petrificado Sarmiento","bounding_box":"-69.081632 , -45.838764 , -68.996633 , -45.80259","centroide":"POINT (-69.04046214916812 -45.820542879365306)"}
-{"fna":"Reserva Natural Turística Piedra Parada","bounding_box":"-70.110351 , -42.666097 , -70.087763 , -42.630192","centroide":"POINT (-70.10156508873136 -42.6514155006607)"}
-{"fna":"Reserva Provincial de Paisaje Protegido Castillos de Pincheira","bounding_box":"-69.803956 , -35.535628 , -69.7821 , -35.5087","centroide":"POINT (-69.7921401004065 -35.52449664361048)"}
-{"fna":"Reserva Provincial Faunística y Florística Telteca","bounding_box":"-68.150149 , -32.481395 , -67.889677 , -32.290223","centroide":"POINT (-68.00321553568158 -32.39119830347417)"}
-{"fna":"Reserva Provincial Forestal y de Biósfera Ñacunán (Lote 11)","bounding_box":"-67.216165 , -33.596049 , -67.040654 , -33.517854","centroide":"POINT (-67.13322130339903 -33.5500980174324)"}
-{"fna":"Reserva Provincial Forestal y de Biósfera Ñacunán (Lote 9)","bounding_box":"-67.838788 , -33.792057 , -67.706841 , -33.674949","centroide":"POINT (-67.77345275379268 -33.73273330818063)"}
-{"fna":"Reserva de Uso Múltiple Sierra Pintada","bounding_box":"-67.367986 , -34.844518 , -67.287739 , -34.751872","centroide":"POINT (-67.333271717726 -34.80333075091484)"}
-{"fna":"Parque Provincial Presidente Sarmiento","bounding_box":"-68.732902 , -31.56353 , -68.682983 , -31.523211","centroide":"POINT (-68.7079918489944 -31.545290931389196)"}
-{"fna":"Reserva Natural Turística y de Investigación Punta Marqués","bounding_box":"-67.552204 , -45.961492 , -67.531219 , -45.951305","centroide":"POINT (-67.54347732991026 -45.957979809474345)"}
-{"fna":"Parque Natural y Paisaje Protegido Afloramientos Limo arcillosos","bounding_box":"-68.727526 , -31.462924 , -68.65315 , -31.432589","centroide":"POINT (-68.68895321265083 -31.44769167242283)"}
-{"fna":"Parque Natural y Paisaje Protegido Loma de las Tapias","bounding_box":"-68.656871 , -31.500172 , -68.567785 , -31.406477","centroide":"POINT (-68.61783866701067 -31.454915144285323)"}
-{"fna":"Reserva Provincial Lagunas de Epulafquen","bounding_box":"-71.180011 , -36.930932 , -70.956634 , -36.67696","centroide":"POINT (-71.06468969157143 -36.81069954006969)"}
-{"fna":"Parque Nacional Talampaya","bounding_box":"-68.275889 , -30.214779 , -67.658666 , -29.566781","centroide":"POINT (-67.87820700677895 -29.854815511288713)"}
-{"fna":"Parque Nacional El Leoncito","bounding_box":"-69.413218 , -32.091125 , -69.101361 , -31.714809","centroide":"POINT (-69.26494596241054 -31.889377290811172)"}
-{"fna":"Parque Nacional Los Cardones","bounding_box":"-66.046207 , -25.531389 , -65.816204 , -25.063384","centroide":"POINT (-65.9315005285239 -25.27825787334756)"}
-{"fna":"Reserva Paisajística Natural y Cultural Protegida El Manzano Histórico","bounding_box":"-69.4104 , -33.616959 , -69.343201 , -33.592066","centroide":"POINT (-69.38221739960863 -33.603743771597074)"}
-{"fna":"Monumento Natural Puente del Inca","bounding_box":"-69.9255 , -32.8538 , -69.896429 , -32.823142","centroide":"POINT (-69.91134757372727 -32.838509011527776)"}
-{"fna":"Reserva de Recursos y Reserva Hídrica Natural Lagunas del Atuel","bounding_box":"-70.309497 , -34.9188 , -69.843 , -34.448601","centroide":"POINT (-70.05019321520251 -34.68899792016434)"}
-{"fna":"Refugio de Vida Silvestre Dragones","bounding_box":"-63.30718 , -23.454327 , -63.268493 , -23.28262","centroide":"POINT (-63.28784788632651 -23.373376260629282)"}
-{"fna":"Reserva Natural Manejada de la Quebrada de Cafayate","bounding_box":"-65.92737 , -26.140697 , -65.612707 , -25.588447","centroide":"POINT (-65.7296748575511 -25.879088035780484)"}
-{"fna":"Monumento Natural de Angastaco","bounding_box":"-66.211591 , -25.820871 , -66.075061 , -25.611058","centroide":"POINT (-66.13549157969011 -25.72335929928984)"}
-{"fna":"Reserva Natural Provincial Las Lancitas","bounding_box":"-64.456303 , -24.181722 , -64.311696 , -24.04693","centroide":"POINT (-64.388122292592 -24.113677328150022)"}
-{"fna":"Área Provincial Natural Protegida La Payunia","bounding_box":"-69.649567 , -37.194647 , -68.250034 , -36.001097","centroide":"POINT (-68.91140940594703 -36.482974956818985)"}
-{"fna":"Reserva Provincial Fáunica Laguna de Llancanelo","bounding_box":"-69.3458 , -35.924221 , -69.031715 , -35.399884","centroide":"POINT (-69.14700122365137 -35.61935810285346)"}
-{"fna":"Reserva Privada Inversora Juramento","bounding_box":"-63.877189 , -25.301955 , -63.568078 , -24.999745","centroide":"POINT (-63.75146872610799 -25.114720230172686)"}
-{"fna":"Paisaje Protegido Dique Quebrada de Ullum","bounding_box":"-68.776585 , -31.47494 , -68.745589 , -31.448022","centroide":"POINT (-68.76039343524938 -31.45882966970686)"}
-{"fna":"Reserva Pública Bosques Protectores","bounding_box":"-65.401346 , -24.799729 , -65.335402 , -24.743196","centroide":"POINT (-65.37288358939702 -24.772472994908576)"}
-{"fna":"Reserva Provincial de Flora y Fauna Acambuco","bounding_box":"-63.944938 , -22.209135 , -63.870024 , -22.108499","centroide":"POINT (-63.9073779350906 -22.158887588082198)"}
-{"fna":"Reserva de Uso Múltiple El Mangrullo","bounding_box":"-69.190548 , -39.467235 , -68.924442 , -39.383171","centroide":"POINT (-69.07344213562446 -39.42497777452125)"}
-{"fna":"Reserva Forestal Chañy","bounding_box":"-71.300164 , -39.013071 , -71.165413 , -38.919197","centroide":"POINT (-71.23143966512214 -38.967276654841385)"}
-{"fna":"Sitio Ramsar Laguna de Llancanelo","bounding_box":"-69.26319 , -35.74857 , -69.047072 , -35.503097","centroide":"POINT (-69.14960035699302 -35.623545506178615)"}
-{"fna":"Reserva Natural de Uso Múltiple Fracciones 50 y 51 del Lote Fiscal 3","bounding_box":"-64.120761 , -22.405088 , -64.008097 , -22.333998","centroide":"POINT (-64.06294917152296 -22.369700026579817)"}
-{"fna":"Reserva Natural Privada Garrapata","bounding_box":"-64.822705 , -24.754825 , -64.753457 , -24.627321","centroide":"POINT (-64.78496369882372 -24.677587806468885)"}
-{"fna":"Reserva de Fauna y Flora silvestre Lotes 32 y 33 porcion W","bounding_box":"-64.133974 , -24.276344 , -63.877256 , -24.165866","centroide":"POINT (-64.00304166191597 -24.215420726238268)"}
-{"fna":"Sitio Ramsar Lagunas de Vilama","bounding_box":"-67.02725 , -22.866967 , -66.57321 , -22.436495","centroide":"POINT (-66.80119529969073 -22.65951626560575)"}
-{"fna":"Reserva de Biósfera Laguna de los Pozuelos","bounding_box":"-66.352984 , -22.830071 , -65.755354 , -21.814878","centroide":"POINT (-66.05524439464924 -22.33759722851778)"}
-{"fna":"Reserva de Biósfera de las Yungas","bounding_box":"-65.578925 , -24.224083 , -64.217346 , -22.186224","centroide":"POINT (-64.79467608459089 -23.143085171493926)"}
-{"fna":"Parque Nacional Calilegua","bounding_box":"-65.034622 , -23.937665 , -64.551273 , -23.452293","centroide":"POINT (-64.80334029240989 -23.66110359762715)"}
-{"fna":"Parque Provincial Laguna Pintascayo","bounding_box":"-64.570328 , -22.914167 , -64.444012 , -22.681581","centroide":"POINT (-64.49097138793164 -22.78541039356056)"}
-{"fna":"Reserva Provincial Altoandina de la Chinchilla","bounding_box":"-67.213047 , -23.853854 , -66.610192 , -22.436495","centroide":"POINT (-66.97485968518464 -23.07212194268659)"}
-{"fna":"Monumento Natural del Abra del Acay","bounding_box":"-66.321235 , -24.872397 , -66.120348 , -24.536596","centroide":"POINT (-66.24643012824099 -24.67576289042548)"}
-{"fna":"Patrimonio Mundial Cultural de la Humanidad Quebrada de Humahuaca","bounding_box":"-65.745042 , -24.025954 , -65.04502 , -22.604747","centroide":"POINT (-65.43573267576349 -23.27797821855983)"}
-{"fna":"Parque Provincial Potrero de Yala","bounding_box":"-65.493724 , -24.14149 , -65.406517 , -24.082146","centroide":"POINT (-65.44778384519871 -24.113614466166975)"}
-{"fna":"Área Natural Protegida Río Azul - Lago Escondido","bounding_box":"-71.865885 , -41.999931 , -71.514565 , -41.627055","centroide":"POINT (-71.67596910195194 -41.81421507063779)"}
-{"fna":"Refugio Privado de Vida Silvestre Los Morrillos","bounding_box":"-69.892876 , -31.813641 , -69.553885 , -31.665182","centroide":"POINT (-69.72298762718773 -31.734848415013367)"}
-{"fna":"Área Natural Protegida Provincial Los Diques","bounding_box":"-65.371713 , -24.502338 , -65.18804 , -24.371737","centroide":"POINT (-65.282627707702 -24.43327382434505)"}
-{"fna":"Reserva Natural de Uso Múltiple Finca Las Costas","bounding_box":"-65.598702 , -24.817941 , -65.454872 , -24.691666","centroide":"POINT (-65.55006873056176 -24.75794788238156)"}
-{"fna":"Parque Natural Valle Fértil","bounding_box":"-68.007021 , -31.756672 , -67.209122 , -30.501506","centroide":"POINT (-67.67452813593843 -31.09990656288284)"}
-{"fna":"Reserva Natural Provincial Divisadero Largo","bounding_box":"-68.952887 , -32.885766 , -68.887572 , -32.872431","centroide":"POINT (-68.92345767267915 -32.87910418564822)"}
-{"fna":"Parque Provincial Cordon del Plata","bounding_box":"-69.774315 , -33.35317 , -69.301466 , -32.676852","centroide":"POINT (-69.5158411347425 -32.98658435521934)"}
-{"fna":"Reserva Provincial Hídrica Natural y de Paisaje Protegido Laguna del Diamante","bounding_box":"-69.909598 , -34.411353 , -69.241841 , -33.930925","centroide":"POINT (-69.53377434792093 -34.1918429551699)"}
-{"fna":"Reserva Natural Turística de Objetivo Específico Laguna Aleusco","bounding_box":"-70.473819 , -43.169407 , -70.415413 , -43.137651","centroide":"POINT (-70.4444787358631 -43.15172190679076)"}
-{"fna":"Paisaje Protegido Valle Cretacico","bounding_box":"-68.828574 , -39.782612 , -68.189052 , -38.969528","centroide":"POINT (-68.57809524461524 -39.39799620591406)"}
-{"fna":"Reserva Nacional Pizarro","bounding_box":"-64.175397 , -24.239114 , -63.920675 , -24.154824","centroide":"POINT (-64.07074481458353 -24.18607418994154)"}
-{"fna":"Reserva Forestal de Uso Múltiple Lago Epuyén","bounding_box":"-71.596664 , -42.263415 , -71.418031 , -42.091812","centroide":"POINT (-71.50856911763884 -42.18215094869787)"}
-{"fna":"Reserva de Uso Múltiple Lotes 1703-1704-4325-4326-4336-19866","bounding_box":"-64.033376 , -22.276913 , -63.777692 , -21.999416","centroide":"POINT (-63.881902762052405 -22.14021410209115)"}
-{"fna":"Parque Nacional Baritú","bounding_box":"-64.763973 , -22.753531 , -64.484321 , -22.417901","centroide":"POINT (-64.64331073839703 -22.58176199578168)"}
-{"fna":"Reserva Ecológica Municipal de Uso Múltiple Serranías del Zapla","bounding_box":"-65.240761 , -24.361659 , -65.021282 , -24.014425","centroide":"POINT (-65.12112134213524 -24.166164625568403)"}
-{"fna":"Monumento Natural Provincial Laguna Leandro","bounding_box":"-65.254848 , -23.031016 , -65.245916 , -23.021998","centroide":"POINT (-65.25061606369296 -23.026196089521513)"}
-{"fna":"Sitio Ramsar Lagunas de Guanacache, Desaguadero y del Bebedero","bounding_box":"-68.709886 , -34.088523 , -66.494081 , -31.999509","centroide":"POINT (-67.5360164336382 -32.63644057676937)"}
-{"fna":"Reserva Nacional Lanín","bounding_box":"-71.831132 , -40.665809 , -71.132665 , -39.212956","centroide":"POINT (-71.42764962616076 -40.0856537034068)"}
-{"fna":"Parque Nacional Los Arrayanes","bounding_box":"-71.66338 , -40.866616 , -71.595095 , -40.783487","centroide":"POINT (-71.62870246750673 -40.829433489744154)"}
-{"fna":"Área Natural Protegida Boca del Chimehuín","bounding_box":"-71.244157 , -39.90057 , -71.133655 , -39.790987","centroide":"POINT (-71.18568870967118 -39.83250640726903)"}
-{"fna":"Paisaje Protegido Río Limay","bounding_box":"-71.165826 , -41.068473 , -70.991081 , -40.730737","centroide":"POINT (-71.0644845014233 -40.921274168718675)"}
-{"fna":"Reserva Provincial Lago Baggilt","bounding_box":"-71.745708 , -43.283812 , -71.65387 , -43.250512","centroide":"POINT (-71.69716757364937 -43.26873135161153)"}
-{"fna":"Reserva Natural Turística Nant y Fall (Arroyo Las Caídas)","bounding_box":"-71.507349 , -43.197739 , -71.468209 , -43.168556","centroide":"POINT (-71.48765586966132 -43.18302856327052)"}
-{"fna":"Parque Nacional Sierra de las Quijadas","bounding_box":"-67.310369 , -32.72108 , -66.956392 , -32.411862","centroide":"POINT (-67.14037165794244 -32.55522742420017)"}
-{"fna":"Reserva de Biósfera Andino Norpatagónica","bounding_box":"-72.188262 , -43.482036 , -70.887891 , -39.111397","centroide":"POINT (-71.52816923069624 -41.42883851186913)"}
-{"fna":"Área Natural Protegida Cipresal de las Guaitecas","bounding_box":"-71.447189 , -41.787549 , -71.369046 , -41.67198","centroide":"POINT (-71.4093786063157 -41.73265401394392)"}
-{"fna":"Parque Provincial y Reserva Forestal Río Turbio","bounding_box":"-72.129411 , -42.392132 , -71.630428 , -42.135905","centroide":"POINT (-71.9026931763892 -42.27413305079259)"}
-{"fna":"Parque Nacional Lanín","bounding_box":"-71.717589 , -40.034389 , -71.182078 , -39.111397","centroide":"POINT (-71.43250913337549 -39.640313670156324)"}
-{"fna":"Parque Provincial Azul","bounding_box":"-71.810365 , -41.744526 , -71.650952 , -41.651041","centroide":"POINT (-71.730869712785 -41.708303831129086)"}
-{"fna":"Itinerario Cultural Qhapaq Ñan - Sistema Vial Andino","bounding_box":"-64.97833 , -23.378512 , -64.969757 , -23.363991","centroide":"POINT (-64.97522168167268 -23.372505251928015)"}
-{"fna":"Refugio Privado de Vida Silvestre La Aurora del Palmar","bounding_box":"-58.405834 , -31.859512 , -58.315013 , -31.799985","centroide":"POINT (-58.348665916776994 -31.825388275714456)"}
-{"fna":"Reserva de Biósfera Parque Costero del Sur","bounding_box":"-57.468689 , -35.606173 , -57.127665 , -35.080184","centroide":"POINT (-57.263423113654866 -35.34262046982872)"}
-{"fna":"Sitio RAMSAR y Parque Nacional Río Pilcomayo","bounding_box":"-58.320295 , -25.179142 , -57.966655 , -24.925964","centroide":"POINT (-58.13700121884891 -25.066240402559163)"}
-{"fna":"Sitio RAMSAR y Reserva Natural Privada Villavicencio","bounding_box":"-69.162217 , -32.720726 , -68.807259 , -32.429342","centroide":"POINT (-69.01607039451129 -32.58578490590844)"}
-{"fna":"Sitios Ramsar Lagunas y Esteros del Iberá","bounding_box":"-57.229415 , -28.596831 , -57.087452 , -28.450595","centroide":"POINT (-57.15870477403921 -28.523753306357793)"}
-{"fna":"Monumento Natural Isla Palacios","bounding_box":"-54.417357 , -25.901776 , -54.401803 , -25.886155","centroide":"POINT (-54.41055966316199 -25.89279231597592)"}
-{"fna":"Sitio Ramsar Bahia Samborombon","bounding_box":"-57.461115 , -36.527416 , -56.706452 , -35.422479","centroide":"POINT (-57.18950965250072 -36.25178886850602)"}
-{"fna":"Parque Provincial Moconá","bounding_box":"-53.925453 , -27.174902 , -53.888733 , -27.13454","centroide":"POINT (-53.90647541822308 -27.15645944412471)"}
-{"fna":"Parque Nacional Aconquija","bounding_box":"-66.14082 , -27.706421 , -65.677922 , -26.931129","centroide":"POINT (-65.89684167361946 -27.353010264811736)"}
-{"fna":"Reserva Nacional El Nogalar de los Toldos","bounding_box":"-64.796811 , -22.294541 , -64.701917 , -22.232752","centroide":"POINT (-64.75309378129144 -22.265811779798405)"}
-{"fna":"Reserva Natural Provincial Integral y de Objetivo Definido Rincón de Ajó","bounding_box":"-57.019074 , -36.35704 , -56.946151 , -36.326529","centroide":"POINT (-56.985949315549696 -36.341911326650994)"}
-{"fna":"Reserva Nacional Iberá-Núcleo Carambola","bounding_box":"-57.835994 , -28.486761 , -57.657266 , -28.34965","centroide":"POINT (-57.7453776528789 -28.42301013187326)"}
-{"fna":"Parque Nacional y Reserva de Uso Múltiple Copo","bounding_box":"-62.240471 , -26.176052 , -61.711134 , -25.652926","centroide":"POINT (-61.98012758684013 -25.849702304865776)"}
-{"fna":"Reserva Provincial Isla Monte Leon","bounding_box":"-68.911604 , -50.363451 , -68.874966 , -50.331569","centroide":"POINT (-68.89277046356173 -50.348640122034894)"}
-{"fna":"Parque Nacional Campos del Tuyú","bounding_box":"-56.919737 , -36.387281 , -56.824138 , -36.328691","centroide":"POINT (-56.87699064085858 -36.354561567062916)"}
-{"fna":"Parque Nacional Ciervo de los Pantanos","bounding_box":"-58.920014 , -34.293521 , -58.780644 , -34.180315","centroide":"POINT (-58.865139486255636 -34.237600266457285)"}
-{"fna":"Reserva de Biósfera Delta del Paraná","bounding_box":"-58.804998 , -34.324787 , -58.336741 , -34.001892","centroide":"POINT (-58.539149444720806 -34.14758551717084)"}
-{"fna":"Reserva de Uso Múltiple Islas de Victoria","bounding_box":"-60.725894 , -33.283924 , -59.766084 , -32.43229","centroide":"POINT (-60.28982693445104 -32.90446436366456)"}
-{"fna":"Sitios RAMSAR Reserva Natural Otamendi","bounding_box":"-58.908016 , -34.293521 , -58.812036 , -34.180315","centroide":"POINT (-58.87795584548179 -34.23350424012071)"}
-{"fna":"Sitio RAMSAR y Reserva Ecológica Costanera Sur","bounding_box":"-58.363129 , -34.619007 , -58.33977 , -34.594932","centroide":"POINT (-58.351958673701844 -34.60782950030003)"}
-{"fna":"Sitio RAMSAR y Parque Provincial del Tromen","bounding_box":"-70.16564 , -37.240868 , -69.936506 , -37.059068","centroide":"POINT (-70.06939590518991 -37.13549220183625)"}
-{"fna":"Parque y Reserva Natural Provincial Iberá","bounding_box":"-58.554953 , -28.996101 , -56.441412 , -27.553558","centroide":"POINT (-57.3279854999811 -28.25193995497829)"}
-{"fna":"Sitio RAMSAR, Parque y Reserva Nacional Laguna Blanca","bounding_box":"-70.444227 , -39.104398 , -70.262207 , -38.9599","centroide":"POINT (-70.35321383870404 -39.03214067132397)"}
-{"fna":"Reserva de la Biósfera y Reserva Natural Laguna Blanca","bounding_box":"-67.295122 , -26.951048 , -66.449533 , -25.56599","centroide":"POINT (-66.87671914515346 -26.400640242704736)"}
-{"fna":"Sitio RAMSAR y Refugio ProvincialLaguna Brava","bounding_box":"-69.634973 , -28.860613 , -68.707722 , -28.060947","centroide":"POINT (-69.0889070741683 -28.40262888877255)"}
-{"fna":"Sitio RAMSAR y Monumento Natural Laguna de los Pozuelos","bounding_box":"-66.062093 , -22.474272 , -65.93889 , -22.210488","centroide":"POINT (-66.00192851454595 -22.34172594896764)"}
-{"fna":"Parque y Reserva Nacional Los Alerces","bounding_box":"-72.179903 , -43.129048 , -71.594189 , -42.556126","centroide":"POINT (-71.89813977894072 -42.80560757071473)"}
-{"fna":"Parque y Reserva Provincial Península de Magallanes","bounding_box":"-73.041159 , -50.559954 , -72.662999 , -50.267361","centroide":"POINT (-72.85431075823558 -50.40480085841832)"}
-{"fna":"Reserva Natural Provincial Integral Punta Lara","bounding_box":"-58.128911 , -34.841508 , -57.998902 , -34.763019","centroide":"POINT (-58.06628565221586 -34.799836111318314)"}
-{"fna":"Parque y Reserva Nacional Iberá-Rincón del Socorro\/Iberá","bounding_box":"-57.48205 , -28.72571 , -57.181653 , -28.548436","centroide":"POINT (-57.31099733198494 -28.651205104313018)"}
-{"fna":"Área de Uso Limitado Bajo Protección Especial Isla Leones","bounding_box":"-68.513184 , -50.064097 , -68.466596 , -50.02211","centroide":"POINT (-68.49192575204034 -50.04406126499864)"}
-{"fna":"Reserva Natural Provincial de Uso Múltiple Mar Chiquita","bounding_box":"-57.433373 , -37.745207 , -57.195848 , -37.544409","centroide":"POINT (-57.33589779102979 -37.62984273718981)"}
-{"fna":"Refugio de Vida Silvestre Mar Chiquita","bounding_box":"-57.595419 , -37.745696 , -57.187586 , -37.419376","centroide":"POINT (-57.391335964027014 -37.582162553922146)"}
-{"fna":"Parque Nacional San Guillermo","bounding_box":"-69.467808 , -29.558066 , -69.07681 , -28.957186","centroide":"POINT (-69.2653225953377 -29.238317965210683)"}
-{"fna":"Parque Provincial Aconcagua","bounding_box":"-70.1018 , -32.824219 , -69.748073 , -32.528922","centroide":"POINT (-69.93306309543357 -32.68159614393141)"}
-{"fna":"Reserva Natural de la Defensa Mar Chiquita - Dragones de Malvinas","bounding_box":"-57.429423 , -37.743156 , -57.374767 , -37.682442","centroide":"POINT (-57.4061676644753 -37.70912107506537)"}
-{"fna":"Reserva de Biósfera Parque Atlántico Mar Chiquita","bounding_box":"-57.45687 , -37.76979 , -57.187524 , -37.475626","centroide":"POINT (-57.33200905132767 -37.60760099385963)"}
-{"fna":"Reserva Provincial Cabo Vírgenes","bounding_box":"-68.436313 , -52.39769 , -68.351364 , -52.296963","centroide":"POINT (-68.3954151932133 -52.337853663763084)"}
-{"fna":"Área de Uso Científico Bajo Protección Especial Isla Deseada","bounding_box":"-69.033727 , -51.580372 , -69.024333 , -51.574069","centroide":"POINT (-69.02917223544766 -51.57745469772913)"}
-{"fna":"Reserva Natural de la Defensa Uspallata","bounding_box":"-69.848768 , -32.866341 , -69.61246 , -32.303856","centroide":"POINT (-69.73040540480923 -32.571109871991126)"}
-{"fna":"Sitios RAMSAR y Reserva Provincial de Uso Múltiple Bañados del Río Dulce y Laguna de Mar Chiquita","bounding_box":"-63.471927 , -30.992315 , -62.167156 , -29.766502","centroide":"POINT (-62.844780232312054 -30.40900122675723)"}
-{"fna":"Parque Nacional Ansenuza","bounding_box":"-63.043861 , -30.852472 , -62.217556 , -30.546101","centroide":"POINT (-62.56331958577526 -30.710559740171973)"}
-{"fna":"Reserva Natural Silvestre Parque Federal Campo San Juan","bounding_box":"-55.712904 , -27.441802 , -55.593254 , -27.352184","centroide":"POINT (-55.64754347992194 -27.398056625471668)"}
-{"fna":"Parque Nacional Islote Lobos","bounding_box":"-65.099866 , -41.62047 , -64.936826 , -41.374835","centroide":"POINT (-65.00816854666449 -41.4909099787426)"}
-{"fna":"Parque Nacional Laguna El Palmar","bounding_box":"-58.719699 , -27.23629 , -58.613105 , -27.124818","centroide":"POINT (-58.672823777700046 -27.184430652293642)"}
-{"fna":"Reserva Nacional  Ansenuza","bounding_box":"-63.420669 , -30.69701 , -62.174168 , -30.043859","centroide":"POINT (-62.827972448588206 -30.41254565896371)"}
+[
+{"fna":"Sitio RAMSAR y Reserva Hemisférica Costa Atlántica de Tierra del Fuego","bounding_box":"-68.584954 , -54.123666 , -67.171491 , -52.968612","centroide":"POINT (-67.94971508752934 -53.58460016222505)"},
+{"fna":"Reserva Natural de la Defensa La Calera","bounding_box":"-64.457959 , -31.45649 , -64.267421 , -31.352316","centroide":"POINT (-64.36772249395338 -31.403686725714888)"},
+{"fna":"Sitio Ramsar Delta del Parana","bounding_box":"-60.941177 , -32.67669 , -60.422571 , -31.8114","centroide":"POINT (-60.717013881300765 -32.26862578100292)"},
+{"fna":"Parque Natural Municipal Lote C Huerto Municipal","bounding_box":"-54.425869 , -26.037373 , -54.411192 , -26.026485","centroide":"POINT (-54.41855437869026 -26.031887502413568)"},
+{"fna":"Parque Provincial Cumbres Calchaquíes","bounding_box":"-65.791564 , -26.705748 , -65.582962 , -26.111039","centroide":"POINT (-65.68686026633674 -26.407245905261558)"},
+{"fna":"Area Natural Protegida Sierras de Belén","bounding_box":"-67.364354 , -27.891007 , -67.183958 , -27.370205","centroide":"POINT (-67.27324783863767 -27.599817910969797)"},
+{"fna":"Reserva Natural Objetivo Definido Educativo Paraná Guazú","bounding_box":"-59.312034 , -33.821689 , -59.272695 , -33.790404","centroide":"POINT (-59.29172478945194 -33.80576434200467)"},
+{"fna":"Parque Nacional Perito Moreno","bounding_box":"-72.528007 , -48.13148 , -72.059653 , -47.719591","centroide":"POINT (-72.3118686723192 -47.89622734942392)"},
+{"fna":"Parque Nacional Monte León","bounding_box":"-69.199186 , -50.472916 , -68.635498 , -50.201524","centroide":"POINT (-68.96982234736151 -50.33139957731335)"},
+{"fna":"Reserva Privada Ingeniero Barney","bounding_box":"-55.007374 , -27.47884 , -54.996355 , -27.469854","centroide":"POINT (-55.00184934925562 -27.47435884271707)"},
+{"fna":"Reserva Geológica, Paleontológica y Arqueológica Pehuen Có - Monte Hermoso","bounding_box":"-61.660422 , -39.082942 , -61.112566 , -38.974286","centroide":"POINT (-61.38649399999999 -39.028614)"},
+{"fna":"Reserva Natural Integral Islote de la Gaviota Cangrejera","bounding_box":"-62.28067 , -38.82179 , -62.258167 , -38.799142","centroide":"POINT (-62.27001053566748 -38.811482951357846)"},
+{"fna":"Reserva Natural Provincial de Uso Múltiple Arroyo Los Gauchos","bounding_box":"-60.617212 , -38.941262 , -60.552566 , -38.924689","centroide":"POINT (-60.58701203867031 -38.93202138957376)"},
+{"fna":"Parque Nacional Chaco","bounding_box":"-59.705664 , -26.894229 , -59.604721 , -26.758849","centroide":"POINT (-59.65505711752683 -26.82658326315038)"},
+{"fna":"Reserva Provincial de Uso Múltiple y Recreativa Natural Manzano - Portillo de Piuquenes","bounding_box":"-69.906184 , -34.100322 , -69.2951 , -33.32821","centroide":"POINT (-69.6375232555157 -33.73451675529989)"},
+{"fna":"Reserva Provincial de Fauna y Flora Olaroz - Cauchari","bounding_box":"-67.032905 , -24.145301 , -66.657946 , -23.364839","centroide":"POINT (-66.81306801027341 -23.732471393593308)"},
+{"fna":"Reserva Provincial de Fauna Los Andes","bounding_box":"-68.550398 , -24.772157 , -66.154181 , -23.694917","centroide":"POINT (-67.25255334940255 -24.411849206808075)"},
+{"fna":"Reserva de Pesca Puerto Dalmacia","bounding_box":"-57.875484 , -25.878772 , -57.856524 , -25.850816","centroide":"POINT (-57.86701330795112 -25.864971137840524)"},
+{"fna":"Parque Provincial Guarambocá","bounding_box":"-54.258485 , -27.191991 , -54.200398 , -27.12281","centroide":"POINT (-54.23096554783088 -27.158236171449087)"},
+{"fna":"Parque Provincial Pereyra Iraola","bounding_box":"-58.192383 , -34.88269 , -58.056986 , -34.796595","centroide":"POINT (-58.13486044483178 -34.83999433505728)"},
+{"fna":"Monumento Natural Bosques Petrificados de Jaramillo","bounding_box":"-68.158041 , -47.745082 , -67.957562 , -47.654551","centroide":"POINT (-68.0578859168038 -47.6998297374908)"},
+{"fna":"Área Natural Protegida Los Alerces","bounding_box":"-71.880381 , -43.180536 , -71.566246 , -42.579512","centroide":"POINT (-71.67564252248742 -42.94720865187002)"},
+{"fna":"Reserva Ecológica de Vicente López","bounding_box":"-58.481031 , -34.493398 , -58.478791 , -34.491783","centroide":"POINT (-58.479976377538065 -34.49256738218633)"},
+{"fna":"Reserva Natural de la Defensa Baterías - Charles Darwin","bounding_box":"-61.697489 , -38.995495 , -61.639303 , -38.954239","centroide":"POINT (-61.667719580115666 -38.975390936745235)"},
+{"fna":"Reserva Natural Provincial de Uso Múltiple Bahía Blanca, Bahía Falsa y Bahía Verde","bounding_box":"-62.354203 , -39.832955 , -61.833226 , -38.833394","centroide":"POINT (-62.04243922582691 -39.260453951818214)"},
+{"fna":"Reserva Natural Caverna de las Brujas","bounding_box":"-69.827421 , -35.80907 , -69.81143 , -35.791152","centroide":"POINT (-69.81834652671472 -35.80095293602998)"},
+{"fna":"Reserva Natural Provincial de Objetivo Definido Botánico Barranca Norte","bounding_box":"-59.424908 , -33.838627 , -59.399722 , -33.826423","centroide":"POINT (-59.4114807049064 -33.831627416121826)"},
+{"fna":"Reserva Natural Provincial de Objetivos Definidos Mixtos Laguna Chasicó","bounding_box":"-63.142228 , -38.672351 , -62.993349 , -38.560516","centroide":"POINT (-63.067901625897576 -38.623537857669234)"},
+{"fna":"Parque Natural Municipal Paraje los Indios","bounding_box":"-55.206106 , -27.406982 , -55.200382 , -27.397203","centroide":"POINT (-55.203333249800906 -27.403469838611358)"},
+{"fna":"Reserva de Uso Múltiple Caleta de los Loros","bounding_box":"-64.272216 , -41.069214 , -64.062997 , -40.970918","centroide":"POINT (-64.15198346304447 -41.01671807891992)"},
+{"fna":"Reserva Faunística Provincial Punta Bermeja","bounding_box":"-63.194544 , -41.17165 , -63.064293 , -41.145558","centroide":"POINT (-63.13161865048904 -41.16031566432828)"},
+{"fna":"Área de Uso Limitado Bajo Protección Especial Islas Cormorán y Justicia","bounding_box":"-67.733757 , -49.298904 , -67.681458 , -49.265511","centroide":"POINT (-67.70547479092524 -49.28151700016992)"},
+{"fna":"Reserva Natural Provincial de Objetivos Definidos Mixtos Restinga del Faro","bounding_box":"-57.545948 , -38.130471 , -57.519246 , -38.103092","centroide":"POINT (-57.53267231604945 -38.116767419903134)"},
+{"fna":"Área Marina Protegida Namuncurá - Banco Burdwood II","bounding_box":"-61.75 , -55.750259 , -58.0 , -54.431917","centroide":"POINT (-59.80289088418134 -55.200785322686876)"},
+{"fna":"Área Marina Protegida Namuncurá - Banco Burdwood","bounding_box":"-62.014416 , -54.839662 , -56.15548 , -53.7444","centroide":"POINT (-59.23916898845446 -54.33144955149866)"},
+{"fna":"Reserva Ecológica Mbotabyq","bounding_box":"-55.141489 , -27.476469 , -55.137475 , -27.472797","centroide":"POINT (-55.13955526504562 -27.474572888886943)"},
+{"fna":"Reserva Provincial Península de San Julián","bounding_box":"-67.725408 , -49.406412 , -67.603532 , -49.249695","centroide":"POINT (-67.65459083928538 -49.324622174226114)"},
+{"fna":"Reserva Natural Silvestre Isla de los Estados y Archipiélago de Año Nuevo","bounding_box":"-64.756568 , -54.916128 , -63.795888 , -54.645544","centroide":"POINT (-64.3166754111932 -54.79700165315815)"},
+{"fna":"Parque Interjurisdiccional Marino Makenke","bounding_box":"-67.782556 , -49.868914 , -67.519242 , -49.141667","centroide":"POINT (-67.62729007474597 -49.54316120284725)"},
+{"fna":"Reserva Provincial Caleta Olivia","bounding_box":"-67.47096 , -46.506189 , -67.455371 , -46.489579","centroide":"POINT (-67.4632061988456 -46.498374146282444)"},
+{"fna":"Área Marina Protegida Yaganes","bounding_box":"-67.26667 , -58.388076 , -64.0 , -55.016327","centroide":"POINT (-65.45484311033417 -56.933122830608795)"},
+{"fna":"Reserva Provincial Municipal Humedal Caleta Olivia","bounding_box":"-67.546498 , -46.423711 , -67.522334 , -46.396638","centroide":"POINT (-67.53327744881739 -46.410661542641556)"},
+{"fna":"Reserva Natural Provincial Barco Hundido","bounding_box":"-67.346919 , -46.879601 , -66.916355 , -46.616479","centroide":"POINT (-67.11581064560701 -46.73442996397847)"},
+{"fna":"Parque Nacional Nahuel Huapi","bounding_box":"-71.965686 , -41.585881 , -71.187184 , -40.142903","centroide":"POINT (-71.62309813053189 -40.8892111829214)"},
+{"fna":"Reserva Nacional Nahuel Huapi","bounding_box":"-71.84592 , -41.60265 , -71.031799 , -40.623452","centroide":"POINT (-71.36180854963575 -41.08569625670739)"},
+{"fna":"Reserva Natural Provincial Cabo Blanco","bounding_box":"-65.830975 , -47.253354 , -65.699414 , -47.127773","centroide":"POINT (-65.77168485126491 -47.19356428226973)"},
+{"fna":"Reserva Natural Provincial Ría de Puerto Deseado","bounding_box":"-66.524719 , -47.879163 , -65.900312 , -47.722993","centroide":"POINT (-66.15374119490902 -47.808653420031064)"},
+{"fna":"Área de Uso Limitado Bajo Protección Especial Bahía San Julián","bounding_box":"-67.804688 , -49.380013 , -67.717924 , -49.312012","centroide":"POINT (-67.76281239441539 -49.34219253249236)"},
+{"fna":"Área de Uso Científico Monte Loayza","bounding_box":"-66.491771 , -47.124783 , -66.019347 , -47.040418","centroide":"POINT (-66.23064715945158 -47.0902259685041)"},
+{"fna":"Área Natural Protegida Puerto Lobos","bounding_box":"-65.086349 , -42.000969 , -64.732289 , -41.7667","centroide":"POINT (-64.91284400963069 -41.88481149670142)"},
+{"fna":"Reserva de Biósfera Península Valdés","bounding_box":"-65.321459 , -43.510296 , -63.384109 , -42.000293","centroide":"POINT (-64.39157861290799 -42.6245781510732)"},
+{"fna":"Reserva Natural Turística de Objetivo Integral Península Valdés","bounding_box":"-64.495136 , -42.878948 , -63.582803 , -42.072062","centroide":"POINT (-63.94282355008424 -42.4984039424966)"},
+{"fna":"Parque Marino Provincial Golfo San José","bounding_box":"-64.62011 , -42.439866 , -64.04237 , -42.234062","centroide":"POINT (-64.31889138411654 -42.337610186652135)"},
+{"fna":"Reserva Natural Turística Punta León","bounding_box":"-64.463987 , -43.06964 , -64.429015 , -43.044643","centroide":"POINT (-64.44709104378384 -43.05756729831901)"},
+{"fna":"Reserva de Vida Silvestre Urugua-í","bounding_box":"-54.117432 , -26.02834 , -54.0314 , -25.969198","centroide":"POINT (-54.07811692930488 -26.001386515369106)"},
+{"fna":"Parque Nacional Lago Puelo","bounding_box":"-71.78346 , -42.262129 , -71.596839 , -42.090652","centroide":"POINT (-71.67253393133662 -42.168524159614435)"},
+{"fna":"Reserva Natural La Humada","bounding_box":"-68.094268 , -36.444676 , -67.967172 , -36.389337","centroide":"POINT (-68.0287277737634 -36.41662985975292)"},
+{"fna":"Refugio Privado de Vida Silvestre Lapacho Cué","bounding_box":"-54.385653 , -26.345627 , -54.367939 , -26.324572","centroide":"POINT (-54.37642501224926 -26.336814124563723)"},
+{"fna":"Reserva Natural Turística Punta Loma","bounding_box":"-64.9274 , -42.846247 , -64.809997 , -42.805865","centroide":"POINT (-64.8950920340423 -42.83139173967654)"},
+{"fna":"Área Provincial Natural Protegida de Bahía San Antonio","bounding_box":"-65.161981 , -40.946751 , -64.718398 , -40.709595","centroide":"POINT (-64.92210157110856 -40.853371644624715)"},
+{"fna":"Sitio Ramsar Humedales Península de Valdés","bounding_box":"-64.676044 , -42.712905 , -63.991397 , -42.2504","centroide":"POINT (-64.2906231431476 -42.45783968012827)"},
+{"fna":"Reserva Natural de la Defensa Punta Buenos Aires","bounding_box":"-64.379077 , -42.252146 , -64.098366 , -42.183183","centroide":"POINT (-64.20353828807899 -42.22482833569574)"},
+{"fna":"Reserva de Biósfera Patagonia Azul","bounding_box":"-67.632447 , -45.577586 , -64.582748 , -43.662812","centroide":"POINT (-65.76733587449078 -44.7601084912297)"},
+{"fna":"Parque Interjurisdiccional Marino Costero Patagonia Austral","bounding_box":"-66.717745 , -45.264432 , -65.342383 , -44.894592","centroide":"POINT (-66.09640020367638 -45.07206916450114)"},
+{"fna":"Reserva Natural Turística de Objetivo Específico Punta Tombo","bounding_box":"-65.237474 , -44.059534 , -65.187474 , -44.037801","centroide":"POINT (-65.21287824785277 -44.04682653926193)"},
+{"fna":"Parque Provincial Esperanza","bounding_box":"-54.411721 , -26.069727 , -54.314798 , -26.031142","centroide":"POINT (-54.36142288809746 -26.050981848643975)"},
+{"fna":"Reserva Nacional Lago Puelo","bounding_box":"-71.787582 , -42.260206 , -71.596839 , -42.083028","centroide":"POINT (-71.72070526932072 -42.19886845571268)"},
+{"fna":"Reserva Natural Turística de Objetivo Integral Cabo dos Bahías","bounding_box":"-65.572627 , -44.92676 , -65.530743 , -44.902412","centroide":"POINT (-65.55192276742545 -44.914226591278734)"},
+{"fna":"Reserva Provincial Monte Loayza","bounding_box":"-66.491771 , -47.124783 , -66.019347 , -47.050033","centroide":"POINT (-66.241671416145 -47.095487155722715)"},
+{"fna":"Refugio Privado de Vida Silvestre Aguaray-mí","bounding_box":"-54.43131 , -26.117976 , -54.371639 , -26.037382","centroide":"POINT (-54.40563430889785 -26.07807633032721)"},
+{"fna":"Refugio de Vida Silvestre Timbó Gigante","bounding_box":"-54.783261 , -26.690833 , -54.764101 , -26.675635","centroide":"POINT (-54.77169279972542 -26.681924838474586)"},
+{"fna":"Reserva Natural Provincial de Uso Múltiple Arroyo Zabala","bounding_box":"-59.375244 , -38.750152 , -59.241643 , -38.70851","centroide":"POINT (-59.306041323130366 -38.729476684215605)"},
+{"fna":"Reserva Natural Provincial Bahía Laura","bounding_box":"-66.495619 , -48.43393 , -66.335661 , -48.342843","centroide":"POINT (-66.4367865028756 -48.37590832085833)"},
+{"fna":"Reserva Natural Provincial de Uso Múltiple y Refugio de Vida Silvestre Bahía San Blas","bounding_box":"-62.540405 , -40.776798 , -61.799033 , -39.830755","centroide":"POINT (-62.174887529609016 -40.31584795882036)"},
+{"fna":"Reserva Provincial y Parque Interjurisdiccional Marino Isla Pingüinos","bounding_box":"-66.489167 , -48.421111 , -65.551814 , -47.765315","centroide":"POINT (-65.94460146671209 -48.104457817957105)"},
+{"fna":"Refugio Privado Itacuarahy","bounding_box":"-54.489402 , -26.444712 , -54.474819 , -26.427201","centroide":"POINT (-54.482620970891176 -26.43654711375751)"},
+{"fna":"Refugio Privado de Vida Silvestre Chancay","bounding_box":"-54.697875 , -27.474472 , -54.681529 , -27.449763","centroide":"POINT (-54.691005344838665 -27.461520341891358)"},
+{"fna":"Reserva Provincial Natural Embalse Casa de Piedra","bounding_box":"-67.264998 , -38.305896 , -67.155374 , -38.156074","centroide":"POINT (-67.2093139978782 -38.21400925360086)"},
+{"fna":"Parque Provincial Salto Encantado del Valle del Arroyo Cuñá Pirú","bounding_box":"-54.976383 , -27.093309 , -54.82539 , -26.934282","centroide":"POINT (-54.91290153943826 -27.01822273435317)"},
+{"fna":"Reserva Privada Santa María del Aguaray Miní","bounding_box":"-54.609226 , -26.212904 , -54.598754 , -26.208202","centroide":"POINT (-54.6057771170251 -26.211138600322894)"},
+{"fna":"Parque Provincial Guardaparque Horacio Foerster","bounding_box":"-53.96577 , -25.899883 , -53.848298 , -25.822875","centroide":"POINT (-53.90817958751107 -25.86041503483866)"},
+{"fna":"Parque Provincial Cruce Caballero","bounding_box":"-54.010808 , -26.530723 , -53.969922 , -26.508069","centroide":"POINT (-53.99097160492428 -26.51873147442299)"},
+{"fna":"Parque Provincial de la Araucaria","bounding_box":"-54.107247 , -26.637078 , -54.093278 , -26.62515","centroide":"POINT (-54.10041385620517 -26.630982700439706)"},
+{"fna":"Paisaje Protegido Andrés Giai (Refugio de Animales Silvestres Güirá Oga)","bounding_box":"-54.558492 , -25.631637 , -54.548667 , -25.624821","centroide":"POINT (-54.552746348607485 -25.627741180538354)"},
+{"fna":"Parque Provincial Esmeralda","bounding_box":"-54.048987 , -27.069998 , -53.804271 , -26.886036","centroide":"POINT (-53.92234103896872 -26.957764845988276)"},
+{"fna":"Reserva Privada Tomo","bounding_box":"-54.351197 , -26.504507 , -54.324962 , -26.440323","centroide":"POINT (-54.33681334618028 -26.471347834720028)"},
+{"fna":"Parque Natural Municipal Yarará","bounding_box":"-54.612505 , -26.023199 , -54.60861 , -26.020413","centroide":"POINT (-54.61064242847995 -26.021765756305786)"},
+{"fna":"Reserva de Uso Múltiple Cuartel Victoria","bounding_box":"-54.438947 , -26.941549 , -54.411753 , -26.916437","centroide":"POINT (-54.42295379966589 -26.927386665698887)"},
+{"fna":"Monumento Natural Ingeniero Florencio de Basaldúa","bounding_box":"-54.005729 , -25.748738 , -53.991274 , -25.71498","centroide":"POINT (-53.99811045309779 -25.731156763384934)"},
+{"fna":"Reserva Privada El Paraíso","bounding_box":"-55.162552 , -27.207168 , -55.149592 , -27.175704","centroide":"POINT (-55.15611794219993 -27.191374074528714)"},
+{"fna":"Reserva de Vida Silvestre Yaguaroundí","bounding_box":"-54.288712 , -26.705462 , -54.262451 , -26.68424","centroide":"POINT (-54.275721976724945 -26.695030995421533)"},
+{"fna":"Refugio Privado de Vida Silvestre Caá Porá","bounding_box":"-54.072745 , -25.797968 , -54.063833 , -25.787463","centroide":"POINT (-54.06821645058448 -25.792668081225564)"},
+{"fna":"Parque Provincial Urugua-í","bounding_box":"-54.284851 , -26.193628 , -53.761579 , -25.700111","centroide":"POINT (-54.034673569394194 -25.96941859800571)"},
+{"fna":"Parque Provincial Uruzú","bounding_box":"-54.215387 , -25.856333 , -54.167013 , -25.792259","centroide":"POINT (-54.190815402805725 -25.819694110508088)"},
+{"fna":"Parque Provincial Teyú Cuaré","bounding_box":"-55.59656 , -27.289775 , -55.586922 , -27.276327","centroide":"POINT (-55.59204633052415 -27.282861896451642)"},
+{"fna":"Parque Provincial de la Sierra Ingeniero Raúl Martínez Crovetto","bounding_box":"-55.582224 , -27.758349 , -55.538421 , -27.7273","centroide":"POINT (-55.55831344844002 -27.741643041927794)"},
+{"fna":"Reserva de Uso Múltiple Cerro Azul","bounding_box":"-55.452954 , -27.671473 , -55.425564 , -27.645428","centroide":"POINT (-55.438333077355665 -27.660512872222814)"},
+{"fna":"Parque Municipal Amado Bonpland","bounding_box":"-55.165352 , -27.410187 , -55.162285 , -27.40693","centroide":"POINT (-55.16381582238715 -27.408549485574103)"},
+{"fna":"Reserva Privada Julián Freaza","bounding_box":"-54.003994 , -26.390748 , -53.990269 , -26.347278","centroide":"POINT (-53.99729582320093 -26.370734658342283)"},
+{"fna":"Reserva Privada Valle del Arroyo Cuñá Pirú","bounding_box":"-55.016362 , -27.167583 , -54.915293 , -27.070856","centroide":"POINT (-54.97469482115465 -27.12266906145574)"},
+{"fna":"Refugio Privado de Vida Silvestre San Miguel de la Frontera Premidia S.A.","bounding_box":"-54.127655 , -27.229372 , -54.032974 , -27.124535","centroide":"POINT (-54.083984388749656 -27.17967423661876)"},
+{"fna":"Parque Provincial Ernesto Tornquist - Sierra de la Ventana","bounding_box":"-62.074126 , -38.093209 , -61.868945 , -37.992539","centroide":"POINT (-61.98609813734288 -38.0544995462302)"},
+{"fna":"Reserva Natural Municipal Guardia del Juncal","bounding_box":"-58.658409 , -35.239264 , -58.640754 , -35.221898","centroide":"POINT (-58.6490694518176 -35.229998799818276)"},
+{"fna":"Reserva Provincial Natural Limay Mahuida","bounding_box":"-66.555187 , -36.959315 , -66.425485 , -36.884289","centroide":"POINT (-66.48181005645442 -36.92820400924101)"},
+{"fna":"Reserva Provincial de Flora y Fauna Parque Luro","bounding_box":"-64.308993 , -36.967045 , -64.174418 , -36.874011","centroide":"POINT (-64.24740444261776 -36.914592643536274)"},
+{"fna":"Reserva Provincial Natural La Reforma","bounding_box":"-66.259658 , -37.387939 , -66.162374 , -37.286875","centroide":"POINT (-66.21565337989931 -37.33896711877273)"},
+{"fna":"Parque Provincial Cañadón de Profundidad","bounding_box":"-55.712915 , -27.559953 , -55.705856 , -27.54931","centroide":"POINT (-55.709686283764725 -27.555605477406033)"},
+{"fna":"Parque Provincial Fachinal","bounding_box":"-55.734372 , -27.639341 , -55.724206 , -27.633288","centroide":"POINT (-55.729504317123684 -27.636778672162304)"},
+{"fna":"Reserva Privada Tupá Pojá","bounding_box":"-55.723384 , -27.622805 , -55.711592 , -27.617611","centroide":"POINT (-55.71742127090013 -27.62018935280512)"},
+{"fna":"Reserva Natural Estricta San Antonio","bounding_box":"-53.803844 , -26.029345 , -53.776563 , -25.998991","centroide":"POINT (-53.79046069978754 -26.016684461385335)"},
+{"fna":"Reserva de Biósfera Pereyra Iraola","bounding_box":"-58.192383 , -34.88269 , -57.998902 , -34.763046","centroide":"POINT (-58.097675647712784 -34.81822235989265)"},
+{"fna":"Reserva Privada Rincón Nazarí","bounding_box":"-55.911831 , -27.362817 , -55.909444 , -27.359425","centroide":"POINT (-55.91087173803215 -27.360888934717615)"},
+{"fna":"Paisaje Protegido Lago Urugua-í","bounding_box":"-54.571991 , -25.961673 , -54.295491 , -25.812646","centroide":"POINT (-54.46039215314323 -25.883022766382208)"},
+{"fna":"Reserva de Uso Múltiple Alejandro Orloff - Saltitos","bounding_box":"-54.595497 , -27.102833 , -54.573828 , -27.065912","centroide":"POINT (-54.584046240342694 -27.085774482447697)"},
+{"fna":"Reserva Natural de Uso Múltiple Isla Martín García","bounding_box":"-58.258266 , -34.191334 , -58.242937 , -34.174939","centroide":"POINT (-58.250181501246324 -34.18324148555631)"},
+{"fna":"Parque Natural Municipal Ribera Norte","bounding_box":"-58.497192 , -34.47117 , -58.49195 , -34.466226","centroide":"POINT (-58.49415935027325 -34.4690718857842)"},
+{"fna":"Reserva Natural Municipal del Pilar","bounding_box":"-58.926472 , -34.427059 , -58.909658 , -34.400773","centroide":"POINT (-58.9176769734565 -34.41464485237701)"},
+{"fna":"Parque Nacional Lihuel Calel","bounding_box":"-65.664167 , -38.051077 , -65.457517 , -37.780525","centroide":"POINT (-65.58041366484642 -37.911547934254614)"},
+{"fna":"Reserva Natural Provincial Rincón de Santa María","bounding_box":"-58.635993 , -29.888291 , -58.534213 , -29.783543","centroide":"POINT (-58.58802067856358 -29.835552041739547)"},
+{"fna":"Reserva Provincial Natural Laguna de Guatraché","bounding_box":"-63.616333 , -37.750136 , -63.488357 , -37.670375","centroide":"POINT (-63.54000624110517 -37.71691322331186)"},
+{"fna":"Reserva Natural Provincial de Objetivo Definido Educativo Arroyo El Durazno","bounding_box":"-58.923807 , -34.713818 , -58.8654 , -34.693913","centroide":"POINT (-58.89658070388223 -34.70277965164553)"},
+{"fna":"Parque Provincial Piñalito","bounding_box":"-53.864095 , -26.466883 , -53.724568 , -26.420752","centroide":"POINT (-53.810356257996595 -26.450099722481266)"},
+{"fna":"Reserva Natural Objetivo Definido Educativo Lagunas de San Vicente","bounding_box":"-58.534451 , -35.065735 , -58.499977 , -35.023567","centroide":"POINT (-58.514785363760176 -35.04182329036369)"},
+{"fna":"Reserva Natural Ñochilei-co","bounding_box":"-66.947858 , -36.879586 , -66.764929 , -36.695489","centroide":"POINT (-66.86595325959487 -36.80357582483969)"},
+{"fna":"Reserva Natural Salitral Encantado","bounding_box":"-67.231784 , -37.53061 , -66.760092 , -37.224524","centroide":"POINT (-66.9902458346293 -37.37527144957725)"},
+{"fna":"Reserva Natural de la Defensa Puerto Península","bounding_box":"-54.658078 , -25.754271 , -54.392084 , -25.657857","centroide":"POINT (-54.58051651814433 -25.70854852912827)"},
+{"fna":"Reserva de Biósfera Yabotí","bounding_box":"-54.317616 , -27.199477 , -53.660012 , -26.6212","centroide":"POINT (-53.957048366667266 -26.909985114834587)"},
+{"fna":"Parque Provincial Grupo de la Isla Grande del Iguazú Superior","bounding_box":"-54.126628 , -25.553544 , -54.11974 , -25.542215","centroide":"POINT (-54.12337361773362 -25.546864113600698)"},
+{"fna":"Parque Provincial Ingeniero Agrónomo Roberto Cametti","bounding_box":"-54.119987 , -25.508673 , -54.098243 , -25.497676","centroide":"POINT (-54.10860620543492 -25.50277278151664)"},
+{"fna":"Reserva Provincial de Biósfera San Guillermo","bounding_box":"-70.021761 , -29.939378 , -69.07681 , -28.388752","centroide":"POINT (-69.52538109387511 -29.167685685931993)"},
+{"fna":"Reserva Natural Silvestre Alto Iguazu","bounding_box":"-54.163278 , -25.598422 , -54.152048 , -25.582944","centroide":"POINT (-54.15829678353895 -25.5904803544019)"},
+{"fna":"Parque Provincial Puerto Península","bounding_box":"-54.575634 , -25.752411 , -54.449869 , -25.657213","centroide":"POINT (-54.529916755809 -25.713554923971316)"},
+{"fna":"Reserva Forestal Guaraní","bounding_box":"-54.292171 , -26.97719 , -54.178895 , -26.89146","centroide":"POINT (-54.23822817893776 -26.93580722809205)"},
+{"fna":"Reserva Natural Provincial de Uso Múltiple Laguna Salada Grande","bounding_box":"-57.284586 , -37.103787 , -56.697938 , -36.400228","centroide":"POINT (-56.9612556400541 -36.74125890313723)"},
+{"fna":"Reserva Natural y Cultural Papel Misionero","bounding_box":"-54.270538 , -27.052778 , -54.115228 , -26.933479","centroide":"POINT (-54.202641873500355 -26.992111398357608)"},
+{"fna":"Reserva Natural Provincial de Uso Múltiple Isla Botija","bounding_box":"-59.057124 , -33.930435 , -58.972773 , -33.839174","centroide":"POINT (-59.016427580610355 -33.885177512096256)"},
+{"fna":"Reserva Natural Provincial Integral y de Objetivo Definido Bahía de Samborombón","bounding_box":"-57.939529 , -36.521407 , -56.745697 , -34.928281","centroide":"POINT (-57.36796632349948 -35.71522488191993)"},
+{"fna":"Reserva Natural Educativa Colonia Benítez","bounding_box":"-58.952584 , -27.319181 , -58.94367 , -27.315981","centroide":"POINT (-58.94984106268348 -27.317542070122673)"},
+{"fna":"Parque Natural Provincial Loro Hablador","bounding_box":"-61.925687 , -25.493721 , -61.709253 , -25.40753","centroide":"POINT (-61.81967578974493 -25.449583719621174)"},
+{"fna":"Reserva Natural Pichi Mahuida","bounding_box":"-64.936649 , -38.833282 , -64.783593 , -38.77252","centroide":"POINT (-64.86436485801795 -38.800686528993815)"},
+{"fna":"Reserva Nacional Iguazú","bounding_box":"-54.557154 , -25.749612 , -54.441209 , -25.614584","centroide":"POINT (-54.489827086481995 -25.667705521695538)"},
+{"fna":"Reserva Natural Íctica Corpus","bounding_box":"-55.56544 , -27.153441 , -55.469112 , -27.098071","centroide":"POINT (-55.542151076014214 -27.11216496611436)"},
+{"fna":"Refugio Privado de Vida Silvestre Chachi","bounding_box":"-55.095485 , -27.480743 , -55.090708 , -27.476189","centroide":"POINT (-55.09270390734504 -27.47881396815723)"},
+{"fna":"Parque Nacional Iguazú","bounding_box":"-54.477772 , -25.761744 , -54.160401 , -25.534556","centroide":"POINT (-54.28576642714902 -25.668563421707095)"},
+{"fna":"Parque Natural Municipal Luis Honorio Rolón","bounding_box":"-54.57858 , -25.596576 , -54.565775 , -25.592127","centroide":"POINT (-54.57377990401596 -25.593509734730606)"},
+{"fna":"Reserva Privada La Ponderosa","bounding_box":"-54.558052 , -26.959554 , -54.539026 , -26.940837","centroide":"POINT (-54.54860626826866 -26.950227239750173)"},
+{"fna":"Parque Provincial Yacuy","bounding_box":"-54.1631 , -25.615294 , -54.1425 , -25.589636","centroide":"POINT (-54.15477033550371 -25.60258265307699)"},
+{"fna":"Reserva de Pesca Boca de la Laguna Herradura","bounding_box":"-58.228465 , -26.553129 , -58.211477 , -26.519392","centroide":"POINT (-58.22282445547341 -26.539258907619125)"},
+{"fna":"Reserva Privada de Uso Múltiple Estancia Santa Catalina","bounding_box":"-60.659681 , -31.35048 , -60.608662 , -31.319379","centroide":"POINT (-60.63843598867375 -31.33494309593155)"},
+{"fna":"Reserva de Pesca Arroyo Ramírez","bounding_box":"-58.267424 , -26.670739 , -58.243992 , -26.638661","centroide":"POINT (-58.2604707398704 -26.64925765989642)"},
+{"fna":"Reserva Natural Provincial Apipé Grande","bounding_box":"-56.956944 , -27.541632 , -56.837267 , -27.435944","centroide":"POINT (-56.88653508900627 -27.497261531198426)"},
+{"fna":"Reserva Provincial Lago del Desierto","bounding_box":"-73.146431 , -49.248931 , -72.742067 , -48.925428","centroide":"POINT (-72.93607941874104 -49.09786630312976)"},
+{"fna":"Reserva Provincial de Uso Múltiple Laguna Negra","bounding_box":"-67.308247 , -54.532022 , -67.26252 , -54.485054","centroide":"POINT (-67.28638076863133 -54.50662751259058)"},
+{"fna":"Reserva Natural Provincial Bosque Petrificado Ea. La Urbana","bounding_box":"-71.395701 , -49.805519 , -71.109272 , -49.531226","centroide":"POINT (-71.25966134574888 -49.655690094234274)"},
+{"fna":"Reserva Provincial de Uso Múltiple Río Valdez","bounding_box":"-67.336761 , -54.64532 , -67.250314 , -54.564415","centroide":"POINT (-67.27949323868795 -54.598073645788666)"},
+{"fna":"Reserva de Uso Múltiple El Gato y Lomas Limpias","bounding_box":"-59.217273 , -30.897284 , -58.557462 , -30.607078","centroide":"POINT (-58.901133655128874 -30.751594504534477)"},
+{"fna":"Reserva de Uso Múltiple Escuela Rural Juan B. Alberdi","bounding_box":"-60.529188 , -31.840272 , -60.522396 , -31.836156","centroide":"POINT (-60.524927512309326 -31.838584725062024)"},
+{"fna":"Parque Escolar Rural Enrique Berduc - Parque General San Martín","bounding_box":"-60.352949 , -31.754402 , -60.320521 , -31.719786","centroide":"POINT (-60.332904561413876 -31.735633427184542)"},
+{"fna":"Reserva Natural de Fauna Laguna La Felipa","bounding_box":"-63.5856 , -33.150583 , -63.535967 , -33.104717","centroide":"POINT (-63.55573409669609 -33.128286737952926)"},
+{"fna":"Parque Nacional Islas de Santa Fe","bounding_box":"-60.748213 , -32.327324 , -60.678635 , -32.223933","centroide":"POINT (-60.707319365805844 -32.27635122784601)"},
+{"fna":"Parque Natural Provincial Fuerte Esperanza","bounding_box":"-61.754501 , -25.183389 , -61.621232 , -25.102216","centroide":"POINT (-61.6879462146765 -25.138407637457846)"},
+{"fna":"Reserva Cultural y Natural Cerro Colorado","bounding_box":"-63.971045 , -30.131972 , -63.92217 , -30.025786","centroide":"POINT (-63.94130587603422 -30.068915669374146)"},
+{"fna":"Reserva Hídrica Natural La Quebrada","bounding_box":"-64.433074 , -31.183237 , -64.338947 , -31.121168","centroide":"POINT (-64.38753144378079 -31.150619091568498)"},
+{"fna":"Reserva Hídrica Provincial Pampa de Achala","bounding_box":"-64.995945 , -32.073479 , -64.670194 , -31.298136","centroide":"POINT (-64.84115698602533 -31.657768053841615)"},
+{"fna":"Parque Natural Provincial y Reserva Forestal Chancaní","bounding_box":"-65.499425 , -31.40038 , -65.39112 , -31.340161","centroide":"POINT (-65.44300246987828 -31.36977370912247)"},
+{"fna":"Monumento Natural Provincial Cañada Molina","bounding_box":"-70.616334 , -37.132843 , -70.587505 , -37.123294","centroide":"POINT (-70.60079197159477 -37.128115743225734)"},
+{"fna":"Reserva Provincial Tucu - Tucu","bounding_box":"-72.589509 , -48.787093 , -71.837077 , -48.103774","centroide":"POINT (-72.21152419759206 -48.466445847394645)"},
+{"fna":"Reserva Provincial Pinturas Rupestres Río Chalia o Shehuen","bounding_box":"-71.666352 , -49.537295 , -71.515856 , -49.395294","centroide":"POINT (-71.59797383600268 -49.47508619618231)"},
+{"fna":"Monumento Natural Provincial Bloque Errático","bounding_box":"-70.630629 , -51.861016 , -70.511642 , -51.815252","centroide":"POINT (-70.56743240336701 -51.834286605147334)"},
+{"fna":"Reserva Provincial Geológica Laguna Azul","bounding_box":"-69.655643 , -52.055504 , -69.575556 , -52.012028","centroide":"POINT (-69.61835885832659 -52.03154927119932)"},
+{"fna":"Parque Nacional Patagonia","bounding_box":"-71.517837 , -47.421456 , -71.123798 , -46.899225","centroide":"POINT (-71.31700607305261 -47.15918456033601)"},
+{"fna":"Reserva Hidrogeológica Meseta Espinosa y El Cordón","bounding_box":"-69.050332 , -47.099824 , -67.506839 , -46.576174","centroide":"POINT (-67.96888894300012 -46.81654688065954)"},
+{"fna":"Centro Biológico de Fauna Silvestre Pilagá - Zoo","bounding_box":"-58.180724 , -25.986152 , -58.140958 , -25.953367","centroide":"POINT (-58.160130556159444 -25.96902863515738)"},
+{"fna":"Reserva de Caza Laguna Hú","bounding_box":"-58.478637 , -25.630678 , -58.40674 , -25.589249","centroide":"POINT (-58.442288703495784 -25.607129006585957)"},
+{"fna":"Reserva de Caza de Fauna Silvestre Agua Dulce","bounding_box":"-58.985482 , -24.867216 , -58.928071 , -24.693367","centroide":"POINT (-58.95509422219173 -24.782791463742637)"},
+{"fna":"Monumento Natural Bosque Petrificado Valcheta","bounding_box":"-66.196922 , -40.669716 , -66.178418 , -40.646586","centroide":"POINT (-66.18747069387754 -40.65942551020408)"},
+{"fna":"Parque Municipal Zanjón de Loreto","bounding_box":"-56.735786 , -27.622442 , -56.660725 , -27.560455","centroide":"POINT (-56.70028877022654 -27.594318727646087)"},
+{"fna":"Sitio Ramsar Humedales Chaco","bounding_box":"-59.293085 , -28.066825 , -58.377351 , -26.661721","centroide":"POINT (-58.866739787307544 -27.394968049967527)"},
+{"fna":"Reserva Provincial San Lorenzo","bounding_box":"-72.452411 , -47.725309 , -72.194037 , -47.550316","centroide":"POINT (-72.30229586567388 -47.66152359889573)"},
+{"fna":"Parque Nacional Mburucuyá","bounding_box":"-58.160367 , -28.096515 , -57.985779 , -27.939525","centroide":"POINT (-58.06922018558969 -28.01299259091445)"},
+{"fna":"Reserva Natural de la Defensa Campo Garabato","bounding_box":"-60.242188 , -28.924194 , -60.13623 , -28.887451","centroide":"POINT (-60.19095564863077 -28.90703391490866)"},
+{"fna":"Reserva Natural Aguas Chiquitas","bounding_box":"-65.228344 , -26.618825 , -65.165672 , -26.521914","centroide":"POINT (-65.1997604947761 -26.57404463878086)"},
+{"fna":"Reserva Islote Municipal","bounding_box":"-60.527456 , -31.716955 , -60.517843 , -31.714171","centroide":"POINT (-60.521944815427055 -31.715735527315363)"},
+{"fna":"Sitio Ramsar Humedal Laguna Melincue","bounding_box":"-61.775942 , -33.855236 , -61.242954 , -33.533102","centroide":"POINT (-61.49542800818415 -33.71127166521221)"},
+{"fna":"Parque Natural Provincial Cayastá","bounding_box":"-60.186665 , -31.236199 , -60.151436 , -31.217311","centroide":"POINT (-60.1666970643774 -31.227566434008082)"},
+{"fna":"Parque Arqueológico Santa Fe la Vieja","bounding_box":"-60.167338 , -31.221226 , -60.153291 , -31.207141","centroide":"POINT (-60.159268298384504 -31.21415835537404)"},
+{"fna":"Reserva Natural de la Defensa Quebrada del Portugués","bounding_box":"-65.885747 , -27.108037 , -65.656161 , -26.946859","centroide":"POINT (-65.76209341208438 -27.012249507778094)"},
+{"fna":"Reserva Natural Provincial Laguna Brava","bounding_box":"-58.72356 , -27.500126 , -58.713661 , -27.489223","centroide":"POINT (-58.718368490425625 -27.49425020227088)"},
+{"fna":"Reserva Cultural y Natural Playa Larga","bounding_box":"-68.232503 , -54.819013 , -68.185245 , -54.798599","centroide":"POINT (-68.2112746323237 -54.80936315705824)"},
+{"fna":"Reserva Provincial La Pirámide","bounding_box":"-61.711618 , -25.695191 , -61.644858 , -25.60255","centroide":"POINT (-61.67803642635539 -25.64867832421278)"},
+{"fna":"Reserva Ecológica Ciudad Universitaria - Costanera Norte","bounding_box":"-58.448614 , -34.541508 , -58.440885 , -34.535927","centroide":"POINT (-58.444257001183246 -34.5381693740914)"},
+{"fna":"Reserva Ecológica El Bagual","bounding_box":"-58.831657 , -26.334899 , -58.773973 , -26.274815","centroide":"POINT (-58.802037118085956 -26.309165393449458)"},
+{"fna":"Sitios Ramsar Lagunas y Esteros del Iberá","bounding_box":"-57.229415 , -28.596831 , -57.087452 , -28.450595","centroide":"POINT (-57.15870477403921 -28.523753306357793)"},
+{"fna":"Reserva Municipal San Justo","bounding_box":"-60.649033 , -30.799596 , -60.628269 , -30.795628","centroide":"POINT (-60.638652754288465 -30.797612155150585)"},
+{"fna":"Reserva Natural Municipal Isla de las Damas","bounding_box":"-59.302009 , -29.151325 , -59.244922 , -29.087084","centroide":"POINT (-59.275414410001595 -29.119874057457075)"},
+{"fna":"Reserva Ecológica Municipal Laguna Nimez","bounding_box":"-72.276015 , -50.328588 , -72.262741 , -50.320381","centroide":"POINT (-72.269176537177 -50.32480673987924)"},
+{"fna":"Reserva Hídrica Natural Arroyo Saladillo\t","bounding_box":"-62.313675 , -33.722689 , -61.512013 , -33.309097","centroide":"POINT (-61.942191542629295 -33.51194447598297)"},
+{"fna":"Reserva Hídrica Natural Arroyo Sauce-Pavón","bounding_box":"-61.474148 , -33.870045 , -60.972917 , -33.530005","centroide":"POINT (-61.18033642812977 -33.70997588617915)"},
+{"fna":"Reserva Privada de Uso Múltiple Federico Wildermuth","bounding_box":"-61.43247 , -32.040946 , -61.395916 , -31.971076","centroide":"POINT (-61.41293251944599 -32.006944802252974)"},
+{"fna":"Reserva Universitaria de Recursos Granja Esperanza","bounding_box":"-60.922052 , -31.388914 , -60.910563 , -31.380768","centroide":"POINT (-60.916678381202956 -31.384837463932158)"},
+{"fna":"Parque Natural Provincial Pampa del Indio","bounding_box":"-60.112751 , -26.300688 , -59.988888 , -26.127345","centroide":"POINT (-60.05386257694968 -26.211672656980898)"},
+{"fna":"Reserva Natural Manejada El Fisco","bounding_box":"-61.02736 , -30.206778 , -60.986642 , -30.151218","centroide":"POINT (-61.00798304741821 -30.178062808165787)"},
+{"fna":"Parque Natural Provincial Del Medio - Los Caballos","bounding_box":"-59.706059 , -29.915406 , -59.64817 , -29.863424","centroide":"POINT (-59.679797002456525 -29.88949537827596)"},
+{"fna":"Reserva Privada de Uso Múltiple Isleta Linda","bounding_box":"-61.17484 , -28.866558 , -61.016971 , -28.689974","centroide":"POINT (-61.096202864143805 -28.778290127566393)"},
+{"fna":"Reserva Natural Manejada Potrero 7b","bounding_box":"-60.252972 , -29.35425 , -60.212722 , -29.283917","centroide":"POINT (-60.23287295758034 -29.31913636032148)"},
+{"fna":"Reserva Natural La Loca","bounding_box":"-60.333417 , -28.826722 , -60.264528 , -28.784389","centroide":"POINT (-60.30025177725121 -28.811129724797542)"},
+{"fna":"Área de Uso Limitado Bajo Protección Especial Isla Solitaria","bounding_box":"-72.253917 , -50.273163 , -72.113479 , -50.198102","centroide":"POINT (-72.18571321946887 -50.23750079545569)"},
+{"fna":"Reserva Natural Silvestre La Ascensión","bounding_box":"-71.534621 , -46.761568 , -71.363105 , -46.572948","centroide":"POINT (-71.45300500603886 -46.68123870177699)"},
+{"fna":"Reserva Natural Laguna La Salina","bounding_box":"-68.855278 , -35.061325 , -68.780678 , -34.96507","centroide":"POINT (-68.81787079095606 -35.01063157809028)"},
+{"fna":"Parque Nacional El Impenetrable","bounding_box":"-61.378289 , -25.263084 , -60.819215 , -24.743971","centroide":"POINT (-61.105643978111836 -25.004680319901436)"},
+{"fna":"Reserva de Pesca Boca del Río Bermejo","bounding_box":"-58.396186 , -26.871826 , -58.33353 , -26.847781","centroide":"POINT (-58.371289560687416 -26.863064382391244)"},
+{"fna":"Reserva Natural Silvestre Piedra del Fraile","bounding_box":"-73.137204 , -49.247134 , -72.910123 , -49.185445","centroide":"POINT (-73.04019730814922 -49.22694552809318)"},
+{"fna":"Reserva Natural Provincial Bañado la Estrella","bounding_box":"-62.237588 , -24.871237 , -59.714539 , -22.711069","centroide":"POINT (-61.001301152936875 -23.862499729129965)"},
+{"fna":"Sitio Ramsar Palmar Yatay","bounding_box":"-58.460832 , -32.1049 , -58.137747 , -31.7833","centroide":"POINT (-58.30838569115278 -31.87967182829558)"},
+{"fna":"Reserva Natural de la Defensa Ascochinga","bounding_box":"-64.346371 , -31.006418 , -64.232801 , -30.933344","centroide":"POINT (-64.29148730293008 -30.967588755858145)"},
+{"fna":"Reserva de Biósfera Laguna Oca del Río Paraguay","bounding_box":"-58.661518 , -26.654911 , -58.104118 , -26.091323","centroide":"POINT (-58.278298668130084 -26.35008269060197)"},
+{"fna":"Reserva Natural Silvestre Patagonia","bounding_box":"-71.471642 , -47.42054 , -71.127655 , -46.923096","centroide":"POINT (-71.2637300279495 -47.13746455777838)"},
+{"fna":"Reserva Natural Silvestre El Rincón","bounding_box":"-72.215445 , -47.728123 , -72.076071 , -47.543773","centroide":"POINT (-72.13683761851473 -47.621438599766805)"},
+{"fna":"Reserva de Biósfera Riacho Teuquito","bounding_box":"-61.947038 , -24.432536 , -61.227283 , -24.021063","centroide":"POINT (-61.63439296987923 -24.24999531989513)"},
+{"fna":"Parque Nacional Traslasierra","bounding_box":"-65.771984 , -31.047176 , -65.401766 , -30.905412","centroide":"POINT (-65.62670035919193 -30.994680870570427)"},
+{"fna":"Reserva Forestal Natural Estancia Ralicó","bounding_box":"-64.919219 , -34.923431 , -64.753018 , -34.830713","centroide":"POINT (-64.83612389566527 -34.87739243801051)"},
+{"fna":"Reserva Natural Formosa","bounding_box":"-61.845432 , -24.336737 , -61.721257 , -24.206673","centroide":"POINT (-61.801041220511536 -24.275622398492505)"},
+{"fna":"Parque Universitario Sierra de San Javier","bounding_box":"-65.427614 , -26.817139 , -65.341842 , -26.611235","centroide":"POINT (-65.38594167294471 -26.71242690209375)"},
+{"fna":"Reserva Natural Estricta La Angostura","bounding_box":"-65.724003 , -26.943414 , -65.675873 , -26.895284","centroide":"POINT (-65.70167161937036 -26.921835869775244)"},
+{"fna":"Reserva Natural Los Sosa","bounding_box":"-65.657094 , -27.132276 , -65.550789 , -27.072299","centroide":"POINT (-65.60232009833848 -27.100236934429724)"},
+{"fna":"Parque Provincial La Florida","bounding_box":"-65.962043 , -27.208291 , -65.677922 , -27.01722","centroide":"POINT (-65.86476671157749 -27.11111938583838)"},
+{"fna":"Reserva Provincial Meseta Lago Strobel","bounding_box":"-71.339876 , -48.472022 , -71.093935 , -48.364339","centroide":"POINT (-71.20306788682113 -48.41587741601534)"},
+{"fna":"Reserva Natural Quebrada del Portugués","bounding_box":"-65.918026 , -27.057228 , -65.717606 , -26.978718","centroide":"POINT (-65.81291645241701 -27.015503664579008)"},
+{"fna":"Reserva Natural Santa Ana","bounding_box":"-65.92745 , -27.518394 , -65.741852 , -27.387035","centroide":"POINT (-65.83650540537296 -27.45588365803021)"},
+{"fna":"Reserva Natural de Interés Provincial Los Escarchados","bounding_box":"-71.561414 , -50.401494 , -71.466982 , -50.362753","centroide":"POINT (-71.51258523575669 -50.3829821153087)"},
+{"fna":"Reserva Provincial Punta Gruesa","bounding_box":"-72.070228 , -51.560693 , -71.997577 , -51.494783","centroide":"POINT (-72.02879748890489 -51.526511023591105)"},
+{"fna":"Reserva Provincial Aves Migratorias","bounding_box":"-69.129352 , -51.684377 , -68.974009 , -51.606339","centroide":"POINT (-69.04181885890789 -51.64894222191483)"},
+{"fna":"Parque Nacional Bosques Petrificados de Jaramillo","bounding_box":"-68.304339 , -47.835231 , -67.809468 , -47.508402","centroide":"POINT (-68.06797028570807 -47.69199187132428)"},
+{"fna":"Reserva Nacional Monte León","bounding_box":"-69.058343 , -50.291761 , -68.893612 , -50.201362","centroide":"POINT (-68.97673940385172 -50.25026846306727)"},
+{"fna":"Reserva Provincial de Uso Múltiple Salinas Grandes","bounding_box":"-65.442564 , -30.435459 , -64.651711 , -29.574706","centroide":"POINT (-64.9430231601955 -30.00510870834954)"},
+{"fna":"Refugio de Vida Silvestre Monte de las Barrancas","bounding_box":"-64.980934 , -30.145696 , -64.907318 , -29.965589","centroide":"POINT (-64.94347768860922 -30.054360150811743)"},
+{"fna":"Patrimonio Mundial Cultural de la Humanidad Cueva de las Manos del Río Pinturas","bounding_box":"-70.76369 , -47.175102 , -70.612597 , -47.071855","centroide":"POINT (-70.68649579453214 -47.122718939357824)"},
+{"fna":"Parque Nacional Quebrada del Condorito","bounding_box":"-64.864817 , -31.768404 , -64.679088 , -31.568895","centroide":"POINT (-64.77076872309182 -31.685949038471907)"},
+{"fna":"Reserva Nacional Quebrada del Condorito","bounding_box":"-64.877154 , -31.827843 , -64.679526 , -31.553842","centroide":"POINT (-64.82148162075143 -31.716264817830357)"},
+{"fna":"Reserva Nacional Perito Moreno","bounding_box":"-72.21003 , -48.001531 , -71.9675 , -47.726111","centroide":"POINT (-72.06650393046289 -47.85756881148065)"},
+{"fna":"Parque Nacional Los Glaciares","bounding_box":"-73.566589 , -50.753354 , -72.7163 , -49.201111","centroide":"POINT (-73.2305935356567 -49.975339083906306)"},
+{"fna":"Reserva Nacional Los Glaciares","bounding_box":"-73.298379 , -50.751808 , -72.720044 , -49.247014","centroide":"POINT (-72.95408919729392 -49.85822976954703)"},
+{"fna":"Parque Nacional Iberá-Núcleo Carambola","bounding_box":"-57.801292 , -28.517856 , -57.544322 , -28.33917","centroide":"POINT (-57.6798971762086 -28.45443322959453)"},
+{"fna":"Parque Nacional Iberá - Núcleo San Nicolás\/San Alonso","bounding_box":"-57.626677 , -28.397086 , -57.096369 , -27.842188","centroide":"POINT (-57.35570051186652 -28.127861620651835)"},
+{"fna":"Sitio Ramsar Glaciar Vinciguerra y Turberas Asociadas","bounding_box":"-68.374521 , -54.772644 , -68.281091 , -54.717687","centroide":"POINT (-68.33344078703693 -54.74623176420517)"},
+{"fna":"Parque Nacional Iberá - Núcleo Cambyretá","bounding_box":"-57.047278 , -28.02528 , -56.809621 , -27.812665","centroide":"POINT (-56.92208511620569 -27.921822079938405)"},
+{"fna":"Sitio Ramsar Jaaukanigás","bounding_box":"-59.762967 , -29.503976 , -58.880822 , -27.999442","centroide":"POINT (-59.32700442549679 -28.747282588278836)"},
+{"fna":"Reserva Corazón de la Isla","bounding_box":"-68.609383 , -54.894178 , -67.306276 , -54.357426","centroide":"POINT (-68.17066235850156 -54.538159357627215)"},
+{"fna":"Parque Nacional Tierra del Fuego","bounding_box":"-68.609383 , -54.894178 , -68.351723 , -54.423777","centroide":"POINT (-68.48587520256223 -54.64140614963098)"},
+{"fna":"Reserva Provincial Isla del Cerrito","bounding_box":"-58.773628 , -27.368048 , -58.595283 , -27.215547","centroide":"POINT (-58.68231907048953 -27.294522949111776)"},
+{"fna":"Reserva Natural de la Defensa Isla El Tala","bounding_box":"-59.500436 , -29.179946 , -59.349541 , -29.089751","centroide":"POINT (-59.41680702951253 -29.136980328459515)"},
+{"fna":"Parque Nacional Pre-Delta","bounding_box":"-60.684101 , -32.180257 , -60.602105 , -32.101679","centroide":"POINT (-60.64024131941527 -32.14081870002968)"},
+{"fna":"Parque Nacional El Rey","bounding_box":"-64.768332 , -24.81676 , -64.496755 , -24.539063","centroide":"POINT (-64.62625744333174 -24.700302708899635)"},
+{"fna":"Parque Botánico Municipal Barón Carlos María Schuel","bounding_box":"-65.311837 , -24.166176 , -65.308402 , -24.15944","centroide":"POINT (-65.31021809741124 -24.163240389276314)"},
+{"fna":"Área Natural Protegida Meseta de Somuncurá","bounding_box":"-67.788869 , -41.877044 , -65.817027 , -40.723372","centroide":"POINT (-66.8668640098764 -41.29901368585495)"},
+{"fna":"Reserva de Uso Múltiple Don Carmelo","bounding_box":"-69.262277 , -31.241714 , -69.060205 , -30.871561","centroide":"POINT (-69.14108545585772 -31.080278781309445)"},
+{"fna":"Parque Nacional El Palmar","bounding_box":"-58.324163 , -31.92795 , -58.190486 , -31.826042","centroide":"POINT (-58.254904114694995 -31.882618031055983)"},
+{"fna":"Sitio Ramsar Lagunas Altoandinas y Puneñas de Catamarca","bounding_box":"-69.095264 , -27.850943 , -66.638981 , -25.913023","centroide":"POINT (-67.8631232597967 -26.842718976447184)"},
+{"fna":"Area Natural Protegida Campo de Piedra Pómez","bounding_box":"-67.914265 , -26.834725 , -67.37189 , -26.568637","centroide":"POINT (-67.63035153030746 -26.699694570638798)"},
+{"fna":"Reserva Natural Municipal Río Xibi - Xibi","bounding_box":"-65.315443 , -24.190817 , -65.291442 , -24.188483","centroide":"POINT (-65.30315675414793 -24.189602072948993)"},
+{"fna":"Reserva Municipal Natural y Cultural de Barrancas","bounding_box":"-66.09888 , -23.332316 , -66.061037 , -23.237999","centroide":"POINT (-66.08400933430674 -23.284856759984965)"},
+{"fna":"Reserva Permanente Lote 5B Carabajal","bounding_box":"-65.724636 , -25.091229 , -65.649584 , -25.021976","centroide":"POINT (-65.70151171796849 -25.05011789771603)"},
+{"fna":"Reserva Forestal Batea Mahuida","bounding_box":"-71.148578 , -38.84803 , -71.054762 , -38.81583","centroide":"POINT (-71.09250054164818 -38.82998120170387)"},
+{"fna":"Reserva Provincial Forestal y de Biósfera Ñacunán","bounding_box":"-67.975232 , -34.104961 , -67.893618 , -33.94238","centroide":"POINT (-67.93494228172833 -34.02324805722311)"},
+{"fna":"Parque Natural Ischigualasto","bounding_box":"-68.151686 , -30.254517 , -67.764199 , -29.902748","centroide":"POINT (-67.97364616852795 -30.08963775987304)"},
+{"fna":"Monumento Natural Provincial Cerro Alcázar","bounding_box":"-69.400496 , -31.482971 , -69.388757 , -31.473982","centroide":"POINT (-69.39464232761274 -31.4786212176928)"},
+{"fna":"Paisaje Protegido Pedernal","bounding_box":"-68.89352 , -32.12441 , -68.705057 , -31.948334","centroide":"POINT (-68.8079528670864 -32.00935576481022)"},
+{"fna":"Área Natural Protegida La Ciénaga","bounding_box":"-68.648116 , -30.220117 , -68.529942 , -30.05604","centroide":"POINT (-68.58032199426138 -30.138781391966955)"},
+{"fna":"Área Natural Protegida Provincial del Sistema Domuyo","bounding_box":"-70.673514 , -36.827472 , -70.206635 , -36.47949","centroide":"POINT (-70.46202601391266 -36.64694151304388)"},
+{"fna":"Parque Provincial Volcán Tupungato","bounding_box":"-70.093762 , -33.369703 , -69.447795 , -32.85176","centroide":"POINT (-69.81574905244092 -33.11219413914663)"},
+{"fna":"Parque Provincial Copahue - Caviahue","bounding_box":"-71.183223 , -37.906366 , -70.914121 , -37.771228","centroide":"POINT (-71.03022753351345 -37.83626490795502)"},
+{"fna":"Reserva Provincial de Flora y Fauna Los Palmares","bounding_box":"-63.585761 , -24.267899 , -63.428444 , -24.118404","centroide":"POINT (-63.50541305278381 -24.17690140028405)"},
+{"fna":"Reserva Provincial de Uso Múltiple Auca Mahuida","bounding_box":"-69.195913 , -37.990332 , -68.744407 , -37.529955","centroide":"POINT (-68.9769935419608 -37.753126482945966)"},
+{"fna":"Área Natural Protegida Cuchillo - Curá","bounding_box":"-70.406239 , -38.618423 , -70.369431 , -38.60628","centroide":"POINT (-70.3889741671236 -38.61259196427982)"},
+{"fna":"Reserva Natural Turística de Objetivo Específico Bosque Petrificado Sarmiento","bounding_box":"-69.081632 , -45.838764 , -68.996633 , -45.80259","centroide":"POINT (-69.04046214916812 -45.820542879365306)"},
+{"fna":"Reserva Natural Turística Piedra Parada","bounding_box":"-70.110351 , -42.666097 , -70.087763 , -42.630192","centroide":"POINT (-70.10156508873136 -42.6514155006607)"},
+{"fna":"Reserva Provincial de Paisaje Protegido Castillos de Pincheira","bounding_box":"-69.803956 , -35.535628 , -69.7821 , -35.5087","centroide":"POINT (-69.7921401004065 -35.52449664361048)"},
+{"fna":"Reserva Provincial Faunística y Florística Telteca","bounding_box":"-68.150149 , -32.481395 , -67.889677 , -32.290223","centroide":"POINT (-68.00321553568158 -32.39119830347417)"},
+{"fna":"Reserva Provincial Forestal y de Biósfera Ñacunán (Lote 11)","bounding_box":"-67.216165 , -33.596049 , -67.040654 , -33.517854","centroide":"POINT (-67.13322130339903 -33.5500980174324)"},
+{"fna":"Reserva Provincial Forestal y de Biósfera Ñacunán (Lote 9)","bounding_box":"-67.838788 , -33.792057 , -67.706841 , -33.674949","centroide":"POINT (-67.77345275379268 -33.73273330818063)"},
+{"fna":"Reserva de Uso Múltiple Sierra Pintada","bounding_box":"-67.367986 , -34.844518 , -67.287739 , -34.751872","centroide":"POINT (-67.333271717726 -34.80333075091484)"},
+{"fna":"Parque Provincial Presidente Sarmiento","bounding_box":"-68.732902 , -31.56353 , -68.682983 , -31.523211","centroide":"POINT (-68.7079918489944 -31.545290931389196)"},
+{"fna":"Reserva Natural Turística y de Investigación Punta Marqués","bounding_box":"-67.552204 , -45.961492 , -67.531219 , -45.951305","centroide":"POINT (-67.54347732991026 -45.957979809474345)"},
+{"fna":"Parque Natural y Paisaje Protegido Afloramientos Limo arcillosos","bounding_box":"-68.727526 , -31.462924 , -68.65315 , -31.432589","centroide":"POINT (-68.68895321265083 -31.44769167242283)"},
+{"fna":"Parque Natural y Paisaje Protegido Loma de las Tapias","bounding_box":"-68.656871 , -31.500172 , -68.567785 , -31.406477","centroide":"POINT (-68.61783866701067 -31.454915144285323)"},
+{"fna":"Reserva Provincial Lagunas de Epulafquen","bounding_box":"-71.180011 , -36.930932 , -70.956634 , -36.67696","centroide":"POINT (-71.06468969157143 -36.81069954006969)"},
+{"fna":"Parque Nacional Talampaya","bounding_box":"-68.275889 , -30.214779 , -67.658666 , -29.566781","centroide":"POINT (-67.87820700677895 -29.854815511288713)"},
+{"fna":"Parque Nacional El Leoncito","bounding_box":"-69.413218 , -32.091125 , -69.101361 , -31.714809","centroide":"POINT (-69.26494596241054 -31.889377290811172)"},
+{"fna":"Parque Nacional Los Cardones","bounding_box":"-66.046207 , -25.531389 , -65.816204 , -25.063384","centroide":"POINT (-65.9315005285239 -25.27825787334756)"},
+{"fna":"Reserva Paisajística Natural y Cultural Protegida El Manzano Histórico","bounding_box":"-69.4104 , -33.616959 , -69.343201 , -33.592066","centroide":"POINT (-69.38221739960863 -33.603743771597074)"},
+{"fna":"Monumento Natural Puente del Inca","bounding_box":"-69.9255 , -32.8538 , -69.896429 , -32.823142","centroide":"POINT (-69.91134757372727 -32.838509011527776)"},
+{"fna":"Reserva de Recursos y Reserva Hídrica Natural Lagunas del Atuel","bounding_box":"-70.309497 , -34.9188 , -69.843 , -34.448601","centroide":"POINT (-70.05019321520251 -34.68899792016434)"},
+{"fna":"Refugio de Vida Silvestre Dragones","bounding_box":"-63.30718 , -23.454327 , -63.268493 , -23.28262","centroide":"POINT (-63.28784788632651 -23.373376260629282)"},
+{"fna":"Reserva Natural Manejada de la Quebrada de Cafayate","bounding_box":"-65.92737 , -26.140697 , -65.612707 , -25.588447","centroide":"POINT (-65.7296748575511 -25.879088035780484)"},
+{"fna":"Monumento Natural de Angastaco","bounding_box":"-66.211591 , -25.820871 , -66.075061 , -25.611058","centroide":"POINT (-66.13549157969011 -25.72335929928984)"},
+{"fna":"Reserva Natural Provincial Las Lancitas","bounding_box":"-64.456303 , -24.181722 , -64.311696 , -24.04693","centroide":"POINT (-64.388122292592 -24.113677328150022)"},
+{"fna":"Área Provincial Natural Protegida La Payunia","bounding_box":"-69.649567 , -37.194647 , -68.250034 , -36.001097","centroide":"POINT (-68.91140940594703 -36.482974956818985)"},
+{"fna":"Reserva Provincial Fáunica Laguna de Llancanelo","bounding_box":"-69.3458 , -35.924221 , -69.031715 , -35.399884","centroide":"POINT (-69.14700122365137 -35.61935810285346)"},
+{"fna":"Reserva Privada Inversora Juramento","bounding_box":"-63.877189 , -25.301955 , -63.568078 , -24.999745","centroide":"POINT (-63.75146872610799 -25.114720230172686)"},
+{"fna":"Paisaje Protegido Dique Quebrada de Ullum","bounding_box":"-68.776585 , -31.47494 , -68.745589 , -31.448022","centroide":"POINT (-68.76039343524938 -31.45882966970686)"},
+{"fna":"Reserva Pública Bosques Protectores","bounding_box":"-65.401346 , -24.799729 , -65.335402 , -24.743196","centroide":"POINT (-65.37288358939702 -24.772472994908576)"},
+{"fna":"Reserva Provincial de Flora y Fauna Acambuco","bounding_box":"-63.944938 , -22.209135 , -63.870024 , -22.108499","centroide":"POINT (-63.9073779350906 -22.158887588082198)"},
+{"fna":"Reserva de Uso Múltiple El Mangrullo","bounding_box":"-69.190548 , -39.467235 , -68.924442 , -39.383171","centroide":"POINT (-69.07344213562446 -39.42497777452125)"},
+{"fna":"Reserva Forestal Chañy","bounding_box":"-71.300164 , -39.013071 , -71.165413 , -38.919197","centroide":"POINT (-71.23143966512214 -38.967276654841385)"},
+{"fna":"Sitio Ramsar Laguna de Llancanelo","bounding_box":"-69.26319 , -35.74857 , -69.047072 , -35.503097","centroide":"POINT (-69.14960035699302 -35.623545506178615)"},
+{"fna":"Reserva Natural de Uso Múltiple Fracciones 50 y 51 del Lote Fiscal 3","bounding_box":"-64.120761 , -22.405088 , -64.008097 , -22.333998","centroide":"POINT (-64.06294917152296 -22.369700026579817)"},
+{"fna":"Reserva Natural Privada Garrapata","bounding_box":"-64.822705 , -24.754825 , -64.753457 , -24.627321","centroide":"POINT (-64.78496369882372 -24.677587806468885)"},
+{"fna":"Reserva de Fauna y Flora silvestre Lotes 32 y 33 porcion W","bounding_box":"-64.133974 , -24.276344 , -63.877256 , -24.165866","centroide":"POINT (-64.00304166191597 -24.215420726238268)"},
+{"fna":"Sitio Ramsar Lagunas de Vilama","bounding_box":"-67.02725 , -22.866967 , -66.57321 , -22.436495","centroide":"POINT (-66.80119529969073 -22.65951626560575)"},
+{"fna":"Reserva de Biósfera Laguna de los Pozuelos","bounding_box":"-66.352984 , -22.830071 , -65.755354 , -21.814878","centroide":"POINT (-66.05524439464924 -22.33759722851778)"},
+{"fna":"Reserva de Biósfera de las Yungas","bounding_box":"-65.578925 , -24.224083 , -64.217346 , -22.186224","centroide":"POINT (-64.79467608459089 -23.143085171493926)"},
+{"fna":"Parque Nacional Calilegua","bounding_box":"-65.034622 , -23.937665 , -64.551273 , -23.452293","centroide":"POINT (-64.80334029240989 -23.66110359762715)"},
+{"fna":"Parque Provincial Laguna Pintascayo","bounding_box":"-64.570328 , -22.914167 , -64.444012 , -22.681581","centroide":"POINT (-64.49097138793164 -22.78541039356056)"},
+{"fna":"Reserva Provincial Altoandina de la Chinchilla","bounding_box":"-67.213047 , -23.853854 , -66.610192 , -22.436495","centroide":"POINT (-66.97485968518464 -23.07212194268659)"},
+{"fna":"Monumento Natural del Abra del Acay","bounding_box":"-66.321235 , -24.872397 , -66.120348 , -24.536596","centroide":"POINT (-66.24643012824099 -24.67576289042548)"},
+{"fna":"Patrimonio Mundial Cultural de la Humanidad Quebrada de Humahuaca","bounding_box":"-65.745042 , -24.025954 , -65.04502 , -22.604747","centroide":"POINT (-65.43573267576349 -23.27797821855983)"},
+{"fna":"Parque Provincial Potrero de Yala","bounding_box":"-65.493724 , -24.14149 , -65.406517 , -24.082146","centroide":"POINT (-65.44778384519871 -24.113614466166975)"},
+{"fna":"Área Natural Protegida Río Azul - Lago Escondido","bounding_box":"-71.865885 , -41.999931 , -71.514565 , -41.627055","centroide":"POINT (-71.67596910195194 -41.81421507063779)"},
+{"fna":"Refugio Privado de Vida Silvestre Los Morrillos","bounding_box":"-69.892876 , -31.813641 , -69.553885 , -31.665182","centroide":"POINT (-69.72298762718773 -31.734848415013367)"},
+{"fna":"Área Natural Protegida Provincial Los Diques","bounding_box":"-65.371713 , -24.502338 , -65.18804 , -24.371737","centroide":"POINT (-65.282627707702 -24.43327382434505)"},
+{"fna":"Reserva Natural de Uso Múltiple Finca Las Costas","bounding_box":"-65.598702 , -24.817941 , -65.454872 , -24.691666","centroide":"POINT (-65.55006873056176 -24.75794788238156)"},
+{"fna":"Parque Natural Valle Fértil","bounding_box":"-68.007021 , -31.756672 , -67.209122 , -30.501506","centroide":"POINT (-67.67452813593843 -31.09990656288284)"},
+{"fna":"Reserva Natural Provincial Divisadero Largo","bounding_box":"-68.952887 , -32.885766 , -68.887572 , -32.872431","centroide":"POINT (-68.92345767267915 -32.87910418564822)"},
+{"fna":"Parque Provincial Cordon del Plata","bounding_box":"-69.774315 , -33.35317 , -69.301466 , -32.676852","centroide":"POINT (-69.5158411347425 -32.98658435521934)"},
+{"fna":"Reserva Provincial Hídrica Natural y de Paisaje Protegido Laguna del Diamante","bounding_box":"-69.909598 , -34.411353 , -69.241841 , -33.930925","centroide":"POINT (-69.53377434792093 -34.1918429551699)"},
+{"fna":"Reserva Natural Turística de Objetivo Específico Laguna Aleusco","bounding_box":"-70.473819 , -43.169407 , -70.415413 , -43.137651","centroide":"POINT (-70.4444787358631 -43.15172190679076)"},
+{"fna":"Paisaje Protegido Valle Cretacico","bounding_box":"-68.828574 , -39.782612 , -68.189052 , -38.969528","centroide":"POINT (-68.57809524461524 -39.39799620591406)"},
+{"fna":"Reserva Nacional Pizarro","bounding_box":"-64.175397 , -24.239114 , -63.920675 , -24.154824","centroide":"POINT (-64.07074481458353 -24.18607418994154)"},
+{"fna":"Reserva Forestal de Uso Múltiple Lago Epuyén","bounding_box":"-71.596664 , -42.263415 , -71.418031 , -42.091812","centroide":"POINT (-71.50856911763884 -42.18215094869787)"},
+{"fna":"Reserva de Uso Múltiple Lotes 1703-1704-4325-4326-4336-19866","bounding_box":"-64.033376 , -22.276913 , -63.777692 , -21.999416","centroide":"POINT (-63.881902762052405 -22.14021410209115)"},
+{"fna":"Parque Nacional Baritú","bounding_box":"-64.763973 , -22.753531 , -64.484321 , -22.417901","centroide":"POINT (-64.64331073839703 -22.58176199578168)"},
+{"fna":"Reserva Ecológica Municipal de Uso Múltiple Serranías del Zapla","bounding_box":"-65.240761 , -24.361659 , -65.021282 , -24.014425","centroide":"POINT (-65.12112134213524 -24.166164625568403)"},
+{"fna":"Monumento Natural Provincial Laguna Leandro","bounding_box":"-65.254848 , -23.031016 , -65.245916 , -23.021998","centroide":"POINT (-65.25061606369296 -23.026196089521513)"},
+{"fna":"Sitio Ramsar Lagunas de Guanacache, Desaguadero y del Bebedero","bounding_box":"-68.709886 , -34.088523 , -66.494081 , -31.999509","centroide":"POINT (-67.5360164336382 -32.63644057676937)"},
+{"fna":"Reserva Nacional Lanín","bounding_box":"-71.831132 , -40.665809 , -71.132665 , -39.212956","centroide":"POINT (-71.42764962616076 -40.0856537034068)"},
+{"fna":"Parque Nacional Los Arrayanes","bounding_box":"-71.66338 , -40.866616 , -71.595095 , -40.783487","centroide":"POINT (-71.62870246750673 -40.829433489744154)"},
+{"fna":"Área Natural Protegida Boca del Chimehuín","bounding_box":"-71.244157 , -39.90057 , -71.133655 , -39.790987","centroide":"POINT (-71.18568870967118 -39.83250640726903)"},
+{"fna":"Paisaje Protegido Río Limay","bounding_box":"-71.165826 , -41.068473 , -70.991081 , -40.730737","centroide":"POINT (-71.0644845014233 -40.921274168718675)"},
+{"fna":"Reserva Provincial Lago Baggilt","bounding_box":"-71.745708 , -43.283812 , -71.65387 , -43.250512","centroide":"POINT (-71.69716757364937 -43.26873135161153)"},
+{"fna":"Reserva Natural Turística Nant y Fall (Arroyo Las Caídas)","bounding_box":"-71.507349 , -43.197739 , -71.468209 , -43.168556","centroide":"POINT (-71.48765586966132 -43.18302856327052)"},
+{"fna":"Parque Nacional Sierra de las Quijadas","bounding_box":"-67.310369 , -32.72108 , -66.956392 , -32.411862","centroide":"POINT (-67.14037165794244 -32.55522742420017)"},
+{"fna":"Reserva de Biósfera Andino Norpatagónica","bounding_box":"-72.188262 , -43.482036 , -70.887891 , -39.111397","centroide":"POINT (-71.52816923069624 -41.42883851186913)"},
+{"fna":"Área Natural Protegida Cipresal de las Guaitecas","bounding_box":"-71.447189 , -41.787549 , -71.369046 , -41.67198","centroide":"POINT (-71.4093786063157 -41.73265401394392)"},
+{"fna":"Parque Provincial y Reserva Forestal Río Turbio","bounding_box":"-72.129411 , -42.392132 , -71.630428 , -42.135905","centroide":"POINT (-71.9026931763892 -42.27413305079259)"},
+{"fna":"Parque Nacional Lanín","bounding_box":"-71.717589 , -40.034389 , -71.182078 , -39.111397","centroide":"POINT (-71.43250913337549 -39.640313670156324)"},
+{"fna":"Parque Provincial Azul","bounding_box":"-71.810365 , -41.744526 , -71.650952 , -41.651041","centroide":"POINT (-71.730869712785 -41.708303831129086)"},
+{"fna":"Itinerario Cultural Qhapaq Ñan - Sistema Vial Andino","bounding_box":"-64.97833 , -23.378512 , -64.969757 , -23.363991","centroide":"POINT (-64.97522168167268 -23.372505251928015)"},
+{"fna":"Refugio Privado de Vida Silvestre La Aurora del Palmar","bounding_box":"-58.405834 , -31.859512 , -58.315013 , -31.799985","centroide":"POINT (-58.348665916776994 -31.825388275714456)"},
+{"fna":"Reserva de Biósfera Parque Costero del Sur","bounding_box":"-57.468689 , -35.606173 , -57.127665 , -35.080184","centroide":"POINT (-57.263423113654866 -35.34262046982872)"},
+{"fna":"Sitio RAMSAR y Parque Nacional Río Pilcomayo","bounding_box":"-58.320295 , -25.179142 , -57.966655 , -24.925964","centroide":"POINT (-58.13700121884891 -25.066240402559163)"},
+{"fna":"Sitio RAMSAR y Reserva Natural Privada Villavicencio","bounding_box":"-69.162217 , -32.720726 , -68.807259 , -32.429342","centroide":"POINT (-69.01607039451129 -32.58578490590844)"},
+{"fna":"Sitios Ramsar Lagunas y Esteros del Iberá","bounding_box":"-57.229415 , -28.596831 , -57.087452 , -28.450595","centroide":"POINT (-57.15870477403921 -28.523753306357793)"},
+{"fna":"Monumento Natural Isla Palacios","bounding_box":"-54.417357 , -25.901776 , -54.401803 , -25.886155","centroide":"POINT (-54.41055966316199 -25.89279231597592)"},
+{"fna":"Sitio Ramsar Bahia Samborombon","bounding_box":"-57.461115 , -36.527416 , -56.706452 , -35.422479","centroide":"POINT (-57.18950965250072 -36.25178886850602)"},
+{"fna":"Parque Provincial Moconá","bounding_box":"-53.925453 , -27.174902 , -53.888733 , -27.13454","centroide":"POINT (-53.90647541822308 -27.15645944412471)"},
+{"fna":"Parque Nacional Aconquija","bounding_box":"-66.14082 , -27.706421 , -65.677922 , -26.931129","centroide":"POINT (-65.89684167361946 -27.353010264811736)"},
+{"fna":"Reserva Nacional El Nogalar de los Toldos","bounding_box":"-64.796811 , -22.294541 , -64.701917 , -22.232752","centroide":"POINT (-64.75309378129144 -22.265811779798405)"},
+{"fna":"Reserva Natural Provincial Integral y de Objetivo Definido Rincón de Ajó","bounding_box":"-57.019074 , -36.35704 , -56.946151 , -36.326529","centroide":"POINT (-56.985949315549696 -36.341911326650994)"},
+{"fna":"Reserva Nacional Iberá-Núcleo Carambola","bounding_box":"-57.835994 , -28.486761 , -57.657266 , -28.34965","centroide":"POINT (-57.7453776528789 -28.42301013187326)"},
+{"fna":"Parque Nacional y Reserva de Uso Múltiple Copo","bounding_box":"-62.240471 , -26.176052 , -61.711134 , -25.652926","centroide":"POINT (-61.98012758684013 -25.849702304865776)"},
+{"fna":"Reserva Provincial Isla Monte Leon","bounding_box":"-68.911604 , -50.363451 , -68.874966 , -50.331569","centroide":"POINT (-68.89277046356173 -50.348640122034894)"},
+{"fna":"Parque Nacional Campos del Tuyú","bounding_box":"-56.919737 , -36.387281 , -56.824138 , -36.328691","centroide":"POINT (-56.87699064085858 -36.354561567062916)"},
+{"fna":"Parque Nacional Ciervo de los Pantanos","bounding_box":"-58.920014 , -34.293521 , -58.780644 , -34.180315","centroide":"POINT (-58.865139486255636 -34.237600266457285)"},
+{"fna":"Reserva de Biósfera Delta del Paraná","bounding_box":"-58.804998 , -34.324787 , -58.336741 , -34.001892","centroide":"POINT (-58.539149444720806 -34.14758551717084)"},
+{"fna":"Reserva de Uso Múltiple Islas de Victoria","bounding_box":"-60.725894 , -33.283924 , -59.766084 , -32.43229","centroide":"POINT (-60.28982693445104 -32.90446436366456)"},
+{"fna":"Sitios RAMSAR Reserva Natural Otamendi","bounding_box":"-58.908016 , -34.293521 , -58.812036 , -34.180315","centroide":"POINT (-58.87795584548179 -34.23350424012071)"},
+{"fna":"Sitio RAMSAR y Reserva Ecológica Costanera Sur","bounding_box":"-58.363129 , -34.619007 , -58.33977 , -34.594932","centroide":"POINT (-58.351958673701844 -34.60782950030003)"},
+{"fna":"Sitio RAMSAR y Parque Provincial del Tromen","bounding_box":"-70.16564 , -37.240868 , -69.936506 , -37.059068","centroide":"POINT (-70.06939590518991 -37.13549220183625)"},
+{"fna":"Parque y Reserva Natural Provincial Iberá","bounding_box":"-58.554953 , -28.996101 , -56.441412 , -27.553558","centroide":"POINT (-57.3279854999811 -28.25193995497829)"},
+{"fna":"Sitio RAMSAR, Parque y Reserva Nacional Laguna Blanca","bounding_box":"-70.444227 , -39.104398 , -70.262207 , -38.9599","centroide":"POINT (-70.35321383870404 -39.03214067132397)"},
+{"fna":"Reserva de la Biósfera y Reserva Natural Laguna Blanca","bounding_box":"-67.295122 , -26.951048 , -66.449533 , -25.56599","centroide":"POINT (-66.87671914515346 -26.400640242704736)"},
+{"fna":"Sitio RAMSAR y Refugio ProvincialLaguna Brava","bounding_box":"-69.634973 , -28.860613 , -68.707722 , -28.060947","centroide":"POINT (-69.0889070741683 -28.40262888877255)"},
+{"fna":"Sitio RAMSAR y Monumento Natural Laguna de los Pozuelos","bounding_box":"-66.062093 , -22.474272 , -65.93889 , -22.210488","centroide":"POINT (-66.00192851454595 -22.34172594896764)"},
+{"fna":"Parque y Reserva Nacional Los Alerces","bounding_box":"-72.179903 , -43.129048 , -71.594189 , -42.556126","centroide":"POINT (-71.89813977894072 -42.80560757071473)"},
+{"fna":"Parque y Reserva Provincial Península de Magallanes","bounding_box":"-73.041159 , -50.559954 , -72.662999 , -50.267361","centroide":"POINT (-72.85431075823558 -50.40480085841832)"},
+{"fna":"Reserva Natural Provincial Integral Punta Lara","bounding_box":"-58.128911 , -34.841508 , -57.998902 , -34.763019","centroide":"POINT (-58.06628565221586 -34.799836111318314)"},
+{"fna":"Parque y Reserva Nacional Iberá-Rincón del Socorro\/Iberá","bounding_box":"-57.48205 , -28.72571 , -57.181653 , -28.548436","centroide":"POINT (-57.31099733198494 -28.651205104313018)"},
+{"fna":"Área de Uso Limitado Bajo Protección Especial Isla Leones","bounding_box":"-68.513184 , -50.064097 , -68.466596 , -50.02211","centroide":"POINT (-68.49192575204034 -50.04406126499864)"},
+{"fna":"Reserva Natural Provincial de Uso Múltiple Mar Chiquita","bounding_box":"-57.433373 , -37.745207 , -57.195848 , -37.544409","centroide":"POINT (-57.33589779102979 -37.62984273718981)"},
+{"fna":"Refugio de Vida Silvestre Mar Chiquita","bounding_box":"-57.595419 , -37.745696 , -57.187586 , -37.419376","centroide":"POINT (-57.391335964027014 -37.582162553922146)"},
+{"fna":"Parque Nacional San Guillermo","bounding_box":"-69.467808 , -29.558066 , -69.07681 , -28.957186","centroide":"POINT (-69.2653225953377 -29.238317965210683)"},
+{"fna":"Parque Provincial Aconcagua","bounding_box":"-70.1018 , -32.824219 , -69.748073 , -32.528922","centroide":"POINT (-69.93306309543357 -32.68159614393141)"},
+{"fna":"Reserva Natural de la Defensa Mar Chiquita - Dragones de Malvinas","bounding_box":"-57.429423 , -37.743156 , -57.374767 , -37.682442","centroide":"POINT (-57.4061676644753 -37.70912107506537)"},
+{"fna":"Reserva de Biósfera Parque Atlántico Mar Chiquita","bounding_box":"-57.45687 , -37.76979 , -57.187524 , -37.475626","centroide":"POINT (-57.33200905132767 -37.60760099385963)"},
+{"fna":"Reserva Provincial Cabo Vírgenes","bounding_box":"-68.436313 , -52.39769 , -68.351364 , -52.296963","centroide":"POINT (-68.3954151932133 -52.337853663763084)"},
+{"fna":"Área de Uso Científico Bajo Protección Especial Isla Deseada","bounding_box":"-69.033727 , -51.580372 , -69.024333 , -51.574069","centroide":"POINT (-69.02917223544766 -51.57745469772913)"},
+{"fna":"Reserva Natural de la Defensa Uspallata","bounding_box":"-69.848768 , -32.866341 , -69.61246 , -32.303856","centroide":"POINT (-69.73040540480923 -32.571109871991126)"},
+{"fna":"Sitios RAMSAR y Reserva Provincial de Uso Múltiple Bañados del Río Dulce y Laguna de Mar Chiquita","bounding_box":"-63.471927 , -30.992315 , -62.167156 , -29.766502","centroide":"POINT (-62.844780232312054 -30.40900122675723)"},
+{"fna":"Parque Nacional Ansenuza","bounding_box":"-63.043861 , -30.852472 , -62.217556 , -30.546101","centroide":"POINT (-62.56331958577526 -30.710559740171973)"},
+{"fna":"Reserva Natural Silvestre Parque Federal Campo San Juan","bounding_box":"-55.712904 , -27.441802 , -55.593254 , -27.352184","centroide":"POINT (-55.64754347992194 -27.398056625471668)"},
+{"fna":"Parque Nacional Islote Lobos","bounding_box":"-65.099866 , -41.62047 , -64.936826 , -41.374835","centroide":"POINT (-65.00816854666449 -41.4909099787426)"},
+{"fna":"Parque Nacional Laguna El Palmar","bounding_box":"-58.719699 , -27.23629 , -58.613105 , -27.124818","centroide":"POINT (-58.672823777700046 -27.184430652293642)"},
+{"fna":"Reserva Nacional  Ansenuza","bounding_box":"-63.420669 , -30.69701 , -62.174168 , -30.043859","centroide":"POINT (-62.827972448588206 -30.41254565896371)"},
+{"fna":"Reserva Natural de la Defensa Manantiales","bounding_box":"-70.388267 , -32.62636 , -69.592531 , -31.863403","centroide":"POINT (-69.97680960587655 -32.22378196411254)"},
 {"fna":"Reserva Natural de la Defensa Manantiales","bounding_box":"-70.388267 , -32.62636 , -69.592531 , -31.863403","centroide":"POINT (-69.97680960587655 -32.22378196411254)"}
-{"fna":"Reserva Natural de la Defensa Manantiales","bounding_box":"-70.388267 , -32.62636 , -69.592531 , -31.863403","centroide":"POINT (-69.97680960587655 -32.22378196411254)"}
+]
