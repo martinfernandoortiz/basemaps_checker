@@ -1,0 +1,26 @@
+[
+{"fna":"Ciudad Autónoma de Buenos Aires","bounding_box":"-58.531512 , -34.705412 , -58.335146 , -34.526526","centroide":"POINT (-58.44587624127031 -34.61444207395721)"}
+{"fna":"Provincia del Neuquén","bounding_box":"-71.965686 , -41.100586 , -67.998088 , -36.109908","centroide":"POINT (-70.11989725973304 -38.64198286047888)"}
+{"fna":"Provincia de San Luis","bounding_box":"-67.383793 , -36.001175 , -64.882699 , -31.833805","centroide":"POINT (-66.02523131664628 -33.761103470151745)"}
+{"fna":"Provincia de Santa Fe","bounding_box":"-62.883909 , -34.38655 , -58.880822 , -27.997684","centroide":"POINT (-60.95068725780288 -30.70882262942192)"}
+{"fna":"Provincia de La Rioja","bounding_box":"-69.634973 , -31.998398 , -65.422985 , -27.707115","centroide":"POINT (-67.18175756077623 -29.684937267321956)"}
+{"fna":"Provincia de Catamarca","bounding_box":"-69.095264 , -30.119602 , -64.780965 , -25.168313","centroide":"POINT (-66.94789724046429 -27.335953708327864)"}
+{"fna":"Provincia de Tucumán","bounding_box":"-66.176932 , -28.014123 , -64.481788 , -26.058288","centroide":"POINT (-65.36476557502873 -26.94828347609152)"}
+{"fna":"Provincia del Chaco","bounding_box":"-63.422412 , -28.066825 , -58.378236 , -24.078676","centroide":"POINT (-60.76511627933282 -26.38698720254614)"}
+{"fna":"Provincia de Formosa","bounding_box":"-62.342345 , -26.879842 , -57.559388 , -22.460941","centroide":"POINT (-59.93219016033881 -24.89508714722531)"}
+{"fna":"Provincia de Santa Cruz","bounding_box":"-73.566589 , -52.39769 , -65.710693 , -45.999872","centroide":"POINT (-69.95576189900363 -48.81554713810909)"}
+{"fna":"Provincia del Chubut","bounding_box":"-72.188262 , -46.0 , -63.582803 , -41.999988","centroide":"POINT (-68.52673632197865 -43.78862713246819)"}
+{"fna":"Provincia de Mendoza","bounding_box":"-70.583686 , -37.575251 , -66.477995 , -31.999385","centroide":"POINT (-68.58294560070044 -34.63038870392102)"}
+{"fna":"Provincia de Entre Ríos","bounding_box":"-60.776184 , -34.039775 , -57.797397 , -30.158971","centroide":"POINT (-59.20126263235678 -32.058927892678156)"}
+{"fna":"Provincia de San Juan","bounding_box":"-70.569292 , -32.62636 , -66.661788 , -28.388752","centroide":"POINT (-68.8881597438686 -30.865660666320498)"}
+{"fna":"Provincia de Jujuy","bounding_box":"-67.213047 , -24.613357 , -64.15077 , -21.780857","centroide":"POINT (-65.7644239171634 -23.319975086050054)"}
+{"fna":"Provincia de Santiago del Estero","bounding_box":"-65.188325 , -30.480433 , -61.711768 , -25.649095","centroide":"POINT (-63.252626896203395 -27.783431922455527)"}
+{"fna":"Provincia de Río Negro","bounding_box":"-71.91208 , -42.000001 , -62.789667 , -37.571931","centroide":"POINT (-67.22967583275863 -40.40507965036345)"}
+{"fna":"Provincia de Corrientes","bounding_box":"-59.712013 , -30.730192 , -55.620237 , -27.253966","centroide":"POINT (-57.80108186591772 -28.774204470109616)"}
+{"fna":"Provincia de Misiones","bounding_box":"-56.058644 , -28.164223 , -53.637383 , -25.494315","centroide":"POINT (-54.651570571221896 -26.875302594375608)"}
+{"fna":"Provincia de Salta","bounding_box":"-68.568759 , -26.416799 , -62.341411 , -21.998768","centroide":"POINT (-64.81415862972582 -24.29928388384906)"}
+{"fna":"Provincia de Córdoba","bounding_box":"-65.77146 , -35.01533 , -61.771552 , -29.498674","centroide":"POINT (-63.80197347239789 -32.1447994133806)"}
+{"fna":"Provincia de Buenos Aires","bounding_box":"-63.38594 , -41.037914 , -56.664991 , -33.26185","centroide":"POINT (-60.55847712424958 -36.6773920625195)"}
+{"fna":"Provincia de La Pampa","bounding_box":"-68.296608 , -39.330453 , -63.383052 , -35.002218","centroide":"POINT (-65.44764396749811 -37.135065197382794)"}
+{"fna":"Provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur","bounding_box":"-74.0 , -90.0 , -25.0 , -50.996547","centroide":"POINT (-50.74286067646475 -82.52113452118166)"}
+]
